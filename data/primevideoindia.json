@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "10:03:13 PM 23-10-2026",
-  "total_matches": 34,
-  "live_matches": 4,
+  "last_updated": "10:45:07 PM 23-10-2026",
+  "total_matches": 33,
+  "live_matches": 3,
   "upcoming_matches": 30,
   "live": [
     {
@@ -60,69 +60,6 @@
               "kty": "oct",
               "kid": "PAW2B_L914RFGVMeQVsEuw",
               "k": "wqOSRg75knnoxWzKPixPkA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5",
-      "title": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026",
-      "eventTitle": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026",
-          "eventTitle": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026",
-          "eventId": "amzn1.dv.gti.a580cff6-33ab-462b-bb4a-9e8f64e57adc",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {
-          "date": "Oct 23, 2026",
-          "time": "10:20 AM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/BOXART-16X9/en-US.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/HERO-16X9/en-US.jpeg"
-      },
-      "providerLogoInfo": {},
-      "playback_details": {
-        "keys_extracted_time": "07:43:46 PM 23-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/t5ni0sc6l4/out/v1/3ca52377f0e04c909dcc8c09e9746c13/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "f8492fc55de53452215fdc479aa84159:6c11faff452355ce3a70c7d8aa358c57",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "-EkvxV3lNFIhX9xHmqhBWQ",
-              "k": "bBH6_0UjVc46cMfYqjWMVw"
             },
             {
               "kty": "oct",
@@ -211,9 +148,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
+          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
         },
         "liveEventDateTime": {
           "date": "Oct 23, 2026",
@@ -226,9 +163,9 @@
       },
       "liveSchedule": {},
       "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
+        "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
         "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
+        "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
       },
       "providerLogoInfo": {},
       "playback_details": {
