@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:13:53 PM 23-10-2026",
-  "total_matches": 35,
+  "last_updated": "07:26:03 PM 23-10-2026",
+  "total_matches": 36,
   "live_matches": 4,
-  "upcoming_matches": 31,
+  "upcoming_matches": 32,
   "live": [
     {
       "titleId": "amzn1.dv.gti.4deaa3c3-fafd-431b-93a1-37c5a287625a",
@@ -43,11 +43,11 @@
       },
       "providerLogoInfo": {},
       "playback_details": {
-        "keys_extracted_time": "05:14:16 PM 23-10-2026",
-        "successful_cdn_urls": [
+        "keys_extracted_time": "07:24:10 PM 23-10-2026",
+        "playback_url": [
           {
             "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/0nauc1dydj/out/v1/3deeab92ba2c43faa86818c5a964295c/cenc.mpd"
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/yyhtup3lwf/out/v1/d516cd2dde8544c996cd71d9b262898b/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -106,8 +106,8 @@
       },
       "providerLogoInfo": {},
       "playback_details": {
-        "keys_extracted_time": "05:14:17 PM 23-10-2026",
-        "successful_cdn_urls": [
+        "keys_extracted_time": "07:24:12 PM 23-10-2026",
+        "playback_url": [
           {
             "cdn": "Fastly",
             "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/t5ni0sc6l4/out/v1/3ca52377f0e04c909dcc8c09e9746c13/cenc.mpd"
@@ -169,7 +169,7 @@
       },
       "providerLogoInfo": {},
       "playback_details": {
-        "keys_extracted_time": "06:51:24 PM 23-10-2026",
+        "keys_extracted_time": "07:24:13 PM 23-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
@@ -418,6 +418,27 @@
       "images": {
         "cover": {
           "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
+        "logoScalarHorizontal": "emphasis"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
+      "title": "1st Unofficial Test - Day 2 - 25 Oct 2026",
+      "eventTitle": "1st Unofficial Test - Day 2 - 25 Oct 2026",
+      "liveInfo": {
+        "status": "UPCOMING",
+        "timeBadge": "Sun, Oct 25 3:30 AM IST"
+      },
+      "liveSchedule": {},
+      "synopsis": "Watch all the action from the Day 2 of 1st Unofficial Test of the India Tour of New Zealand 2026, LIVE on Sony LIV.",
+      "titleAttributes": {},
+      "images": {
+        "cover": {
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
