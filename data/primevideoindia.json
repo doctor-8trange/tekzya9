@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "06:57:15 PM 23-10-2026",
-  "total_matches": 36,
+  "last_updated": "07:06:00 PM 23-10-2026",
+  "total_matches": 35,
   "live_matches": 4,
-  "upcoming_matches": 32,
+  "upcoming_matches": 31,
   "live": [
     {
       "titleId": "amzn1.dv.gti.4deaa3c3-fafd-431b-93a1-37c5a287625a",
@@ -558,28 +558,6 @@
       "providerLogoInfo": {
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-logo-white._CB800626150_.png",
         "message": "nba league pass"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.dbd60436-2db4-4dc0-995e-b721423a5af5",
-      "title": "Al Faisaly vs. Al Nassr",
-      "eventTitle": "Al Faisaly vs. Al Nassr",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 7 PM IST",
-        "venue": "Al Majma'ah Sports City Stadium"
-      },
-      "liveSchedule": {},
-      "synopsis": "From Al Majma'ah Sports City in Saudi Arabia.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dbd60436-2db4-4dc0-995e-b721423a5af5/4/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
       }
     },
     {
