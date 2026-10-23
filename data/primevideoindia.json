@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:35:26 AM 24-10-2026",
-  "total_matches": 2,
-  "live_matches": 2,
+  "last_updated": "01:00:05 AM 24-10-2026",
+  "total_matches": 1,
+  "live_matches": 1,
   "upcoming_matches": 29,
   "live": [
     {
@@ -43,69 +43,6 @@
       },
       "providerLogoInfo": {},
       "playback_details": {}
-    },
-    {
-      "titleId": "amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0",
-      "title": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026",
-      "eventTitle": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026",
-          "eventTitle": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026",
-          "eventId": "amzn1.dv.gti.f0d35404-7ea1-432f-9e64-242a8eaef06f",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {
-          "date": "Oct 23, 2026",
-          "time": "6:30 PM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
-      },
-      "providerLogoInfo": {},
-      "playback_details": {
-        "keys_extracted_time": "07:43:49 PM 23-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/2veigxhg1j/out/v1/559228d6b3214ed593e77d86d3e02182/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d35deab59e7cf9798be23cb5b1ecb96b:bf3478c67dd7ea92acd0494ab1153f2b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "013qtZ58-XmL4jy1sey5aw",
-              "k": "vzR4xn3X6pKs0ElKsRU_Kw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
     }
   ],
   "upcoming": [
