@@ -2,11 +2,74 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:49:10 PM 23-10-2026",
+  "last_updated": "09:13:07 PM 23-10-2026",
   "total_matches": 35,
-  "live_matches": 3,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 30,
   "live": [
+    {
+      "titleId": "amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf",
+      "title": "Kaun Banega Crorepati",
+      "eventTitle": "Kaun Banega Crorepati",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Kaun Banega Crorepati",
+          "eventTitle": "Kaun Banega Crorepati",
+          "eventId": "amzn1.dv.gti.4c65f917-6fb7-4413-b4d4-31f6a9205225",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {
+          "date": "Oct 23, 2026",
+          "time": "8:30 PM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/BOXART-16X9/en-US.jpeg",
+        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/BOXART-4X3/en-US.jpg",
+        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a8ac50d9-8dbb-4f99-ae27-63ca5b6db3cf/1/HERO-16X9/en-US.jpeg"
+      },
+      "providerLogoInfo": {},
+      "playback_details": {
+        "keys_extracted_time": "08:38:35 PM 23-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/nmd4mhjfix/out/v1/887099df693b471aa576d890c35b171b/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "3c05b607f2fdd7844519531e415b04bb:c2a392460ef99279e8c56cca3e2c4f90",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "PAW2B_L914RFGVMeQVsEuw",
+              "k": "wqOSRg75knnoxWzKPixPkA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
     {
       "titleId": "amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5",
       "title": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026",
@@ -169,6 +232,69 @@
       },
       "providerLogoInfo": {},
       "playback_details": {}
+    },
+    {
+      "titleId": "amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7",
+      "title": "Kon Honaar Crorepati",
+      "eventTitle": "Kon Honaar Crorepati",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Kon Honaar Crorepati",
+          "eventTitle": "Kon Honaar Crorepati",
+          "eventId": "amzn1.dv.gti.576ce870-5cd0-454c-a045-31e025ecfd82",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {
+          "date": "Oct 23, 2026",
+          "time": "8:30 PM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
+        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
+        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
+      },
+      "providerLogoInfo": {},
+      "playback_details": {
+        "keys_extracted_time": "08:38:39 PM 23-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/w7xzccl1i8/out/v1/11ead574a2fc4d52a8ad91b862590bac/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "c8f5ddfb5a1eb1530cd3b97427da2685:ee8355e3bb77b004c09aea2f7b488e14",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "yPXd-1oesVMM07l0J9omhQ",
+              "k": "7oNV47t3sATAmuove0iOFA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     }
   ],
   "upcoming": [
@@ -195,48 +321,6 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.4c65f917-6fb7-4413-b4d4-31f6a9205225",
-      "title": "Kaun Banega Crorepati",
-      "eventTitle": "Kaun Banega Crorepati",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 8:30 PM IST"
-      },
-      "liveSchedule": {},
-      "synopsis": "KBC Season 18 on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns. Play along live, answer in real time, win prizes.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c65f917-6fb7-4413-b4d4-31f6a9205225/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.576ce870-5cd0-454c-a045-31e025ecfd82",
-      "title": "Kon Honaar Crorepati",
-      "eventTitle": "Kon Honaar Crorepati",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 8:30 PM IST"
-      },
-      "liveSchedule": {},
-      "synopsis": "Hosted by Madhuri Dixit, Kon Honar Crorepati tests knowledge, courage and strategy for a chance to win big.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.576ce870-5cd0-454c-a045-31e025ecfd82/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
       "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
       "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
@@ -249,7 +333,7 @@
       "titleAttributes": {},
       "images": {
         "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
