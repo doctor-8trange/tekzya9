@@ -2,11 +2,48 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:15:07 AM 24-10-2026",
-  "total_matches": 1,
-  "live_matches": 1,
+  "last_updated": "12:30:05 AM 24-10-2026",
+  "total_matches": 2,
+  "live_matches": 2,
   "upcoming_matches": 30,
   "live": [
+    {
+      "titleId": "amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057",
+      "title": "FanCode 1 broadcast",
+      "eventTitle": "Deportivo Alavés vs. Málaga CF",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "FanCode 1 broadcast",
+          "eventTitle": "Deportivo Alavés vs. Málaga CF",
+          "eventId": "amzn1.dv.gti.9aa9dd2a-705d-4ca9-a563-595d6bc4293b",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-16X9/en-IN.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-4X3/en-IN.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "12:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-16X9/en-IN.jpeg",
+        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-4X3/en-IN.jpeg",
+        "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/HERO-16X9/en-US.jpeg"
+      },
+      "providerLogoInfo": {},
+      "playback_details": {}
+    },
     {
       "titleId": "amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0",
       "title": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026",
