@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "03:30:10 AM 24-10-2026",
+  "last_updated": "03:45:07 AM 24-10-2026",
   "total_matches": 2,
   "live_matches": 2,
-  "upcoming_matches": 25,
+  "upcoming_matches": 24,
   "live": [
     {
       "titleId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
@@ -79,9 +79,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
         },
         "liveEventDateTime": {
           "date": "Oct 24, 2026",
@@ -94,9 +94,9 @@
       },
       "liveSchedule": {},
       "images": {
-        "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
         "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
+        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
       },
       "providerLogoInfo": {
         "name": "Prime Video",
@@ -147,27 +147,6 @@
       "images": {
         "cover": {
           "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
-      "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 3:30 AM IST"
-      },
-      "liveSchedule": {},
-      "synopsis": "Watch all the action from the day 1 of 1st Unofficial Test of the India Tour of New Zealand 2026, LIVE on Sony LIV.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
