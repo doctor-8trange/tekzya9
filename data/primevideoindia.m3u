@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 23-10-2026 23:49
+#DATE:- 24-10-2026 00:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026
@@ -11,14 +11,4 @@
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2veigxhg1j/out/v1/559228d6b3214ed593e77d86d3e02182/cenc.mpd
-#EXTINF:-1 tvg-id="amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",Kon Honaar Crorepati
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yPXd-1oesVMM07l0J9omhQ","k":"7oNV47t3sATAmuove0iOFA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w7xzccl1i8/out/v1/11ead574a2fc4d52a8ad91b862590bac/cenc.mpd
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2veigxhg1j/out/v1/559228d6b3214ed593e77d86d3e02182/cenc.mpd
