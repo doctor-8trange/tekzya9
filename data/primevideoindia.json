@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:40:33 PM 23-10-2026",
+  "last_updated": "07:44:32 PM 23-10-2026",
   "total_matches": 35,
   "live_matches": 3,
   "upcoming_matches": 32,
@@ -43,7 +43,7 @@
       },
       "providerLogoInfo": {},
       "playback_details": {
-        "keys_extracted_time": "07:24:12 PM 23-10-2026",
+        "keys_extracted_time": "07:43:46 PM 23-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
@@ -106,11 +106,11 @@
       },
       "providerLogoInfo": {},
       "playback_details": {
-        "keys_extracted_time": "07:24:13 PM 23-10-2026",
+        "keys_extracted_time": "07:43:49 PM 23-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/4ndrgjial1/out/v1/792ff79f773e4d5db964eb04be1b28e9/cenc.mpd"
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/2veigxhg1j/out/v1/559228d6b3214ed593e77d86d3e02182/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -553,7 +553,7 @@
       "titleAttributes": {},
       "images": {
         "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6f9f611-b524-45a0-a064-e9461b0c7307/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6f9f611-b524-45a0-a064-e9461b0c7307/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
@@ -682,7 +682,7 @@
       "titleAttributes": {},
       "images": {
         "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
