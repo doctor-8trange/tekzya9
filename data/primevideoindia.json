@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:06:00 PM 23-10-2026",
+  "last_updated": "07:12:01 PM 23-10-2026",
   "total_matches": 35,
   "live_matches": 4,
   "upcoming_matches": 31,
@@ -148,9 +148,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
+          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
         },
         "liveEventDateTime": {
           "date": "Oct 23, 2026",
@@ -163,9 +163,9 @@
       },
       "liveSchedule": {},
       "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
+        "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-16X9/en-US.jpeg",
         "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
+        "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41a0fdf0-f014-4bb9-b45d-897c5bab65a0/3/HERO-16X9/en-US.jpeg"
       },
       "providerLogoInfo": {},
       "playback_details": {
