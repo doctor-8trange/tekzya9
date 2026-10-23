@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:49:49 PM 23-10-2026",
-  "total_matches": 2,
-  "live_matches": 2,
+  "last_updated": "12:15:07 AM 24-10-2026",
+  "total_matches": 1,
+  "live_matches": 1,
   "upcoming_matches": 30,
   "live": [
     {
@@ -69,69 +69,6 @@
           ]
         }
       }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7",
-      "title": "Kon Honaar Crorepati",
-      "eventTitle": "Kon Honaar Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.576ce870-5cd0-454c-a045-31e025ecfd82",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {
-          "date": "Oct 23, 2026",
-          "time": "8:30 PM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-16X9/en-US.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e52f0551-744b-4ca7-afb7-1145796d16b7/1/HERO-16X9/en-US.jpeg"
-      },
-      "providerLogoInfo": {},
-      "playback_details": {
-        "keys_extracted_time": "08:38:39 PM 23-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/w7xzccl1i8/out/v1/11ead574a2fc4d52a8ad91b862590bac/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "c8f5ddfb5a1eb1530cd3b97427da2685:ee8355e3bb77b004c09aea2f7b488e14",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "yPXd-1oesVMM07l0J9omhQ",
-              "k": "7oNV47t3sATAmuove0iOFA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
     }
   ],
   "upcoming": [
@@ -141,7 +78,7 @@
       "eventTitle": "New Zealand vs. India",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 11:30 AM IST",
+        "timeBadge": "Live at 11:30 AM IST",
         "venue": "Hagley Oval"
       },
       "liveSchedule": {},
@@ -163,7 +100,7 @@
       "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 3:30 AM IST"
+        "timeBadge": "Live at 3:30 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Watch all the action from the day 1 of 1st Unofficial Test of the India Tour of New Zealand 2026, LIVE on Sony LIV.",
@@ -184,7 +121,7 @@
       "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 9 AM IST"
+        "timeBadge": "Live at 9 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Watch all the action from DP World Genesis Championship Day 3, LIVE on Sony LIV.",
@@ -205,7 +142,7 @@
       "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10 AM IST"
+        "timeBadge": "Live at 10 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Catch all the action from the Day 3 of LINK Hong Kong Open, LIVE on Sony LIV.",
@@ -226,7 +163,7 @@
       "eventTitle": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 6:20 PM IST"
+        "timeBadge": "Live at 6:20 PM IST"
       },
       "liveSchedule": {},
       "synopsis": "Punjab Falcons take on Haryana Lions in the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
@@ -247,7 +184,7 @@
       "eventTitle": "OFC vs NorthEast United FC - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 7 PM IST"
+        "timeBadge": "Live at 7 PM IST"
       },
       "liveSchedule": {},
       "synopsis": "OFC vs NorthEast United FC meet in an ISL clash, with both sides aiming to make an impact in Bhubaneswar. Catch all the action LIVE, only on Sony LIV.",
@@ -268,7 +205,7 @@
       "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 9:30 PM IST"
+        "timeBadge": "Live at 9:30 PM IST"
       },
       "liveSchedule": {},
       "synopsis": "Alexander Volkanovski defends his Featherweight title against undefeated contender Movsar Evloev at UFC 333. Watch all the action LIVE, only on Sony LIV.",
@@ -289,7 +226,7 @@
       "eventTitle": "1st Unofficial Test - Day 2 - 25 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 3:30 AM IST"
+        "timeBadge": "Tomorrow 3:30 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Watch all the action from the Day 2 of 1st Unofficial Test of the India Tour of New Zealand 2026, LIVE on Sony LIV.",
@@ -310,7 +247,7 @@
       "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 9 AM IST"
+        "timeBadge": "Tomorrow 9 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Watch all the action from DP World Genesis Championship Day 4, LIVE on Sony LIV.",
@@ -331,7 +268,7 @@
       "eventTitle": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 10 AM IST"
+        "timeBadge": "Tomorrow 10 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "Catch all the action from the Day 4 of LINK Hong Kong Open, LIVE on Sony LIV.",
@@ -445,7 +382,7 @@
       "eventTitle": "Deportivo Alavés vs. Málaga CF",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 12:30 AM IST",
+        "timeBadge": "Live at 12:30 AM IST",
         "venue": "Estadio de Mendizorroza"
       },
       "liveSchedule": {},
@@ -467,14 +404,14 @@
       "eventTitle": "United States Grand Prix, Practice 2",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 2:30 AM IST"
+        "timeBadge": "Live at 2:30 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "From Circuit of the Americas in Austin, Texas.",
       "titleAttributes": {},
       "images": {
         "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6f9f611-b524-45a0-a064-e9461b0c7307/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6f9f611-b524-45a0-a064-e9461b0c7307/8/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
@@ -488,7 +425,7 @@
       "eventTitle": "Grand Prix of Australia, Qualifying 2",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 3:10 AM IST"
+        "timeBadge": "Live at 3:10 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
@@ -509,7 +446,7 @@
       "eventTitle": "Namibia vs. Ireland",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:30 PM IST"
+        "timeBadge": "Live at 1:30 PM IST"
       },
       "liveSchedule": {},
       "synopsis": "From High Performance Oval in Windhoek, Namibia.",
@@ -530,7 +467,7 @@
       "eventTitle": "Rayo Vallecano vs. Elche CF",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 5:30 PM IST",
+        "timeBadge": "Live at 5:30 PM IST",
         "venue": "Estadio de Vallecas"
       },
       "liveSchedule": {},
@@ -552,7 +489,7 @@
       "eventTitle": "Santander vs. Espanyol",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 7:45 PM IST",
+        "timeBadge": "Live at 7:45 PM IST",
         "venue": "Campos de Sport de El Sardinero"
       },
       "liveSchedule": {},
@@ -574,7 +511,7 @@
       "eventTitle": "Valencia CF vs. Villarreal CF",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10 PM IST",
+        "timeBadge": "Live at 10 PM IST",
         "venue": "Estadio de Mestalla"
       },
       "liveSchedule": {},
@@ -596,14 +533,14 @@
       "eventTitle": "United States Grand Prix, Practice 3",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 11 PM IST"
+        "timeBadge": "Live at 11 PM IST"
       },
       "liveSchedule": {},
       "synopsis": "From Circuit of the Americas in Austin, Texas.",
       "titleAttributes": {},
       "images": {
         "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272/8/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
@@ -617,7 +554,7 @@
       "eventTitle": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 12:30 AM IST",
+        "timeBadge": "Tomorrow 12:30 AM IST",
         "venue": "Estádio Metropolitano"
       },
       "liveSchedule": {},
@@ -639,7 +576,7 @@
       "eventTitle": "United States Grand Prix, Qualifying",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 2:30 AM IST"
+        "timeBadge": "Tomorrow 2:30 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "From Circuit of the Americas in Austin, Texas.",
@@ -660,7 +597,7 @@
       "eventTitle": "Grand Prix of Australia",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 4:30 AM IST"
+        "timeBadge": "Tomorrow 4:30 AM IST"
       },
       "liveSchedule": {},
       "synopsis": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
@@ -681,7 +618,7 @@
       "eventTitle": "Athletic Club vs. Getafe",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 6:30 PM IST",
+        "timeBadge": "Tomorrow 6:30 PM IST",
         "venue": "Estadio de San Mamés"
       },
       "liveSchedule": {},
@@ -703,7 +640,7 @@
       "eventTitle": "Celta Vigo vs. Betis",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 8:45 PM IST",
+        "timeBadge": "Tomorrow 8:45 PM IST",
         "venue": "Estadio Abanca-Balaídos"
       },
       "liveSchedule": {},
@@ -725,7 +662,7 @@
       "eventTitle": "Real Sociedad vs. Levante",
       "liveInfo": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Oct 25 11 PM IST",
+        "timeBadge": "Tomorrow 11 PM IST",
         "venue": "Estadio Municipal de Anoeta"
       },
       "liveSchedule": {},
