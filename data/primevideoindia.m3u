@@ -1,4 +1,24 @@
 #EXTM3U
-#DATE:- 23-10-2026 19:12
+#DATE:- 23-10-2026 19:13
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="amzn1.dv.gti.4deaa3c3-fafd-431b-93a1-37c5a287625a" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4deaa3c3-fafd-431b-93a1-37c5a287625a/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",Inter Kashi vs East Bengal FC - 23 Oct 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"upN-g1PRKWYp7CLx64_0DQ","k":"FZ3DHvY-BYNhXeWXlOhR8w"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/0nauc1dydj/out/v1/3deeab92ba2c43faa86818c5a964295c/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fea851c8-95a0-4c4e-8fa7-b118b97d52f5/3/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-EkvxV3lNFIhX9xHmqhBWQ","k":"bBH6_0UjVc46cMfYqjWMVw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/t5ni0sc6l4/out/v1/3ca52377f0e04c909dcc8c09e9746c13/cenc.mpd
