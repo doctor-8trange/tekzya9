@@ -2,49 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "01:00:05 AM 24-10-2026",
-  "total_matches": 1,
-  "live_matches": 1,
-  "upcoming_matches": 29,
-  "live": [
-    {
-      "titleId": "amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057",
-      "title": "FanCode 1 broadcast",
-      "eventTitle": "Deportivo Alavés vs. Málaga CF",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "FanCode 1 broadcast",
-          "eventTitle": "Deportivo Alavés vs. Málaga CF",
-          "eventId": "amzn1.dv.gti.9aa9dd2a-705d-4ca9-a563-595d6bc4293b",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-16X9/en-IN.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-4X3/en-IN.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {
-          "date": "Oct 24, 2026",
-          "time": "12:30 AM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-16X9/en-IN.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/BOXART-4X3/en-IN.jpeg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2cbd3a15-bc3e-4601-abcb-ca2493174057/3/HERO-16X9/en-US.jpeg"
-      },
-      "providerLogoInfo": {},
-      "playback_details": {}
-    }
-  ],
+  "last_updated": "24-10-2026 01:30",
+  "total_matches": 0,
+  "live_matches": 0,
+  "upcoming_matches": 27,
+  "live": [],
   "upcoming": [
     {
       "titleId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
@@ -255,44 +217,6 @@
       "providerLogoInfo": {
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
         "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2",
-      "eventTitle": "FanCode 2",
-      "liveInfo": {},
-      "liveSchedule": {},
-      "synopsis": null,
-      "titleAttributes": {},
-      "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle",
-        "message": "fancode"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1",
-      "eventTitle": "FanCode 1",
-      "liveInfo": {},
-      "liveSchedule": {},
-      "synopsis": null,
-      "titleAttributes": {},
-      "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle",
-        "message": "fancode"
       }
     },
     {
