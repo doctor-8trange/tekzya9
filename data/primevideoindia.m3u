@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 24-10-2026 03:30
+#DATE:- 24-10-2026 03:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",1st Unofficial Test - Day 1 - 24 Oct 2026
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
-#EXTINF:-1 tvg-id="amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",1st Unofficial Test - Day 1 - 24 Oct 2026
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg" group-title="Prime Video Live",1st Unofficial Test - Day 1 - 24 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4og1rywmm/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
