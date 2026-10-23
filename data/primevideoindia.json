@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "06:51:24 PM 23-10-2026",
-  "total_matches": 35,
-  "live_matches": 3,
+  "last_updated": "06:57:15 PM 23-10-2026",
+  "total_matches": 36,
+  "live_matches": 4,
   "upcoming_matches": 32,
   "live": [
     {
@@ -195,6 +195,43 @@
           ]
         }
       }
+    },
+    {
+      "titleId": "amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736",
+      "title": "FanCode 1 broadcast",
+      "eventTitle": "Al Faisaly vs. Al Nassr",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "FanCode 1 broadcast",
+          "eventTitle": "Al Faisaly vs. Al Nassr",
+          "eventId": "amzn1.dv.gti.dbd60436-2db4-4dc0-995e-b721423a5af5",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/BOXART-16X9/en-IN.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/BOXART-4X3/en-IN.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {
+          "date": "Oct 23, 2026",
+          "time": "7:00 PM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/BOXART-16X9/en-IN.jpeg",
+        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/BOXART-4X3/en-IN.jpeg",
+        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3735fea8-4135-4715-9353-60b43959f736/3/HERO-16X9/en-US.jpeg"
+      },
+      "providerLogoInfo": {},
+      "playback_details": {}
     }
   ],
   "upcoming": [
