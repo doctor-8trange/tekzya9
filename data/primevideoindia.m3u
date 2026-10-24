@@ -1,14 +1,14 @@
 #EXTM3U
-#DATE:- 25-10-2026 00:30
+#DATE:- 25-10-2026 03:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | UFC 333 - Volkanovski vs Evloev - 24 Oct 2026
+#EXTINF:-1 tvg-id="amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | 1st Unofficial Test - Day 2 - 25 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NlQdu9j5ikG4NBq9IIkiNg","k":"J0RzaiTcUzw2_R2skyLECw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GmZi8MPvdGO86lerK4_hAA","k":"0Kvu9kAOWcmHksdHw8x53A"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eikcmmwxuy/out/v1/a5e1a01b81f44fc4a5d8d03045e70322/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nkrlaoxl6i/out/v1/58857a10d75a4ad9a6c37a4c981dca55/cenc.mpd
