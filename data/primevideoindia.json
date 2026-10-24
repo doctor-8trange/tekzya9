@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:00:04 PM 24-10-2026",
+  "last_updated": "11:24:12 PM 24-10-2026",
   "total_matches": 12,
   "live_matches": 3,
   "upcoming_matches": 9,
@@ -19,10 +19,10 @@
           "eventTitle": "Kon Honaar Crorepati",
           "eventId": "amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5",
           "originalLanguages": [
-            "Marathi"
+            "English"
           ],
           "primarySpokenLanguages": [
-            "Marathi"
+            "English"
           ]
         },
         "images": {
@@ -58,23 +58,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "08:45:16 PM 24-10-2026",
+        "keys_extracted_time": "11:24:10 PM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/8ewmubmx64/out/v1/724ef6e23e45470eabb08cb8f2363cc9/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "0374f0b63a30a493d4b07af1ee861ce7:0b0a872c4e6dad6bf8a932619af87b55",
+          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "A3TwtjowpJPUsHrx7oYc5w",
-              "k": "CwqHLE5trWv4qTJhmvh7VQ"
+              "kid": "GZSx3339LoqNe5vz-5AChQ",
+              "k": "IqFESz2hjhORkWZbPWUoNQ"
             },
             {
               "kty": "oct",
@@ -97,18 +97,10 @@
           "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
           "eventId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
           "originalLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
+            "English"
           ],
           "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
+            "English"
           ]
         },
         "images": {
@@ -144,23 +136,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:36:13 PM 24-10-2026",
+        "keys_extracted_time": "11:24:11 PM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/eikcmmwxuy/out/v1/a5e1a01b81f44fc4a5d8d03045e70322/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "36541dbbd8f98a41b8341abd20892236:2744736a24dc533c36fd1dac9322c40b",
+          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "NlQdu9j5ikG4NBq9IIkiNg",
-              "k": "J0RzaiTcUzw2_R2skyLECw"
+              "kid": "GZSx3339LoqNe5vz-5AChQ",
+              "k": "IqFESz2hjhORkWZbPWUoNQ"
             },
             {
               "kty": "oct",
@@ -222,7 +214,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "10:53:01 PM 24-10-2026",
+        "keys_extracted_time": "11:24:12 PM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
