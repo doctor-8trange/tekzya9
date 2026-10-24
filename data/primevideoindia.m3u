@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 24-10-2026 09:46
+#DATE:- 24-10-2026 11:10
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026
@@ -7,8 +7,16 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GunxnawnX2Tpo9fzUWblug","k":"KRl7HoWKhblKNpTmmz679w"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.2d938955-d3e3-44e9-934f-e0cbb0681884" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg" group-title="Sports",Genesis Championship - Day 3 - 24 Oct 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0cbQkmXBULQBmJvJn31DTw","k":"GdQsqrhmPkWQzsJAeFmLbg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ynp7oxf1f7/out/v1/8a809f6fa177406687df22e5eb984730/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.89f839b8-c50d-4e28-bcd7-32a30d19858e" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg" group-title="Sports",LINK Hong Kong Open - Day 3 - 24 Oct 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Wirt_la1XYTq24i81vZ_mw","k":"IO1AqkxbB5uBN0VUzaU0PQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xvcbwakrvd/out/v1/721ac23bb8a848f0ae07fc55a4e0e2ac/cenc.mpd
