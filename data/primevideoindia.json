@@ -2,68 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "03:45:07 AM 24-10-2026",
-  "total_matches": 2,
-  "live_matches": 2,
+  "last_updated": "08:13:00 AM 24-10-2026",
+  "total_matches": 1,
+  "live_matches": 1,
   "upcoming_matches": 24,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
-      "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "EVENT",
-          "entityType": "EVENT",
-          "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "liveSchedule": {},
-      "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis",
-        "message": "sony liv"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:30:07 AM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1ae9f19dac275f64e9a3d7f35166e5ba:29197b1e858a85b94a3694e69b3ebbf7",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GunxnawnX2Tpo9fzUWblug",
-              "k": "KRl7HoWKhblKNpTmmz679w"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
       "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
@@ -92,15 +35,32 @@
           "Sports"
         ]
       },
-      "liveSchedule": {},
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-23T22:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-23T22:00:01+0000",
+        "predictedEndTime": "2026-10-24T11:00:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
-        "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
-        "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "name": "Prime Video",
-        "message": "prime video"
+        "name": "SonyLIV",
+        "message": "sony liv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:30:09 AM 24-10-2026",
