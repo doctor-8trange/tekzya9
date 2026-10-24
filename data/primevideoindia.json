@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "01:04:38 PM 24-10-2026",
+  "last_updated": "01:45:04 PM 24-10-2026",
   "total_matches": 24,
-  "live_matches": 7,
-  "upcoming_matches": 17,
+  "live_matches": 6,
+  "upcoming_matches": 18,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7",
@@ -443,82 +443,6 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.2d938955-d3e3-44e9-934f-e0cbb0681884",
-      "title": "Genesis Championship - Day 3 - 24 Oct 2026",
-      "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Genesis Championship - Day 3 - 24 Oct 2026",
-          "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "Sony LIV",
-        "message": "sony liv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:50:27 AM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/xorw9cig5s/out/v1/0c6109bf3795452b8e214d17b1de9ffc/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d1c6d09265c150b401989bc99f7d434f:19d42caab8663e4590cec24078598b6e",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "0cbQkmXBULQBmJvJn31DTw",
-              "k": "GdQsqrhmPkWQzsJAeFmLbg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.89f839b8-c50d-4e28-bcd7-32a30d19858e",
       "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
       "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
@@ -868,6 +792,55 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 10 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac",
+      "title": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
+      "eventTitle": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
+          "eventTitle": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 10:20 AM IST",
         "liveliness": "UPCOMING",
         "inferredTimezone": "Asia/Kolkata",
         "inferredTimezoneAbbreviation": "IST"
