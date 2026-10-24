@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "08:45:24 PM 24-10-2026",
+  "last_updated": "09:36:26 PM 24-10-2026",
   "total_matches": 23,
-  "live_matches": 3,
-  "upcoming_matches": 20,
+  "live_matches": 5,
+  "upcoming_matches": 18,
   "live": [
     {
       "titleId": "amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be",
@@ -242,9 +242,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
       "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
@@ -256,8 +254,20 @@
           "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
           "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
           "eventId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
+          ],
+          "primarySpokenLanguages": [
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -270,9 +280,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 9:30 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "9:30 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -290,6 +300,33 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "09:36:13 PM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/eikcmmwxuy/out/v1/a5e1a01b81f44fc4a5d8d03045e70322/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "36541dbbd8f98a41b8341abd20892236:2744736a24dc533c36fd1dac9322c40b",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "NlQdu9j5ikG4NBq9IIkiNg",
+              "k": "J0RzaiTcUzw2_R2skyLECw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
     {
@@ -303,8 +340,12 @@
           "title": "Family Full House With Rohit Sharma",
           "eventTitle": "Family Full House With Rohit Sharma",
           "eventId": "amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -317,9 +358,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 9:35 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "9:35 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -337,8 +378,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "09:36:18 PM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/elaynazsqg/out/v1/cbd909e0afda498299e0308b8da445b1/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "cdee4f5ffe818170cea32f703df021ed:16a229d0a2ddc155c7c55698caa32498",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "ze5PX_6BgXDOoy9wPfAh7Q",
+              "k": "FqIp0KLdwVXHxVaYyqMkmA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
       "title": "1st Unofficial Test - Day 2 - 25 Oct 2026",
@@ -387,7 +457,7 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2",
+      "titleId": "amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77",
       "title": "Genesis Championship - Day 4 - 25 Oct 2026",
       "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
       "catalogMetadata": {
@@ -396,13 +466,13 @@
           "entityType": "LIVE_EVENT_ITEM",
           "title": "Genesis Championship - Day 4 - 25 Oct 2026",
           "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
-          "eventId": "amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2",
+          "eventId": "amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -412,18 +482,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 9 AM IST",
+        "timeBadge": "Tomorrow 8 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
