@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "08:13:00 AM 24-10-2026",
+  "last_updated": "09:15:07 AM 24-10-2026",
   "total_matches": 1,
   "live_matches": 1,
-  "upcoming_matches": 24,
+  "upcoming_matches": 23,
   "live": [
     {
       "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
@@ -107,27 +107,6 @@
       "images": {
         "cover": {
           "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75",
-      "title": "Genesis Championship - Day 3 - 24 Oct 2026",
-      "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 9 AM IST"
-      },
-      "liveSchedule": {},
-      "synopsis": "Watch all the action from DP World Genesis Championship Day 3, LIVE on Sony LIV.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
