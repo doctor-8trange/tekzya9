@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 24-10-2026 09:15
+#DATE:- 24-10-2026 09:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201" tvg-logo="" group-title="Prime Video Live",1st Unofficial Test - Day 1 - 24 Oct 2026
+#EXTINF:-1 tvg-id="amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg" group-title="Prime Video Live",1st Unofficial Test - Day 1 - 24 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
