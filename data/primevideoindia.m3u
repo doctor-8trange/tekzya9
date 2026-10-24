@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 24-10-2026 19:12
+#DATE:- 24-10-2026 19:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Punjab Falcons vs Haryana Lions - 24 Oct 2026
@@ -11,7 +11,7 @@
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiw3a7tpi2/out/v1/b63eb9d3a08447adb24152b8008d81b8/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiw3a7tpi2/out/v1/b63eb9d3a08447adb24152b8008d81b8/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.fe435f01-5a3b-42c8-aa5e-d10f47d992c5" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe435f01-5a3b-42c8-aa5e-d10f47d992c5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | OFC vs NorthEast United FC - 24 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,4 +21,4 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiw3a7tpi2
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zjt7nkpp9l/out/v1/b8a9eef5755d4641b253de25346d55e0/cenc.mpd
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ygkfwcgxpa/out/v1/4ba7cc626b4044fe9e5c36e2513defea/cenc.mpd
