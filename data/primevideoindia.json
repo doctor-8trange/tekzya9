@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:56:18 AM 24-10-2026",
-  "total_matches": 26,
-  "live_matches": 8,
-  "upcoming_matches": 18,
+  "last_updated": "01:04:38 PM 24-10-2026",
+  "total_matches": 24,
+  "live_matches": 7,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7",
@@ -432,82 +432,6 @@
               "kty": "oct",
               "kid": "GOavSg2vKh_fvcW1QVIMiA",
               "k": "ygtkuE7bTyDrHhNf8D209w"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
-      "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-          "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "Sony LIV",
-        "message": "sony liv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:50:25 AM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/u4og1rywmm/out/v1/809b1c642b0e456fbebbcdc566e93e26/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1ae9f19dac275f64e9a3d7f35166e5ba:29197b1e858a85b94a3694e69b3ebbf7",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GunxnawnX2Tpo9fzUWblug",
-              "k": "KRl7HoWKhblKNpTmmz679w"
             },
             {
               "kty": "oct",
@@ -967,55 +891,6 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.ad1f427e-c8c4-4193-a069-48e9a437a4b2",
-      "title": "Namibia vs. Ireland",
-      "eventTitle": "Namibia vs. Ireland",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Namibia vs. Ireland",
-          "eventTitle": "Namibia vs. Ireland",
-          "eventId": "amzn1.dv.gti.ad1f427e-c8c4-4193-a069-48e9a437a4b2",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "",
-          "boxartImage": "",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:30 PM IST",
-        "liveliness": "UPCOMING",
-        "inferredTimezone": "Asia/Kolkata",
-        "inferredTimezoneAbbreviation": "IST"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": ""
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.a0767f75-5c58-4493-a030-c42f23f6c13e",
       "title": "Rayo Vallecano vs. Elche CF",
       "eventTitle": "Rayo Vallecano vs. Elche CF",
@@ -1067,14 +942,14 @@
     },
     {
       "titleId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
-      "title": "Santander vs. Espanyol",
-      "eventTitle": "Santander vs. Espanyol",
+      "title": "Racing Santander vs. RCD Espanyol",
+      "eventTitle": "Racing Santander vs. RCD Espanyol",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Santander vs. Espanyol",
-          "eventTitle": "Santander vs. Espanyol",
+          "title": "Racing Santander vs. RCD Espanyol",
+          "eventTitle": "Racing Santander vs. RCD Espanyol",
           "eventId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
           "originalLanguages": [],
           "primarySpokenLanguages": []
