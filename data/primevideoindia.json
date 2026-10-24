@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:15:18 PM 24-10-2026",
-  "total_matches": 24,
-  "live_matches": 2,
-  "upcoming_matches": 22,
+  "last_updated": "08:45:24 PM 24-10-2026",
+  "total_matches": 23,
+  "live_matches": 3,
+  "upcoming_matches": 20,
   "live": [
     {
       "titleId": "amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be",
@@ -164,9 +164,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5",
       "title": "Kon Honaar Crorepati",
@@ -178,8 +176,12 @@
           "title": "Kon Honaar Crorepati",
           "eventTitle": "Kon Honaar Crorepati",
           "eventId": "amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Marathi"
+          ],
+          "primarySpokenLanguages": [
+            "Marathi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -192,9 +194,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 8:30 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "8:30 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -212,8 +214,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "08:45:16 PM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/8ewmubmx64/out/v1/724ef6e23e45470eabb08cb8f2363cc9/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "0374f0b63a30a493d4b07af1ee861ce7:0b0a872c4e6dad6bf8a932619af87b55",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "A3TwtjowpJPUsHrx7oYc5w",
+              "k": "CwqHLE5trWv4qTJhmvh7VQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
       "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
@@ -729,54 +760,6 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
-      "title": "Racing Santander vs. RCD Espanyol",
-      "eventTitle": "Racing Santander vs. RCD Espanyol",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Racing Santander vs. RCD Espanyol",
-          "eventTitle": "Racing Santander vs. RCD Espanyol",
-          "eventId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 7:45 PM IST",
-        "venue": "Campos de Sport de El Sardinero",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
