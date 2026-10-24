@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "01:45:04 PM 24-10-2026",
-  "total_matches": 24,
-  "live_matches": 6,
-  "upcoming_matches": 18,
+  "last_updated": "02:30:05 PM 24-10-2026",
+  "total_matches": 25,
+  "live_matches": 5,
+  "upcoming_matches": 20,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7",
@@ -441,82 +441,6 @@
           ]
         }
       }
-    },
-    {
-      "titleId": "amzn1.dv.gti.89f839b8-c50d-4e28-bcd7-32a30d19858e",
-      "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-      "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-          "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "Sony LIV",
-        "message": "sony liv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:50:29 AM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/vlnpnmsy69/out/v1/bf9f514cfb0440be98bc22d47516b5d6/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "5a2aedfe56b55d84eadb88bcd6f67f9b:20ed40aa4c5b079b81374554cda5343d",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Wirt_la1XYTq24i81vZ_mw",
-              "k": "IO1AqkxbB5uBN0VUzaU0PQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
     }
   ],
   "upcoming": [
@@ -841,6 +765,104 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 10:20 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
+      "title": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
+      "eventTitle": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
+          "eventTitle": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 2:20 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a",
+      "title": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
+      "eventTitle": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
+          "eventTitle": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 6:20 PM IST",
         "liveliness": "UPCOMING",
         "inferredTimezone": "Asia/Kolkata",
         "inferredTimezoneAbbreviation": "IST"
