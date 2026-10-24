@@ -2,11 +2,446 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:32:39 AM 24-10-2026",
-  "total_matches": 22,
-  "live_matches": 4,
+  "last_updated": "11:50:47 AM 24-10-2026",
+  "total_matches": 26,
+  "live_matches": 8,
   "upcoming_matches": 18,
   "live": [
+    {
+      "titleId": "amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7",
+      "title": "2nd T20I - 24 Oct 2026 (Feed c888)",
+      "eventTitle": "2nd T20I - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd T20I - 24 Oct 2026 (Feed c888)",
+          "eventTitle": "2nd T20I - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7",
+          "originalLanguages": [
+            "Tamil"
+          ],
+          "primarySpokenLanguages": [
+            "Tamil"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7/3/BOXART-16X9/en-US.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7/3/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "11:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-24T06:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-24T06:00:01+0000",
+        "predictedEndTime": "2026-10-24T14:45:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e320f19-5bbc-4c49-a789-83257eb6fae7/3/BOXART-16X9/en-US.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:50:18 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/zhaaefajop/out/v1/e5226708737141b2ac370864916708b9/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "fb22851800fb00e16fb1a1dd8ca3997c:0cd9eec4aa66c9b9865dbd7ea5788866",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "-yKFGAD7AOFvsaHdjKOZfA",
+              "k": "DNnuxKpmybmGXb1-pXiIZg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9",
+      "title": "2nd T20I - 24 Oct 2026 (Feed e6c4)",
+      "eventTitle": "2nd T20I - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd T20I - 24 Oct 2026 (Feed e6c4)",
+          "eventTitle": "2nd T20I - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9/3/BOXART-16X9/en-US.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9/3/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "11:29 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-24T06:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-24T05:59:59+0000",
+        "predictedEndTime": "2026-10-24T14:45:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9/3/BOXART-16X9/en-US.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:50:20 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/pm2e3zfxkc/out/v1/1cc24fdea32d4d549612dbe4ebc05d9e/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "AVAcNAHaurDmjB1Ysu1b3g",
+              "k": "TBFnIgxdE1jWMCRSgc66WA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45",
+      "title": "2nd T20I - 24 Oct 2026 (Feed a26c)",
+      "eventTitle": "2nd T20I - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd T20I - 24 Oct 2026 (Feed a26c)",
+          "eventTitle": "2nd T20I - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45",
+          "originalLanguages": [
+            "Kannada"
+          ],
+          "primarySpokenLanguages": [
+            "Kannada"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45/3/BOXART-16X9/en-US.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45/3/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "11:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-24T06:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-24T06:00:01+0000",
+        "predictedEndTime": "2026-10-24T14:45:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2937143d-94ef-427d-8a4c-a116a0b4fd45/3/BOXART-16X9/en-US.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:50:21 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/2ve4p3frvj/out/v1/0a3bdbce62524db4a16a20bf9892b680/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "0008b93634dcf5be9e839816086afdf0:e09d1878e6e7126bd9c2c432fdb11553",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "AAi5NjTc9b6eg5gWCGr98A",
+              "k": "4J0YeObnEmvZwsQy_bEVUw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3",
+      "title": "2nd T20I - 24 Oct 2026 (Feed 10a1)",
+      "eventTitle": "2nd T20I - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd T20I - 24 Oct 2026 (Feed 10a1)",
+          "eventTitle": "2nd T20I - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3",
+          "originalLanguages": [
+            "Telugu"
+          ],
+          "primarySpokenLanguages": [
+            "Telugu"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3/3/BOXART-16X9/en-US.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3/3/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "11:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-24T06:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-24T06:00:01+0000",
+        "predictedEndTime": "2026-10-24T14:45:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a129162a-c2b7-4624-a551-dc1e17a5d2d3/3/BOXART-16X9/en-US.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:50:22 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/9n0mgnesec/out/v1/48f6a68ca3a34f2bba34df81e19764d1/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "4e5ac7875b78110f6dec912429209dfa:bbfe716053be1f7d3caa4e4952277a11",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "TlrHh1t4EQ9t7JEkKSCd-g",
+              "k": "u_5xYFO-H308qk5JUid6EQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97",
+      "title": "2nd T20I - 24 Oct 2026 (Feed 1cc2)",
+      "eventTitle": "2nd T20I - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd T20I - 24 Oct 2026 (Feed 1cc2)",
+          "eventTitle": "2nd T20I - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97",
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97/3/BOXART-16X9/en-US.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97/3/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Oct 24, 2026",
+          "time": "11:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "liveliness": "LIVE",
+        "predictedStartTime": "2026-10-24T06:00:00+0000",
+        "predictedStartTimeConfidence": "NORMAL",
+        "actualStartTime": "2026-10-24T06:00:01+0000",
+        "predictedEndTime": "2026-10-24T14:45:00+0000",
+        "isMultiDay": false,
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7486aea-c945-456c-a1b1-b25d36a99c97/3/BOXART-16X9/en-US.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:50:24 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/dh0jsbhi1r/out/v1/074c9b1804094a92ada84884f5aeaa16/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "18e6af4a0daf2a1fdfbdc5b541520c88:ca0b64b84edb4f20eb1e135ff03db4f7",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "GOavSg2vKh_fvcW1QVIMiA",
+              "k": "ygtkuE7bTyDrHhNf8D209w"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
     {
       "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
       "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
@@ -17,53 +452,46 @@
           "entityType": "LIVE_EVENT_ITEM",
           "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
           "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "eventId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
-          "heroImage": ""
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
         },
-        "liveEventDateTime": {
-          "date": "Oct 24, 2026",
-          "time": "3:30 AM IST",
-          "type": "LOCALIZED_HEADER"
-        },
+        "liveEventDateTime": {},
         "entityClassifications": [
           "Sports"
         ]
       },
-      "liveSchedule": {
-        "liveliness": "LIVE",
-        "predictedStartTime": "2026-10-23T22:00:00+0000",
-        "predictedStartTimeConfidence": "NORMAL",
-        "actualStartTime": "2026-10-23T22:00:01+0000",
-        "predictedEndTime": "2026-10-24T11:00:00+0000",
-        "isMultiDay": false,
-        "inferredTimezone": "Asia/Kolkata",
-        "inferredTimezoneAbbreviation": "IST"
-      },
+      "liveSchedule": {},
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-4X3/en-US.jpg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/BOXART-16X9/en-US.jpeg"
         },
-        "heroImageFragments": {}
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe/5/HERO-16X9/en-US.jpeg"
+        }
       },
       "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
+        "name": "Sony LIV",
+        "message": "sony liv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "03:30:09 AM 24-10-2026",
+        "keys_extracted_time": "11:50:25 AM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
@@ -101,8 +529,12 @@
           "title": "Genesis Championship - Day 3 - 24 Oct 2026",
           "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
           "eventId": "amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg",
@@ -135,11 +567,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "11:09:28 AM 24-10-2026",
+        "keys_extracted_time": "11:50:27 AM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/ynp7oxf1f7/out/v1/8a809f6fa177406687df22e5eb984730/cenc.mpd"
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/xorw9cig5s/out/v1/0c6109bf3795452b8e214d17b1de9ffc/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -173,8 +605,12 @@
           "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
           "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
           "eventId": "amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg",
@@ -207,11 +643,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "11:09:29 AM 24-10-2026",
+        "keys_extracted_time": "11:50:29 AM 24-10-2026",
         "playback_url": [
           {
             "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/xvcbwakrvd/out/v1/721ac23bb8a848f0ae07fc55a4e0e2ac/cenc.mpd"
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/vlnpnmsy69/out/v1/bf9f514cfb0440be98bc22d47516b5d6/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -224,78 +660,6 @@
               "kty": "oct",
               "kid": "Wirt_la1XYTq24i81vZ_mw",
               "k": "IO1AqkxbB5uBN0VUzaU0PQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9",
-      "title": "2nd T20I - 24 Oct 2026",
-      "eventTitle": "New Zealand vs. India",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "2nd T20I - 24 Oct 2026",
-          "eventTitle": "New Zealand vs. India",
-          "eventId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {},
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "Sony LIV",
-        "message": "sony liv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:32:37 AM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Fastly",
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/pm2e3zfxkc/out/v1/1cc24fdea32d4d549612dbe4ebc05d9e/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "AVAcNAHaurDmjB1Ysu1b3g",
-              "k": "TBFnIgxdE1jWMCRSgc66WA"
             },
             {
               "kty": "oct",
