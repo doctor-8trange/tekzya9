@@ -2,246 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:24:12 PM 24-10-2026",
-  "total_matches": 12,
-  "live_matches": 3,
-  "upcoming_matches": 9,
-  "live": [
-    {
-      "titleId": "amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5",
-      "title": "Kon Honaar Crorepati",
-      "eventTitle": "Kon Honaar Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "8:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd127478-2655-4fd3-af57-888d26345ca5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:24:10 PM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GZSx3339LoqNe5vz-5AChQ",
-              "k": "IqFESz2hjhORkWZbPWUoNQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
-      "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
-      "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
-          "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "9:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:24:11 PM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GZSx3339LoqNe5vz-5AChQ",
-              "k": "IqFESz2hjhORkWZbPWUoNQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155",
-      "title": "Family Full House With Rohit Sharma",
-      "eventTitle": "Family Full House With Rohit Sharma",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Family Full House With Rohit Sharma",
-          "eventTitle": "Family Full House With Rohit Sharma",
-          "eventId": "amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "9:35 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82fc5d75-1051-4986-8bbb-5fe38aacb155/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:24:12 PM 24-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GZSx3339LoqNe5vz-5AChQ",
-              "k": "IqFESz2hjhORkWZbPWUoNQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "last_updated": "24-10-2026 23:45",
+  "total_matches": 16,
+  "live_matches": 0,
+  "upcoming_matches": 16,
+  "live": [],
   "upcoming": [
     {
       "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
@@ -258,8 +23,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -270,17 +35,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 3:30 AM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -305,8 +72,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -317,17 +84,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 8 AM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -352,8 +121,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -364,17 +133,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 10 AM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -399,8 +170,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -411,17 +182,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 10:20 AM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -446,8 +219,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -458,17 +231,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 2:20 PM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -493,8 +268,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -505,17 +280,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 4:30 PM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -540,8 +317,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -552,17 +329,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 6:20 PM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -587,8 +366,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -599,17 +378,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 7 PM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -634,8 +415,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "",
+          "boxartImage": "",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -646,17 +427,19 @@
       "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Mon, Oct 26 3:30 AM IST",
-        "liveliness": "UPCOMING"
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": ""
         },
         "heroImageFragments": {}
       },
@@ -664,6 +447,354 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.9065ba28-409d-4bdf-9522-443756611792",
+      "title": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+      "eventTitle": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+          "eventTitle": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+          "eventId": "amzn1.dv.gti.9065ba28-409d-4bdf-9522-443756611792",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 12:30 AM IST",
+        "venue": "Estádio Metropolitano",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.9c6c4f60-89a7-4b3f-ad29-89874abb8136",
+      "title": "United States Grand Prix, Qualifying",
+      "eventTitle": "United States Grand Prix, Qualifying",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "United States Grand Prix, Qualifying",
+          "eventTitle": "United States Grand Prix, Qualifying",
+          "eventId": "amzn1.dv.gti.9c6c4f60-89a7-4b3f-ad29-89874abb8136",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 2:30 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.538905de-4c0f-4c52-b197-b143bb547380",
+      "title": "Grand Prix of Australia",
+      "eventTitle": "Grand Prix of Australia",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Grand Prix of Australia",
+          "eventTitle": "Grand Prix of Australia",
+          "eventId": "amzn1.dv.gti.538905de-4c0f-4c52-b197-b143bb547380",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 4:30 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.30e301e4-bbf7-462b-9254-6c3f95c99717",
+      "title": "Athletic Club vs. Getafe",
+      "eventTitle": "Athletic Club vs. Getafe",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Athletic Club vs. Getafe",
+          "eventTitle": "Athletic Club vs. Getafe",
+          "eventId": "amzn1.dv.gti.30e301e4-bbf7-462b-9254-6c3f95c99717",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 6:30 PM IST",
+        "venue": "Estadio de San Mamés",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.88824676-155f-468c-bc5d-0d0a30cfd35c",
+      "title": "Celta Vigo vs. Betis",
+      "eventTitle": "Celta Vigo vs. Betis",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Celta Vigo vs. Betis",
+          "eventTitle": "Celta Vigo vs. Betis",
+          "eventId": "amzn1.dv.gti.88824676-155f-468c-bc5d-0d0a30cfd35c",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 8:45 PM IST",
+        "venue": "Estadio Abanca-Balaídos",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.06e17734-2943-4c61-a578-3bdb1a20920d",
+      "title": "Real Sociedad vs. Levante",
+      "eventTitle": "Real Sociedad vs. Levante",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Real Sociedad vs. Levante",
+          "eventTitle": "Real Sociedad vs. Levante",
+          "eventId": "amzn1.dv.gti.06e17734-2943-4c61-a578-3bdb1a20920d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 11 PM IST",
+        "venue": "Estadio Municipal de Anoeta",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.35cd5a33-1bfa-45f6-885f-8fb957dc1625",
+      "title": "Barcelona vs. Real Madrid",
+      "eventTitle": "Barcelona vs. Real Madrid",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Barcelona vs. Real Madrid",
+          "eventTitle": "Barcelona vs. Real Madrid",
+          "eventId": "amzn1.dv.gti.35cd5a33-1bfa-45f6-885f-8fb957dc1625",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Mon, Oct 26 1:30 AM IST",
+        "venue": "Spotify Camp Nou",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     }
   ]
