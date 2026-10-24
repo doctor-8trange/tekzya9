@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "09:46:26 AM 24-10-2026",
-  "total_matches": 1,
-  "live_matches": 1,
-  "upcoming_matches": 23,
+  "last_updated": "11:09:57 AM 24-10-2026",
+  "total_matches": 22,
+  "live_matches": 3,
+  "upcoming_matches": 19,
   "live": [
     {
       "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
@@ -17,14 +17,14 @@
           "entityType": "LIVE_EVENT_ITEM",
           "title": "1st Unofficial Test - Day 1 - 24 Oct 2026",
           "eventTitle": "1st Unofficial Test - Day 1 - 24 Oct 2026",
-          "eventId": "amzn1.dv.gti.9fc36757-0ea7-4ced-8802-cfa960a558fe",
+          "eventId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-16X9/en-US.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201/5/HERO-16X9/en-US.jpeg"
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "date": "Oct 24, 2026",
@@ -59,7 +59,7 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sony liv",
+        "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
@@ -89,6 +89,150 @@
           ]
         }
       }
+    },
+    {
+      "titleId": "amzn1.dv.gti.2d938955-d3e3-44e9-934f-e0cbb0681884",
+      "title": "Genesis Championship - Day 3 - 24 Oct 2026",
+      "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Genesis Championship - Day 3 - 24 Oct 2026",
+          "eventTitle": "Genesis Championship - Day 3 - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08bc5abe-ad40-4e07-bb71-456a14629b75/2/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "Sony LIV",
+        "message": "sony liv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:09:28 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/ynp7oxf1f7/out/v1/8a809f6fa177406687df22e5eb984730/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d1c6d09265c150b401989bc99f7d434f:19d42caab8663e4590cec24078598b6e",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "0cbQkmXBULQBmJvJn31DTw",
+              "k": "GdQsqrhmPkWQzsJAeFmLbg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.89f839b8-c50d-4e28-bcd7-32a30d19858e",
+      "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
+      "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
+          "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {},
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "Sony LIV",
+        "message": "sony liv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:09:29 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/xvcbwakrvd/out/v1/721ac23bb8a848f0ae07fc55a4e0e2ac/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "5a2aedfe56b55d84eadb88bcd6f67f9b:20ed40aa4c5b079b81374554cda5343d",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Wirt_la1XYTq24i81vZ_mw",
+              "k": "IO1AqkxbB5uBN0VUzaU0PQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     }
   ],
   "upcoming": [
@@ -96,484 +240,940 @@
       "titleId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
       "title": "New Zealand vs. India",
       "eventTitle": "New Zealand vs. India",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "New Zealand vs. India",
+          "eventTitle": "New Zealand vs. India",
+          "eventId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Live at 11:30 AM IST",
-        "venue": "Hagley Oval"
+        "venue": "Hagley Oval",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "Watch New Zealand take on India in the New Zealand v India Twenty20 Series 2026",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef",
-      "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-      "eventTitle": "LINK Hong Kong Open - Day 3 - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 10 AM IST"
-      },
-      "liveSchedule": {},
-      "synopsis": "Catch all the action from the Day 3 of LINK Hong Kong Open, LIVE on Sony LIV.",
-      "titleAttributes": {},
-      "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce993ba5-6d0a-4e09-bc16-ec5f852dfcef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be",
       "title": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
       "eventTitle": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 6:20 PM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
+          "eventTitle": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "Punjab Falcons take on Haryana Lions in the Salute Tiranga Cricket League 2026. Watch all the action LIVE, only on Sony LIV.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 6:20 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.fe435f01-5a3b-42c8-aa5e-d10f47d992c5",
       "title": "OFC vs NorthEast United FC - 24 Oct 2026",
       "eventTitle": "OFC vs NorthEast United FC - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 7 PM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "OFC vs NorthEast United FC - 24 Oct 2026",
+          "eventTitle": "OFC vs NorthEast United FC - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.fe435f01-5a3b-42c8-aa5e-d10f47d992c5",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "OFC vs NorthEast United FC meet in an ISL clash, with both sides aiming to make an impact in Bhubaneswar. Catch all the action LIVE, only on Sony LIV.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 7 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe435f01-5a3b-42c8-aa5e-d10f47d992c5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
       "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
       "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 9:30 PM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
+          "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
+          "eventId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "Alexander Volkanovski defends his Featherweight title against undefeated contender Movsar Evloev at UFC 333. Watch all the action LIVE, only on Sony LIV.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 9:30 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
       "title": "1st Unofficial Test - Day 2 - 25 Oct 2026",
       "eventTitle": "1st Unofficial Test - Day 2 - 25 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Tomorrow 3:30 AM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "1st Unofficial Test - Day 2 - 25 Oct 2026",
+          "eventTitle": "1st Unofficial Test - Day 2 - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "Watch all the action from the Day 2 of 1st Unofficial Test of the India Tour of New Zealand 2026, LIVE on Sony LIV.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 3:30 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2",
       "title": "Genesis Championship - Day 4 - 25 Oct 2026",
       "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Tomorrow 9 AM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Genesis Championship - Day 4 - 25 Oct 2026",
+          "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "Watch all the action from DP World Genesis Championship Day 4, LIVE on Sony LIV.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 9 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a391ed4-1369-4364-a863-4f7ef51d53b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37",
       "title": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
       "eventTitle": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
+          "eventTitle": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
+          "eventId": "amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10 AM IST"
+        "timeBadge": "Tomorrow 10 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "Catch all the action from the Day 4 of LINK Hong Kong Open, LIVE on Sony LIV.",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png",
-        "logoScalarHorizontal": "emphasis"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e3e30f80-daeb-49ae-be2c-14ee78b1f341",
-      "title": "CBeebies",
-      "eventTitle": "CBeebies",
-      "liveInfo": {},
-      "liveSchedule": {},
-      "synopsis": null,
-      "titleAttributes": {},
-      "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
         "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/bbckidsin/logos/channels-logo-white._CB567011782_.png",
-        "message": "bbc kids"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.2cbabc27-c732-8b38-fb63-7ed07de2283e",
-      "title": "Manorama News",
-      "eventTitle": "Manorama News",
-      "liveInfo": {},
-      "liveSchedule": {},
-      "synopsis": null,
-      "titleAttributes": {},
-      "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/manoramamaxin/logos/channels-logo-white._CB768606248_.png",
-        "logoScalarHorizontal": "emphasis",
-        "message": "manoramamax"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International",
-      "eventTitle": "NBA TV International",
-      "liveInfo": {},
-      "liveSchedule": {},
-      "synopsis": null,
-      "titleAttributes": {},
-      "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-logo-white._CB800626150_.png",
-        "message": "nba league pass"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.ad1f427e-c8c4-4193-a069-48e9a437a4b2",
       "title": "Namibia vs. Ireland",
       "eventTitle": "Namibia vs. Ireland",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:30 PM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Namibia vs. Ireland",
+          "eventTitle": "Namibia vs. Ireland",
+          "eventId": "amzn1.dv.gti.ad1f427e-c8c4-4193-a069-48e9a437a4b2",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "From High Performance Oval in Windhoek, Namibia.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 1:30 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ad1f427e-c8c4-4193-a069-48e9a437a4b2/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.a0767f75-5c58-4493-a030-c42f23f6c13e",
       "title": "Rayo Vallecano vs. Elche CF",
       "eventTitle": "Rayo Vallecano vs. Elche CF",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Rayo Vallecano vs. Elche CF",
+          "eventTitle": "Rayo Vallecano vs. Elche CF",
+          "eventId": "amzn1.dv.gti.a0767f75-5c58-4493-a030-c42f23f6c13e",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Live at 5:30 PM IST",
-        "venue": "Estadio de Vallecas"
+        "venue": "Estadio de Vallecas",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "From Campo de Futbol de Vallecas in Madrid, Spain.",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0767f75-5c58-4493-a030-c42f23f6c13e/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
       "title": "Santander vs. Espanyol",
       "eventTitle": "Santander vs. Espanyol",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Santander vs. Espanyol",
+          "eventTitle": "Santander vs. Espanyol",
+          "eventId": "amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Live at 7:45 PM IST",
-        "venue": "Campos de Sport de El Sardinero"
+        "venue": "Campos de Sport de El Sardinero",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "LaLiga: Watch Real Racing Club and Reial Club Deportiu Espanyol de Barcelona face off at Campos de Sport de El Sardinero broadcasting live from Santander!",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f80186-edd8-4803-beb4-ffb26f9fc93b/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.aa91a6c6-b7a4-44ca-bc25-de64fd13eb9d",
       "title": "Valencia CF vs. Villarreal CF",
       "eventTitle": "Valencia CF vs. Villarreal CF",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Valencia CF vs. Villarreal CF",
+          "eventTitle": "Valencia CF vs. Villarreal CF",
+          "eventId": "amzn1.dv.gti.aa91a6c6-b7a4-44ca-bc25-de64fd13eb9d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Live at 10 PM IST",
-        "venue": "Estadio de Mestalla"
+        "venue": "Estadio de Mestalla",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "From Mestalla Stadium in Valencia, Valencian Community, Spain.",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aa91a6c6-b7a4-44ca-bc25-de64fd13eb9d/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272",
       "title": "United States Grand Prix, Practice 3",
       "eventTitle": "United States Grand Prix, Practice 3",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 11 PM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "United States Grand Prix, Practice 3",
+          "eventTitle": "United States Grand Prix, Practice 3",
+          "eventId": "amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "From Circuit of the Americas in Austin, Texas.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 11 PM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c578f975-52c2-44b9-b672-f892d91b3272/8/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.9065ba28-409d-4bdf-9522-443756611792",
       "title": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
       "eventTitle": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+          "eventTitle": "Atlético Madrid vs. Real Club Deportivo de A Coruña",
+          "eventId": "amzn1.dv.gti.9065ba28-409d-4bdf-9522-443756611792",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 12:30 AM IST",
-        "venue": "Estádio Metropolitano"
+        "venue": "Estádio Metropolitano",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "From Riyadh Air Metropolitano in Madrid.",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9065ba28-409d-4bdf-9522-443756611792/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.9c6c4f60-89a7-4b3f-ad29-89874abb8136",
       "title": "United States Grand Prix, Qualifying",
       "eventTitle": "United States Grand Prix, Qualifying",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Tomorrow 2:30 AM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "United States Grand Prix, Qualifying",
+          "eventTitle": "United States Grand Prix, Qualifying",
+          "eventId": "amzn1.dv.gti.9c6c4f60-89a7-4b3f-ad29-89874abb8136",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "From Circuit of the Americas in Austin, Texas.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 2:30 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c6c4f60-89a7-4b3f-ad29-89874abb8136/9/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.538905de-4c0f-4c52-b197-b143bb547380",
       "title": "Grand Prix of Australia",
       "eventTitle": "Grand Prix of Australia",
-      "liveInfo": {
-        "status": "UPCOMING",
-        "timeBadge": "Tomorrow 4:30 AM IST"
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Grand Prix of Australia",
+          "eventTitle": "Grand Prix of Australia",
+          "eventId": "amzn1.dv.gti.538905de-4c0f-4c52-b197-b143bb547380",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
       },
-      "liveSchedule": {},
-      "synopsis": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
-      "titleAttributes": {},
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 4:30 AM IST",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
+      },
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.538905de-4c0f-4c52-b197-b143bb547380/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.30e301e4-bbf7-462b-9254-6c3f95c99717",
       "title": "Athletic Club vs. Getafe",
       "eventTitle": "Athletic Club vs. Getafe",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Athletic Club vs. Getafe",
+          "eventTitle": "Athletic Club vs. Getafe",
+          "eventId": "amzn1.dv.gti.30e301e4-bbf7-462b-9254-6c3f95c99717",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 6:30 PM IST",
-        "venue": "Estadio de San Mamés"
+        "venue": "Estadio de San Mamés",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "LaLiga: Watch Athletic Club and Getafe CF face off at Estadio de San Mamés broadcasting live from Bilbao!",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30e301e4-bbf7-462b-9254-6c3f95c99717/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.88824676-155f-468c-bc5d-0d0a30cfd35c",
       "title": "Celta Vigo vs. Betis",
       "eventTitle": "Celta Vigo vs. Betis",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Celta Vigo vs. Betis",
+          "eventTitle": "Celta Vigo vs. Betis",
+          "eventId": "amzn1.dv.gti.88824676-155f-468c-bc5d-0d0a30cfd35c",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 8:45 PM IST",
-        "venue": "Estadio Abanca-Balaídos"
+        "venue": "Estadio Abanca-Balaídos",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "LaLiga: Watch Celta Vigo and Betis face off at Estadio Abanca-Balaídos broadcasting live from Vigo!",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.88824676-155f-468c-bc5d-0d0a30cfd35c/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.06e17734-2943-4c61-a578-3bdb1a20920d",
       "title": "Real Sociedad vs. Levante",
       "eventTitle": "Real Sociedad vs. Levante",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Real Sociedad vs. Levante",
+          "eventTitle": "Real Sociedad vs. Levante",
+          "eventId": "amzn1.dv.gti.06e17734-2943-4c61-a578-3bdb1a20920d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Tomorrow 11 PM IST",
-        "venue": "Estadio Municipal de Anoeta"
+        "venue": "Estadio Municipal de Anoeta",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "LaLiga: Watch Real Sociedad de Fútbol and Levante UD face off at Estadio Municipal de Anoeta broadcasting live from Donostia-San Sebastián!",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06e17734-2943-4c61-a578-3bdb1a20920d/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
       "titleId": "amzn1.dv.gti.35cd5a33-1bfa-45f6-885f-8fb957dc1625",
       "title": "Barcelona vs. Real Madrid",
       "eventTitle": "Barcelona vs. Real Madrid",
-      "liveInfo": {
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Barcelona vs. Real Madrid",
+          "eventTitle": "Barcelona vs. Real Madrid",
+          "eventId": "amzn1.dv.gti.35cd5a33-1bfa-45f6-885f-8fb957dc1625",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
         "status": "UPCOMING",
         "timeBadge": "Mon, Oct 26 1:30 AM IST",
-        "venue": "Spotify Camp Nou"
+        "venue": "Spotify Camp Nou",
+        "liveliness": "UPCOMING",
+        "inferredTimezone": "Asia/Kolkata",
+        "inferredTimezoneAbbreviation": "IST"
       },
-      "liveSchedule": {},
-      "synopsis": "LaLiga: Watch Barcelona and Real Madrid face off at Spotify Camp Nou broadcasting live from Barcelona!",
-      "titleAttributes": {},
       "images": {
-        "cover": {
-          "url": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35cd5a33-1bfa-45f6-885f-8fb957dc1625/4/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        }
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": ""
+        },
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png",
-        "logoScalarHorizontal": "subtle"
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     }
   ]
