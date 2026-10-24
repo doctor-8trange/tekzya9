@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:16:56 AM 24-10-2026",
+  "last_updated": "11:32:39 AM 24-10-2026",
   "total_matches": 22,
-  "live_matches": 3,
-  "upcoming_matches": 19,
+  "live_matches": 4,
+  "upcoming_matches": 18,
   "live": [
     {
       "titleId": "amzn1.dv.gti.25f8cb07-027e-4638-8cc5-e8bd983d1201",
@@ -233,59 +233,81 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "titleId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
-      "title": "New Zealand vs. India",
+      "titleId": "amzn1.dv.gti.6d4ae6c4-b692-48a2-9ddd-ea3976a535a9",
+      "title": "2nd T20I - 24 Oct 2026",
       "eventTitle": "New Zealand vs. India",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "New Zealand vs. India",
+          "title": "2nd T20I - 24 Oct 2026",
           "eventTitle": "New Zealand vs. India",
           "eventId": "amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "",
-          "boxartImage": "",
-          "heroImage": ""
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/HERO-16X9/en-US.jpeg"
         },
         "liveEventDateTime": {},
         "entityClassifications": [
           "Sports"
         ]
       },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 11:30 AM IST",
-        "venue": "Hagley Oval",
-        "liveliness": "UPCOMING",
-        "inferredTimezone": "Asia/Kolkata",
-        "inferredTimezoneAbbreviation": "IST"
-      },
+      "liveSchedule": {},
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-4X3/en-US.jpg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": ""
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/BOXART-16X9/en-US.jpeg"
         },
-        "heroImageFragments": {}
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17627b9-61c1-40f0-bb37-72d940cbc2c0/10/HERO-16X9/en-US.jpeg"
+        }
       },
       "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
+        "name": "Sony LIV",
+        "message": "sony liv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:32:37 AM 24-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Fastly",
+            "url": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/pm2e3zfxkc/out/v1/1cc24fdea32d4d549612dbe4ebc05d9e/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "AVAcNAHaurDmjB1Ysu1b3g",
+              "k": "TBFnIgxdE1jWMCRSgc66WA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.47532ac7-d38c-4104-a0ce-9462359ae2be",
       "title": "Punjab Falcons vs Haryana Lions - 24 Oct 2026",
