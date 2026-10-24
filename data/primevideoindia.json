@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:25:58 AM 25-10-2026",
+  "last_updated": "12:30:08 AM 25-10-2026",
   "total_matches": 10,
   "live_matches": 1,
   "upcoming_matches": 9,
@@ -19,10 +19,18 @@
           "eventTitle": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026",
           "eventId": "amzn1.dv.gti.f3bb5372-828d-4ba0-9aeb-6c6c3ddbc4d8",
           "originalLanguages": [
-            "English"
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
           ],
           "primarySpokenLanguages": [
-            "English"
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
           ]
         },
         "images": {
@@ -58,23 +66,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "11:24:11 PM 24-10-2026",
+        "keys_extracted_time": "12:30:08 AM 25-10-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/eikcmmwxuy/out/v1/a5e1a01b81f44fc4a5d8d03045e70322/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "36541dbbd8f98a41b8341abd20892236:2744736a24dc533c36fd1dac9322c40b",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "GZSx3339LoqNe5vz-5AChQ",
-              "k": "IqFESz2hjhORkWZbPWUoNQ"
+              "kid": "NlQdu9j5ikG4NBq9IIkiNg",
+              "k": "J0RzaiTcUzw2_R2skyLECw"
             },
             {
               "kty": "oct",
