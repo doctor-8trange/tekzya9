@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "09:00:08 PM 25-10-2026",
+  "last_updated": "09:15:06 PM 25-10-2026",
   "total_matches": 20,
-  "live_matches": 5,
-  "upcoming_matches": 15,
+  "live_matches": 4,
+  "upcoming_matches": 16,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
@@ -75,86 +75,6 @@
               "kty": "oct",
               "kid": "Amd_94XlbTADjaMj4TfzDw",
               "k": "VxDgDJUCcN8ZBcNkiSX_SA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a",
-      "title": "Churchill Brothers SC vs PFC - 25 Oct 2026",
-      "eventTitle": "Churchill Brothers SC vs PFC - 25 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Churchill Brothers SC vs PFC - 25 Oct 2026",
-          "eventTitle": "Churchill Brothers SC vs PFC - 25 Oct 2026",
-          "eventId": "amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a",
-          "originalLanguages": [
-            "English",
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "4:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "04:45:06 PM 25-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/sswxx6matd/out/v1/a611dc3e04b34f26bf084d773e99835c/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "b54aa1aba6165c7a71ddd65e76a129eb:1507d65af2642da9dd3e1928556f8257",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "tUqhq6YWXHpx3dZedqEp6w",
-              "k": "FQfWWvJkLandPhkoVW-CVw"
             },
             {
               "kty": "oct",
@@ -1101,6 +1021,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b",
+      "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
+      "eventTitle": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
+          "eventTitle": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
+          "eventId": "amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Sun, Nov 1 5:30 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
