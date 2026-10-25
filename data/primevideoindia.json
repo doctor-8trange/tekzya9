@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "09:15:06 PM 25-10-2026",
+  "last_updated": "10:00:02 PM 25-10-2026",
   "total_matches": 20,
-  "live_matches": 4,
-  "upcoming_matches": 16,
+  "live_matches": 3,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
@@ -153,88 +153,6 @@
               "kty": "oct",
               "kid": "7dtlMBwYjJnNmwL_o_ViZg",
               "k": "P0i0v2CUaZijvvVssSgnrg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865",
-      "title": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026",
-      "eventTitle": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026",
-          "eventTitle": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026",
-          "eventId": "amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865",
-          "originalLanguages": [
-            "English",
-            "Hindi",
-            "Malayalam"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Malayalam"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "7 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "07:15:08 PM 25-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dkiz2zoaey/out/v1/fe3befad3b614428925bcb941049c89f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "9c722c8df9b53e69c61bfb8240ebbf75:ffc973b5fb05c069fcb6cea1882322f4",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "nHIsjfm1PmnGG_uCQOu_dQ",
-              "k": "_8lztfsFwGn8ts6hiCMi9A"
             },
             {
               "kty": "oct",
@@ -1068,6 +986,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780",
+      "title": "5th T20I - 1 Nov 2026",
+      "eventTitle": "5th T20I - 1 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th T20I - 1 Nov 2026",
+          "eventTitle": "5th T20I - 1 Nov 2026",
+          "eventId": "amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Sun, Nov 1 11:30 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
