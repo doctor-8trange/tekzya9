@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "01:15:02 PM 25-10-2026",
-  "total_matches": 16,
-  "live_matches": 2,
+  "last_updated": "02:30:05 PM 25-10-2026",
+  "total_matches": 17,
+  "live_matches": 3,
   "upcoming_matches": 14,
   "live": [
     {
@@ -162,9 +162,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
       "title": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
@@ -176,8 +174,12 @@
           "title": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
           "eventTitle": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
           "eventId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -190,9 +192,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 2:20 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "2:20 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -210,8 +212,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "02:30:05 PM 25-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lf22blbnxf/out/v1/5611b1fa1b7549d8a926198ba4c389f3/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "02677ff785e56d30038da323e137f30f:5710e00c950270df1905c3648925ff48",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Amd_94XlbTADjaMj4TfzDw",
+              "k": "VxDgDJUCcN8ZBcNkiSX_SA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.981ee6e5-2613-4338-b344-720ff639f36a",
       "title": "Churchill Brothers SC vs PFC - 25 Oct 2026",
@@ -344,6 +375,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d",
+      "title": "Family Full House With Rohit Sharma",
+      "eventTitle": "Family Full House With Rohit Sharma",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Family Full House With Rohit Sharma",
+          "eventTitle": "Family Full House With Rohit Sharma",
+          "eventId": "amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Live at 8:55 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abb06ea0-223f-4fac-9de5-378e58c2fc0d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
