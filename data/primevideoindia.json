@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "03:45:04 AM 25-10-2026",
-  "total_matches": 9,
-  "live_matches": 1,
-  "upcoming_matches": 8,
+  "last_updated": "08:15:06 AM 25-10-2026",
+  "total_matches": 12,
+  "live_matches": 2,
+  "upcoming_matches": 10,
   "live": [
     {
       "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
@@ -84,9 +84,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77",
       "title": "Genesis Championship - Day 4 - 25 Oct 2026",
@@ -98,8 +96,12 @@
           "title": "Genesis Championship - Day 4 - 25 Oct 2026",
           "eventTitle": "Genesis Championship - Day 4 - 25 Oct 2026",
           "eventId": "amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -112,9 +114,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 8 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "8 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -132,8 +134,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "08:15:06 AM 25-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mv4od6t4lm/out/v1/4d449b68a6824e9f986a04a0c6a989d3/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "33e7c9bc49407bb8c787830e6fdbbbfc:9eec04225b2eb6edd1544889d1a7336c",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "M-fJvElAe7jHh4MOb9u7_A",
+              "k": "nuwEIlsutu3RVEiJ0aczbA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37",
       "title": "LINK Hong Kong Open - Day 4 - 25 Oct 2026",
@@ -454,6 +485,147 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
+      "title": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
+      "eventTitle": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
+          "eventTitle": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
+          "eventId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 2:20 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf",
+      "title": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
+      "eventTitle": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
+          "eventTitle": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
+          "eventId": "amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 6:20 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b",
+      "title": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
+      "eventTitle": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
+          "eventTitle": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
+          "eventId": "amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 7 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
