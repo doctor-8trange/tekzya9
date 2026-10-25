@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "10:15:08 AM 25-10-2026",
+  "last_updated": "10:30:08 AM 25-10-2026",
   "total_matches": 15,
-  "live_matches": 3,
-  "upcoming_matches": 12,
+  "live_matches": 4,
+  "upcoming_matches": 11,
   "live": [
     {
       "titleId": "amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7",
@@ -240,9 +240,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac",
       "title": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
@@ -254,8 +252,12 @@
           "title": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
           "eventTitle": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026",
           "eventId": "amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -268,9 +270,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 10:20 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "10:20 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -288,8 +290,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "10:30:08 AM 25-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/l8potkshei/out/v1/cea55027ea7548499e9afcdf38f9233f/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "101ef593759d6947487c38bdcc0578c6:06fad45d5ef1da1191de2357ed751e21",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "EB71k3WdaUdIfDi9zAV4xg",
+              "k": "BvrUXV7x2hGR3iNX7XUeIQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
       "title": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026",
