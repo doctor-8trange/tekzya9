@@ -2,12 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "25-10-2026 23:15",
+  "last_updated": "03:45:08 AM 26-10-2026",
   "total_matches": 20,
-  "live_matches": 0,
-  "upcoming_matches": 20,
-  "live": [],
-  "upcoming": [
+  "live_matches": 1,
+  "upcoming_matches": 19,
+  "live": [
     {
       "titleId": "amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9",
       "title": "1st Unofficial Test - Day 3 - 26 Oct 2026",
@@ -19,8 +18,12 @@
           "title": "1st Unofficial Test - Day 3 - 26 Oct 2026",
           "eventTitle": "1st Unofficial Test - Day 3 - 26 Oct 2026",
           "eventId": "amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -33,9 +36,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Tomorrow 3:30 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "3:30 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -53,8 +56,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "03:45:08 AM 26-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xkpgdlhgip/out/v1/08f0622674354dc382915985385a1dc8/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "60ca34cdd5809cf5849f07d028d61c95:1cfe8b5ab740a4699fffaf0a2fd2790d",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "YMo0zdWAnPWEnwfQKNYclQ",
+              "k": "HP6LWrdApGmf_68KL9J5DQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
       "title": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
@@ -81,7 +113,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 2:20 PM IST",
+        "timeBadge": "Live at 2:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -128,7 +160,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 6:20 PM IST",
+        "timeBadge": "Live at 6:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -175,7 +207,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 7 PM IST",
+        "timeBadge": "Live at 7 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -222,7 +254,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Oct 27 3:30 AM IST",
+        "timeBadge": "Tomorrow 3:30 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -269,7 +301,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Oct 27 11:30 AM IST",
+        "timeBadge": "Tomorrow 11:30 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -316,7 +348,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Oct 27 6:20 PM IST",
+        "timeBadge": "Tomorrow 6:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
