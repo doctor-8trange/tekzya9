@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "04:45:06 PM 25-10-2026",
+  "last_updated": "06:30:07 PM 25-10-2026",
   "total_matches": 20,
-  "live_matches": 2,
-  "upcoming_matches": 18,
+  "live_matches": 3,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2314c375-a19e-4216-974e-2cc654f34c8c",
@@ -164,9 +164,7 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a",
       "title": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
@@ -178,8 +176,12 @@
           "title": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
           "eventTitle": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026",
           "eventId": "amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.965c5921-00f7-4604-87bc-503797d6c12a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -192,9 +194,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 6:20 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "6:20 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -212,8 +214,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "06:30:07 PM 25-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/allrau25as/out/v1/f7b51957ae274b1b9640b2bc57ad66bc/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "eddb65301c188c99cd9b02ffa3f56266:3f48b4bf60946998a3bef56cb12827ae",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "7dtlMBwYjJnNmwL_o_ViZg",
+              "k": "P0i0v2CUaZijvvVssSgnrg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.c5a2136e-8a74-4b0f-b9b5-2c6edb98a865",
       "title": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026",
