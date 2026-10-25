@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 25-10-2026 10:30
+#DATE:- 25-10-2026 11:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4283d65b-7f98-422d-b34a-e2f4a49f26d7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | 1st Unofficial Test - Day 2 - 25 Oct 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GmZi8MPvdGO86lerK4_hAA","k":"0Kvu9kAOWcmHksdHw8x53A"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nkrlaoxl6i/out/v1/58857a10d75a4ad9a6c37a4c981dca55/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ec7dcd6-be6d-412c-a87b-0a17b2f2ab77/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | Genesis Championship - Day 4 - 25 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,7 +11,7 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv4od6t4lm/out/v1/4d449b68a6824e9f986a04a0c6a989d3/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mv4od6t4lm/out/v1/4d449b68a6824e9f986a04a0c6a989d3/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1bef5419-ef19-4270-9221-db6c42655f37/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | LINK Hong Kong Open - Day 4 - 25 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -31,7 +21,7 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jwwc42effj/out/v1/9e37f4f1bea54f4cb0e0bf33bd6f68a0/cenc.mpd
+https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/jwwc42effj/out/v1/9e37f4f1bea54f4cb0e0bf33bd6f68a0/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a865e13-aecd-4947-b2a1-371bf41ce1ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -41,4 +31,4 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jwwc42effj/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/l8potkshei/out/v1/cea55027ea7548499e9afcdf38f9233f/cenc.mpd
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/l8potkshei/out/v1/cea55027ea7548499e9afcdf38f9233f/cenc.mpd
