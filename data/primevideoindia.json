@@ -2,173 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "08:45:11 PM 26-10-2026",
-  "total_matches": 20,
-  "live_matches": 4,
-  "upcoming_matches": 16,
+  "last_updated": "11:15:03 PM 26-10-2026",
+  "total_matches": 19,
+  "live_matches": 2,
+  "upcoming_matches": 17,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf",
-      "title": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
-      "eventTitle": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
-          "eventTitle": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
-          "eventId": "amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "6:20 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "06:30:06 PM 26-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/4wlbzn6lki/out/v1/40c3dd5040344bda8469d52c6763bb9d/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d5141b93cbc5e72158cdc50c9175f3d5:eae4f41c3fff68423b7ab09d4d4959fc",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "1RQbk8vF5yFYzcUMkXXz1Q",
-              "k": "6uT0HD__aEI7erCdTUlZ_A"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b",
-      "title": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
-      "eventTitle": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
-          "eventTitle": "Mohun Bagan Super Giant vs CFC  - 26 Oct 2026",
-          "eventId": "amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b",
-          "originalLanguages": [
-            "English",
-            "Hindi",
-            "Bengali",
-            "Tamil"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Bengali",
-            "Tamil"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "7 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "07:15:06 PM 26-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "CAJwErhQNEm2dMCQtIajEw",
-              "k": "5hCZQa5vzDLbVhGHB2T8WQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.4f94eb86-0e70-429b-bb31-e2ea44f38693",
       "title": "Kaun Banega Crorepati",
@@ -1070,6 +908,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
+      "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+      "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+          "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+          "eventId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tue, Nov 3 3:30 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
