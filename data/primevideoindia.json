@@ -2,90 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "03:45:08 AM 26-10-2026",
+  "last_updated": "26-10-2026 11:00",
   "total_matches": 20,
-  "live_matches": 1,
-  "upcoming_matches": 19,
-  "live": [
-    {
-      "titleId": "amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9",
-      "title": "1st Unofficial Test - Day 3 - 26 Oct 2026",
-      "eventTitle": "1st Unofficial Test - Day 3 - 26 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "1st Unofficial Test - Day 3 - 26 Oct 2026",
-          "eventTitle": "1st Unofficial Test - Day 3 - 26 Oct 2026",
-          "eventId": "amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "3:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1216168d-bcaf-490a-a8d7-8b93a8323ac9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:45:08 AM 26-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xkpgdlhgip/out/v1/08f0622674354dc382915985385a1dc8/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "60ca34cdd5809cf5849f07d028d61c95:1cfe8b5ab740a4699fffaf0a2fd2790d",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "YMo0zdWAnPWEnwfQKNYclQ",
-              "k": "HP6LWrdApGmf_68KL9J5DQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "live_matches": 0,
+  "upcoming_matches": 20,
+  "live": [],
   "upcoming": [
     {
       "titleId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
@@ -243,8 +164,8 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -260,12 +181,12 @@
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -971,6 +892,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
+      "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+      "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+          "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+          "eventId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tue, Nov 3 3:30 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
