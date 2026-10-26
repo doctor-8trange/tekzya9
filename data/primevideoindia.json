@@ -2,90 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:45:03 PM 26-10-2026",
-  "total_matches": 18,
-  "live_matches": 1,
+  "last_updated": "27-10-2026 00:15",
+  "total_matches": 17,
+  "live_matches": 0,
   "upcoming_matches": 17,
-  "live": [
-    {
-      "titleId": "amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5",
-      "title": "Kon Honaar Crorepati",
-      "eventTitle": "Kon Honaar Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5",
-          "originalLanguages": [
-            "Marathi"
-          ],
-          "primarySpokenLanguages": [
-            "Marathi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "8:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:45:11 PM 26-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bzofcbtdbd/out/v1/80691ce91d064c70a4c2a2662254b6ab/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1e0629e927e9c32854ab003fe9d5ee3f:df24a648eb31b5728c6c94754dcc5830",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "HgYp6SfpwyhUqwA_6dXuPw",
-              "k": "3ySmSOsxtXKMbJR1TcxYMA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "live": [],
   "upcoming": [
     {
       "titleId": "amzn1.dv.gti.cdead1e8-2c1f-4f11-8dd2-6acfbee7e40f",
@@ -113,7 +34,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 11:30 AM IST",
+        "timeBadge": "Live at 11:30 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -254,7 +175,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 3:30 AM IST",
+        "timeBadge": "Live at 3:30 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -301,7 +222,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 6:20 PM IST",
+        "timeBadge": "Live at 6:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -348,7 +269,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Oct 28 10:20 AM IST",
+        "timeBadge": "Tomorrow 10:20 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -395,7 +316,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Oct 28 7 PM IST",
+        "timeBadge": "Tomorrow 7 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
