@@ -1,27 +1,7 @@
 #EXTM3U
-#DATE:- 26-10-2026 20:45
+#DATE:- 26-10-2026 23:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | UP Dhurandhar vs Haryana Lions - 26 Oct 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1RQbk8vF5yFYzcUMkXXz1Q","k":"6uT0HD__aEI7erCdTUlZ_A"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/4wlbzn6lki/out/v1/40c3dd5040344bda8469d52c6763bb9d/cenc.mpd
-#EXTINF:-1 tvg-id="amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1abac31-bb07-4abc-8080-ac1ed63f367b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | Mohun Bagan Super Giant vs CFC  - 26 Oct 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CAJwErhQNEm2dMCQtIajEw","k":"5hCZQa5vzDLbVhGHB2T8WQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.4f94eb86-0e70-429b-bb31-e2ea44f38693" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4f94eb86-0e70-429b-bb31-e2ea44f38693/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Kaun Banega Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -31,7 +11,7 @@ https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/yjxy72y9zr/out/v1/f1e8596753dd41189669802c449184b7/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/yjxy72y9zr/out/v1/f1e8596753dd41189669802c449184b7/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71771771-f024-4496-ba41-156558514dd5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",MAR | Kon Honaar Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -41,4 +21,4 @@ https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/yjxy7
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bzofcbtdbd/out/v1/80691ce91d064c70a4c2a2662254b6ab/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bzofcbtdbd/out/v1/80691ce91d064c70a4c2a2662254b6ab/cenc.mpd
