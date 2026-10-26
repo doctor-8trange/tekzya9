@@ -2,12 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "26-10-2026 11:00",
+  "last_updated": "02:30:05 PM 26-10-2026",
   "total_matches": 20,
-  "live_matches": 0,
-  "upcoming_matches": 20,
-  "live": [],
-  "upcoming": [
+  "live_matches": 1,
+  "upcoming_matches": 19,
+  "live": [
     {
       "titleId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
       "title": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
@@ -19,8 +18,12 @@
           "title": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
           "eventTitle": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026",
           "eventId": "amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -33,9 +36,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 2:20 PM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "2:20 PM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -53,8 +56,37 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "02:30:05 PM 26-10-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/llrxs6o8bo/out/v1/d8031c17545648d5a8e065fd22ad5914/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d7e3bcfc60b4838d7a0b019ae6b24093:83f22f60d147a4dfb51db331410a9717",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "1-O8_GC0g416CwGa5rJAkw",
+              "k": "g_IvYNFHpN-1HbMxQQqXFw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
-    },
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf",
       "title": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026",
