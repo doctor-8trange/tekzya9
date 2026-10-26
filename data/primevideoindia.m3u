@@ -1,17 +1,7 @@
 #EXTM3U
-#DATE:- 26-10-2026 18:30
+#DATE:- 26-10-2026 18:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93a98ab5-b12e-4efe-8fcd-5c474a790841/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1-O8_GC0g416CwGa5rJAkw","k":"g_IvYNFHpN-1HbMxQQqXFw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/llrxs6o8bo/out/v1/d8031c17545648d5a8e065fd22ad5914/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f9d95dd-7b70-4596-b6e7-a72ce26c80cf/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | UP Dhurandhar vs Haryana Lions - 26 Oct 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
