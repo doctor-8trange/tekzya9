@@ -2,89 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "08:45:08 PM 27-10-2026",
-  "total_matches": 18,
-  "live_matches": 3,
+  "last_updated": "10:45:06 PM 27-10-2026",
+  "total_matches": 17,
+  "live_matches": 2,
   "upcoming_matches": 15,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279",
-      "title": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026",
-      "eventTitle": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026",
-          "eventTitle": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026",
-          "eventId": "amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "6:20 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "06:30:06 PM 27-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/1ytafl7m5a/out/v1/d83ce2a4db854e78be3065b0e1829c4f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "7585de935cea5201ebbdb0700b545154:14925f089de0b499de2fcc00dade1f28",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "dYXek1zqUgHrvbBwC1RRVA",
-              "k": "FJJfCJ3gtJneL8wA2t4fKA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.8eece71d-fe35-4f55-aa76-4d623a5063a4",
       "title": "Kon Honaar Crorepati",
