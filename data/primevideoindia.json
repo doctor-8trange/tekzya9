@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "10:45:06 PM 27-10-2026",
-  "total_matches": 17,
-  "live_matches": 2,
+  "last_updated": "11:45:01 PM 27-10-2026",
+  "total_matches": 16,
+  "live_matches": 1,
   "upcoming_matches": 15,
   "live": [
     {
@@ -75,84 +75,6 @@
               "kty": "oct",
               "kid": "14_edqzh4NI55XoOTRKboA",
               "k": "0jKN8ile1DEMZO3X_XbcOg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48",
-      "title": "Kaun Banega Crorepati",
-      "eventTitle": "Kaun Banega Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kaun Banega Crorepati",
-          "eventTitle": "Kaun Banega Crorepati",
-          "eventId": "amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "8:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3e7320a-0d1a-44ef-961c-59c06ebffe48/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:45:08 PM 27-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/67tx4cbdrt/out/v1/4740bda68af7431d816a45b48487bb51/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "dc0cbfa362273f997e004c45efff7c46:aaf069feaebd8d0fa947d67b5ec7ff8e",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "3Ay_o2InP5l-AExF7_98Rg",
-              "k": "qvBp_q69jQ-pR9Z7Xsf_jg"
             },
             {
               "kty": "oct",
