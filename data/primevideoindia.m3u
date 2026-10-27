@@ -1,3 +1,14 @@
 #EXTM3U
-#DATE:- 27-10-2026 16:45
+#DATE:- 27-10-2026 18:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55031168-c4c7-48b6-9147-9a4e0d59a279/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dYXek1zqUgHrvbBwC1RRVA","k":"FJJfCJ3gtJneL8wA2t4fKA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/1ytafl7m5a/out/v1/d83ce2a4db854e78be3065b0e1829c4f/cenc.mpd
