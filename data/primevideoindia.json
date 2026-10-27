@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:14:53 PM 27-10-2026",
-  "total_matches": 17,
-  "live_matches": 2,
+  "last_updated": "12:30:05 PM 27-10-2026",
+  "total_matches": 16,
+  "live_matches": 1,
   "upcoming_matches": 15,
   "live": [
     {
@@ -75,84 +75,6 @@
               "kty": "oct",
               "kid": "9hoPRVAOhmB9FGescEMWkw",
               "k": "QWSVVLKoPyIUBnVt6_44NA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90",
-      "title": "1st Unofficial Test - Day 4 - 27 Oct 2026",
-      "eventTitle": "1st Unofficial Test - Day 4 - 27 Oct 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "1st Unofficial Test - Day 4 - 27 Oct 2026",
-          "eventTitle": "1st Unofficial Test - Day 4 - 27 Oct 2026",
-          "eventId": "amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "3:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63a079a7-5539-421f-84f4-50f780af1f90/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "12:14:53 PM 27-10-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/knsys6iw0a/out/v1/1a80dd06ef4d43efbd738a5cc21a0699/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "67d02dec1aeee2442ccd639007d3e089:e4137de42fb4558f340171a3e8fc22b9",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Z9At7Bru4kQszWOQB9PgiQ",
-              "k": "5BN95C-0VY80AXGj6PwiuQ"
             },
             {
               "kty": "oct",
