@@ -1,14 +1,3 @@
 #EXTM3U
-#DATE:- 27-10-2026 23:45
+#DATE:- 28-10-2026 00:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="amzn1.dv.gti.8eece71d-fe35-4f55-aa76-4d623a5063a4" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8eece71d-fe35-4f55-aa76-4d623a5063a4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",MAR | Kon Honaar Crorepati
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"14_edqzh4NI55XoOTRKboA","k":"0jKN8ile1DEMZO3X_XbcOg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tgjy7gggao/out/v1/a8a72b42e5bb467cb9b8f627f5d50937/cenc.mpd
