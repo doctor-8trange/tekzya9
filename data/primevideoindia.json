@@ -2,97 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:45:07 PM 14-11-2026",
+  "last_updated": "08:00:03 PM 14-11-2026",
   "total_matches": 20,
-  "live_matches": 3,
-  "upcoming_matches": 17,
+  "live_matches": 2,
+  "upcoming_matches": 18,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281",
-      "title": "Pakistan vs India - Final - 14 Nov 2026",
-      "eventTitle": "Pakistan vs India - Final - 14 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Pakistan vs India - Final - 14 Nov 2026",
-          "eventTitle": "Pakistan vs India - Final - 14 Nov 2026",
-          "eventId": "amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281",
-          "originalLanguages": [
-            "English",
-            "Hindi",
-            "Telugu",
-            "Tamil",
-            "Kannada"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Telugu",
-            "Tamil",
-            "Kannada"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d0c0955-eb44-44e3-beed-14d5f9d9d281/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "07:45:05 PM 14-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nmu39ei5qd/out/v1/f719e1c12f854d1288dfb717e998c967/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "fb3be9807b7debb53567b0c34d047a59:b25f8108cf26e8d4a269106f5ea9e338",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "-zvpgHt967U1Z7DDTQR6WQ",
-              "k": "sl-BCM8m6NSiaRBvXqnjOA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666",
       "title": "Kosovo vs. Israel",
@@ -1053,6 +967,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
+      "title": "Spain vs England - 16 Nov 2026",
+      "eventTitle": "Spain vs England - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Spain vs England - 16 Nov 2026",
+          "eventTitle": "Spain vs England - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Mon, Nov 16 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
