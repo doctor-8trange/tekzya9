@@ -2,29 +2,194 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "28-10-2026 00:15",
-  "total_matches": 15,
-  "live_matches": 0,
-  "upcoming_matches": 15,
-  "live": [],
+  "last_updated": "10:43:10 AM 14-11-2026",
+  "total_matches": 19,
+  "live_matches": 2,
+  "upcoming_matches": 17,
+  "live": [
+    {
+      "titleId": "amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613",
+      "title": "Philippine Open - Day 3 - 14 Nov 2026",
+      "eventTitle": "Philippine Open - Day 3 - 14 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Philippine Open - Day 3 - 14 Nov 2026",
+          "eventTitle": "Philippine Open - Day 3 - 14 Nov 2026",
+          "eventId": "amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "8 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.151c0b98-1a14-46ee-a0e4-5127ec6dc613/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "10:43:08 AM 14-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/vv73zl0zab/out/v1/3ae6b10ef9064f6ab23327426068d4ac/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "4de7d7bfa7aec67152a8a283d4333b8a:dd4e6a9df49375875d404e225991f07a",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "TefXv6euxnFSqKKD1DM7ig",
+              "k": "3U5qnfSTdYddQE4iWZHweg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df",
+      "title": "Pakistan vs India - Final - 14 Nov 2026",
+      "eventTitle": "Pakistan vs India - Final - 14 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Pakistan vs India - Final - 14 Nov 2026",
+          "eventTitle": "Pakistan vs India - Final - 14 Nov 2026",
+          "eventId": "amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df",
+          "originalLanguages": [
+            "English",
+            "Hindi",
+            "Telugu",
+            "Tamil",
+            "Kannada"
+          ],
+          "primarySpokenLanguages": [
+            "English",
+            "Hindi",
+            "Telugu",
+            "Tamil",
+            "Kannada"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "10:15 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "10:43:10 AM 14-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "wy9OobTdTkc27mZ-4Cqouw",
+              "k": "OukhsR09yrtUp0M_Blwu-g"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    }
+  ],
   "upcoming": [
     {
-      "titleId": "amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332",
-      "title": "4th T20I - 30 Oct 2026",
-      "eventTitle": "4th T20I - 30 Oct 2026",
+      "titleId": "amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd",
+      "title": "5th ODI - 15 Nov 2026",
+      "eventTitle": "5th ODI - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "4th T20I - 30 Oct 2026",
-          "eventTitle": "4th T20I - 30 Oct 2026",
-          "eventId": "amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -34,18 +199,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Fri, Oct 30 11:30 AM IST",
+        "timeBadge": "Tomorrow 6 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7deb0001-6d51-4580-b45a-897659dbd332/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -56,22 +221,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780",
-      "title": "5th T20I - 1 Nov 2026",
-      "eventTitle": "5th T20I - 1 Nov 2026",
+      "titleId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
+      "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+      "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "5th T20I - 1 Nov 2026",
-          "eventTitle": "5th T20I - 1 Nov 2026",
-          "eventId": "amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780",
+          "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+          "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+          "eventId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -81,18 +246,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Nov 1 11:30 AM IST",
+        "timeBadge": "Live at 12:30 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.27c08893-c6a2-4536-b812-169797185780/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -103,22 +268,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd",
-      "title": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026",
-      "eventTitle": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026",
+      "titleId": "amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666",
+      "title": "Kosovo vs. Israel",
+      "eventTitle": "Kosovo vs. Israel",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026",
-          "eventTitle": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026",
-          "eventId": "amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd",
+          "title": "Kosovo vs. Israel",
+          "eventTitle": "Kosovo vs. Israel",
+          "eventId": "amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -128,18 +293,19 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Live at 10:20 AM IST",
+        "timeBadge": "Live at 7:20 PM IST",
+        "venue": "Stadiumi Fadil Vokrri",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8149ec91-97ee-4b36-b473-528ecb5c73dd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
         },
         "heroImageFragments": {}
       },
@@ -150,22 +316,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34",
-      "title": "Final - 28 Oct 2026",
-      "eventTitle": "Final - 28 Oct 2026",
+      "titleId": "amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910",
+      "title": "Georgia vs. Hungary",
+      "eventTitle": "Georgia vs. Hungary",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Final - 28 Oct 2026",
-          "eventTitle": "Final - 28 Oct 2026",
-          "eventId": "amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34",
+          "title": "Georgia vs. Hungary",
+          "eventTitle": "Georgia vs. Hungary",
+          "eventId": "amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -175,18 +341,19 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Live at 6:20 PM IST",
+        "timeBadge": "Live at 10:20 PM IST",
+        "venue": "Mikheil Meskhis sakhelobis Stadioni",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a308b94-1e8d-49c9-8b87-89b66932eb34/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00e62f31-f376-44b7-b5e1-d24c2019d910/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
         },
         "heroImageFragments": {}
       },
@@ -197,22 +364,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c",
-      "title": "FC Goa vs Sporting Club Delhi - 28 Oct 2026",
-      "eventTitle": "FC Goa vs Sporting Club Delhi - 28 Oct 2026",
+      "titleId": "amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522",
+      "title": "Norway vs. Wales",
+      "eventTitle": "Norway vs. Wales",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "FC Goa vs Sporting Club Delhi - 28 Oct 2026",
-          "eventTitle": "FC Goa vs Sporting Club Delhi - 28 Oct 2026",
-          "eventId": "amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c",
+          "title": "Norway vs. Wales",
+          "eventTitle": "Norway vs. Wales",
+          "eventId": "amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -222,18 +389,19 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Live at 7 PM IST",
+        "timeBadge": "Live at 10:20 PM IST",
+        "venue": "Ullevaal Stadion",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d559e9d-8112-4aa8-8c98-de7d7c86b00c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5a48c26-6795-4697-864a-00e37176b522/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
         },
         "heroImageFragments": {}
       },
@@ -244,22 +412,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38",
-      "title": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026",
-      "eventTitle": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026",
+      "titleId": "amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b",
+      "title": "Portugal vs Denmark - 15 Nov 2026",
+      "eventTitle": "Portugal vs Denmark - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026",
-          "eventTitle": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026",
-          "eventId": "amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38",
+          "title": "Portugal vs Denmark - 15 Nov 2026",
+          "eventTitle": "Portugal vs Denmark - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -269,18 +437,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Fri, Oct 30 7 PM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ac63902-eb3c-4aa4-8e18-f3bfe2abfb38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29663854-1b18-4a99-a846-8be957f8b67b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -291,22 +459,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1",
-      "title": "2nd Unofficial Test - Day 1 - 31 Oct 2026",
-      "eventTitle": "2nd Unofficial Test - Day 1 - 31 Oct 2026",
+      "titleId": "amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0",
+      "title": "Romania vs Poland - 15 Nov 2026",
+      "eventTitle": "Romania vs Poland - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "2nd Unofficial Test - Day 1 - 31 Oct 2026",
-          "eventTitle": "2nd Unofficial Test - Day 1 - 31 Oct 2026",
-          "eventId": "amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1",
+          "title": "Romania vs Poland - 15 Nov 2026",
+          "eventTitle": "Romania vs Poland - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -316,18 +484,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sat, Oct 31 3:30 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dfab6bfc-260c-4a39-b634-87f21e53aad1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30f3a5a5-2779-41f0-ae40-9080e1ba2dc0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -338,22 +506,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b",
-      "title": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026",
-      "eventTitle": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026",
+      "titleId": "amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb",
+      "title": "Northern Ireland vs. Ukraine",
+      "eventTitle": "Northern Ireland vs. Ukraine",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026",
-          "eventTitle": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026",
-          "eventId": "amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b",
+          "title": "Northern Ireland vs. Ukraine",
+          "eventTitle": "Northern Ireland vs. Ukraine",
+          "eventId": "amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -363,18 +531,19 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sat, Oct 31 4:30 PM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
+        "venue": "Clearer Twist National Stadium at Windsor Park",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.754e66bb-16bc-41de-a6ee-198743391f3b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54387b71-b69e-4c7d-9504-afc82fca9afb/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
         },
         "heroImageFragments": {}
       },
@@ -385,22 +554,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c",
-      "title": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026",
-      "eventTitle": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026",
+      "titleId": "amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779",
+      "title": "Austria vs Republic of Ireland - 15 Nov 2026",
+      "eventTitle": "Austria vs Republic of Ireland - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026",
-          "eventTitle": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026",
-          "eventId": "amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c",
+          "title": "Austria vs Republic of Ireland - 15 Nov 2026",
+          "eventTitle": "Austria vs Republic of Ireland - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -410,18 +579,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sat, Oct 31 7 PM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2225b07f-4ad4-4bf0-b8d0-827a2b14a44c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9557f053-b390-4f35-bd3a-1dd738bec779/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -432,22 +601,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c",
-      "title": "2nd Unofficial Test - Day 2 - 1 Nov 2026",
-      "eventTitle": "2nd Unofficial Test - Day 2 - 1 Nov 2026",
+      "titleId": "amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128",
+      "title": "Sweden vs Bosnia and Herzegovina - MD6 - 15 Nov 2026",
+      "eventTitle": "Sweden vs Bosnia and Herzegovina - MD6 - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "2nd Unofficial Test - Day 2 - 1 Nov 2026",
-          "eventTitle": "2nd Unofficial Test - Day 2 - 1 Nov 2026",
-          "eventId": "amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c",
+          "title": "Sweden vs Bosnia and Herzegovina - MD6 - 15 Nov 2026",
+          "eventTitle": "Sweden vs Bosnia and Herzegovina - MD6 - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -457,18 +626,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Nov 1 3:30 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b164d2dc-efc0-4e07-8971-a98e52b7741c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ccc0e73c-c664-4688-93b4-dc19d30c9128/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -479,22 +648,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b",
-      "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
-      "eventTitle": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
+      "titleId": "amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f",
+      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+      "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
-          "eventTitle": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026",
-          "eventId": "amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b",
+          "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+          "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -504,18 +673,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Nov 1 5:30 AM IST",
+        "timeBadge": "Tomorrow 5:30 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b33c6b6-a940-44ac-99d3-a1fa758b516b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -526,22 +695,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d",
-      "title": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026",
-      "eventTitle": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026",
+      "titleId": "amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2",
+      "title": "Latvia vs Armenia - 15 Nov 2026",
+      "eventTitle": "Latvia vs Armenia - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026",
-          "eventTitle": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026",
-          "eventId": "amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d",
+          "title": "Latvia vs Armenia - 15 Nov 2026",
+          "eventTitle": "Latvia vs Armenia - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -551,18 +720,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Nov 1 5 PM IST",
+        "timeBadge": "Tomorrow 7:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8123c36b-f34f-467c-b7d0-6bb9118be82d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -573,22 +742,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e",
-      "title": "Inter Kashi vs FC Goa - 1 Nov 2026",
-      "eventTitle": "Inter Kashi vs FC Goa - 1 Nov 2026",
+      "titleId": "amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310",
+      "title": "Cyprus vs Montenegro - 15 Nov 2026",
+      "eventTitle": "Cyprus vs Montenegro - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Inter Kashi vs FC Goa - 1 Nov 2026",
-          "eventTitle": "Inter Kashi vs FC Goa - 1 Nov 2026",
-          "eventId": "amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e",
+          "title": "Cyprus vs Montenegro - 15 Nov 2026",
+          "eventTitle": "Cyprus vs Montenegro - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -598,18 +767,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Sun, Nov 1 7:30 PM IST",
+        "timeBadge": "Tomorrow 7:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.135f2b18-3934-44dc-a660-7c8afcfe7f1e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -620,22 +789,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8",
-      "title": "2nd Unofficial Test - Day 3 - 2 Nov 2026",
-      "eventTitle": "2nd Unofficial Test - Day 3 - 2 Nov 2026",
+      "titleId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
+      "title": "Belarus vs Albania - 15 Nov 2026",
+      "eventTitle": "Belarus vs Albania - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "2nd Unofficial Test - Day 3 - 2 Nov 2026",
-          "eventTitle": "2nd Unofficial Test - Day 3 - 2 Nov 2026",
-          "eventId": "amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8",
+          "title": "Belarus vs Albania - 15 Nov 2026",
+          "eventTitle": "Belarus vs Albania - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -645,18 +814,18 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Mon, Nov 2 3:30 AM IST",
+        "timeBadge": "Tomorrow 10:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d54da64-6c28-4c81-99ad-8079be0352a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -667,22 +836,22 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
-      "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
-      "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
+      "titleId": "amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed",
+      "title": "Finland vs San Marino - 15 Nov 2026",
+      "eventTitle": "Finland vs San Marino - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
-          "eventTitle": "2nd Unofficial Test - Day 4 - 3 Nov 2026",
-          "eventId": "amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7",
+          "title": "Finland vs San Marino - 15 Nov 2026",
+          "eventTitle": "Finland vs San Marino - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed",
           "originalLanguages": [],
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -692,18 +861,112 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 3 3:30 AM IST",
+        "timeBadge": "Tomorrow 10:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d705b610-9ca6-4ab4-9928-9cfc2dd8c7e7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
+      "title": "Spain vs England - 16 Nov 2026",
+      "eventTitle": "Spain vs England - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Spain vs England - 16 Nov 2026",
+          "eventTitle": "Spain vs England - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Mon, Nov 16 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2",
+      "title": "France vs Türkiye - 16 Nov 2026",
+      "eventTitle": "France vs Türkiye - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "France vs Türkiye - 16 Nov 2026",
+          "eventTitle": "France vs Türkiye - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Mon, Nov 16 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
