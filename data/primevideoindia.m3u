@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 14-11-2026 12:15
+#DATE:- 14-11-2026 12:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | Pakistan vs India - Final - 14 Nov 2026
@@ -11,4 +11,14 @@
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
+#EXTINF:-1 tvg-id="amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",ENG | DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"h6z-keoUrY7CAXTACO5QLg","k":"s_WsIxNYKuA7vFbShImxfA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qksbstjptb/out/v1/73238e53cb7f4a798bcde6dd77abf818/cenc.mpd
