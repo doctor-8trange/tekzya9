@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:15:06 PM 14-11-2026",
+  "last_updated": "12:45:08 PM 14-11-2026",
   "total_matches": 19,
-  "live_matches": 1,
-  "upcoming_matches": 18,
+  "live_matches": 2,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.9c910447-db3d-4f06-abf3-1c2ef1b5e2df",
@@ -92,6 +92,84 @@
           ]
         }
       }
+    },
+    {
+      "titleId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
+      "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+      "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+          "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
+          "eventId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "12:30 PM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "12:45:08 PM 14-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qksbstjptb/out/v1/73238e53cb7f4a798bcde6dd77abf818/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "87acfe91ea14ad8ec20174c008ee502e:b3f5ac2313582ae03bbc56d28489b17c",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "h6z-keoUrY7CAXTACO5QLg",
+              "k": "s_WsIxNYKuA7vFbShImxfA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     }
   ],
   "upcoming": [
@@ -133,53 +211,6 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
-      "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
-      "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
-          "eventTitle": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026",
-          "eventId": "amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 12:30 PM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f62c316b-0ae8-4a18-b234-834b21025df0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
