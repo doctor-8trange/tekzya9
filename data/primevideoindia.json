@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:45:07 PM 15-11-2026",
+  "last_updated": "09:00:09 PM 15-11-2026",
   "total_matches": 22,
-  "live_matches": 5,
-  "upcoming_matches": 17,
+  "live_matches": 6,
+  "upcoming_matches": 16,
   "live": [
     {
       "titleId": "amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2",
@@ -235,6 +235,81 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
+      "title": "Family Full House With Rohit Sharma (Hindi)",
+      "eventTitle": "Family Full House With Rohit Sharma",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Family Full House With Rohit Sharma",
+          "eventTitle": "Family Full House With Rohit Sharma",
+          "eventId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "8:55 PM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "09:00:08 PM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/f12yoz3kiv/out/v1/41cbb9e739b444139ec0838f91d0e7c5/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "09bdd376da5e31da20d5a8fc102cb18c:37d7f178cd6a889501e5305df4a71329",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Cb3TdtpeMdog1aj8ECyxjA",
+              "k": "N9fxeM1qiJUB5TBd9KcTKQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.29c0ba15-411f-4fe0-8c10-655e0282d858",
       "title": "Latvia vs Armenia - 15 Nov 2026 (English)",
       "eventTitle": "Latvia vs Armenia - 15 Nov 2026",
@@ -398,50 +473,6 @@
     }
   ],
   "upcoming": [
-    {
-      "titleId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
-      "title": "Family Full House With Rohit Sharma",
-      "eventTitle": "Family Full House With Rohit Sharma",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Family Full House With Rohit Sharma",
-          "eventTitle": "Family Full House With Rohit Sharma",
-          "eventId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 8:55 PM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
       "title": "Belarus vs. Albania",
