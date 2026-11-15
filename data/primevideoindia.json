@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "01:18:42 AM 16-11-2026",
-  "total_matches": 24,
-  "live_matches": 8,
-  "upcoming_matches": 16,
+  "last_updated": "03:18:29 AM 16-11-2026",
+  "total_matches": 23,
+  "live_matches": 6,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
@@ -233,81 +233,6 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef",
-      "title": "Croatia vs Czechia - 16 Nov 2026 (English)",
-      "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Croatia vs Czechia - 16 Nov 2026",
-          "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
-          "eventId": "amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "1:05 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:18:37 AM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/gnd9oocy4s/out/v1/a152c6906ca647b4a2e10571a64e3cfe/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "7dg2vAgk7L6UK-STpghDuA",
-              "k": "l4g0DQNRS1mphsrcG2y06Q"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43",
       "title": "Spain vs England - 16 Nov 2026 (English)",
       "eventTitle": "Spain vs England - 16 Nov 2026",
@@ -379,86 +304,6 @@
               "kty": "oct",
               "kid": "1WigirE_drZp8HaDSR7dYQ",
               "k": "IZPzpCB5RT80HnPMjyKBhg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.5c9763f3-86ad-4326-b23a-cd867b256eec",
-      "title": "Croatia vs Czechia - 16 Nov 2026 (English)",
-      "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Croatia vs Czechia - 16 Nov 2026",
-          "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
-          "eventId": "amzn1.dv.gti.5c9763f3-86ad-4326-b23a-cd867b256eec",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "1:05 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:18:40 AM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "7dg2vAgk7L6UK-STpghDuA",
-              "k": "l4g0DQNRS1mphsrcG2y06Q"
             },
             {
               "kty": "oct",
@@ -1326,6 +1171,50 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76",
+      "title": "Denmark vs Norway - 18 Nov 2026",
+      "eventTitle": "Denmark vs Norway - 18 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Denmark vs Norway - 18 Nov 2026",
+          "eventTitle": "Denmark vs Norway - 18 Nov 2026",
+          "eventId": "amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
