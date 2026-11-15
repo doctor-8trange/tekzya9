@@ -2,14 +2,14 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "07:10:25 AM 15-11-2026",
-  "total_matches": 19,
-  "live_matches": 2,
-  "upcoming_matches": 17,
+  "last_updated": "07:39:06 AM 15-11-2026",
+  "total_matches": 27,
+  "live_matches": 9,
+  "upcoming_matches": 18,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd",
-      "title": "5th ODI - 15 Nov 2026",
+      "titleId": "amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70",
+      "title": "5th ODI - 15 Nov 2026 (English)",
       "eventTitle": "5th ODI - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -17,17 +17,17 @@
           "entityType": "LIVE_EVENT_ITEM",
           "title": "5th ODI - 15 Nov 2026",
           "eventTitle": "5th ODI - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd",
+          "eventId": "amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70",
           "originalLanguages": [
-            "Hindi"
+            "English"
           ],
           "primarySpokenLanguages": [
-            "Hindi"
+            "English"
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {},
@@ -43,12 +43,12 @@
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
@@ -58,23 +58,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "07:10:24 AM 15-11-2026",
+        "keys_extracted_time": "07:34:23 AM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kxosr62qyh/out/v1/a865ce873d07487580881e84bd58efcb/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356",
+          "d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "vh8QrqymLaEnqVziT5yhyA",
-              "k": "Ga_PuDyfusmztnF3dkdDVg"
+              "kid": "0sxXEdNoj6S2Oa-cfQ8R8Q",
+              "k": "39b671SNJcjk6L0MgeEMrg"
             },
             {
               "kty": "oct",
@@ -87,7 +87,7 @@
     },
     {
       "titleId": "amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f",
-      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026 (English)",
       "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -136,7 +136,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "07:10:25 AM 15-11-2026",
+        "keys_extracted_time": "07:23:43 AM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -153,6 +153,576 @@
               "kty": "oct",
               "kid": "vYaGB5vJHkrgDfwQfUlyFw",
               "k": "HQw85B4M_I3x07ObF9FqKw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f",
+      "title": "5th ODI - 15 Nov 2026 (English)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "6:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:07 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "0sxXEdNoj6S2Oa-cfQ8R8Q",
+              "k": "39b671SNJcjk6L0MgeEMrg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382",
+      "title": "5th ODI - 15 Nov 2026 (Telugu)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382",
+          "originalLanguages": [
+            "Telugu"
+          ],
+          "primarySpokenLanguages": [
+            "Telugu"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "6:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:08 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/zq1p2wg2v4/out/v1/d20147fb10ca4585b1d383987281d95a/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d1a3fa984c76fdb6568ce9b30aada153:36121be71988da1601ddb548076b0b69",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "0aP6mEx2_bZWjOmzCq2hUw",
+              "k": "NhIb5xmI2hYB3bVIB2sLaQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65",
+      "title": "5th ODI - 15 Nov 2026 (Tamil)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65",
+          "originalLanguages": [
+            "Tamil"
+          ],
+          "primarySpokenLanguages": [
+            "Tamil"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "6:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:10 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hzntefvmqf/out/v1/dda005f8228144568e58bbc6afa34e9f/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "fa05f606c20f75523cbc68dfb1f45905:140b22119be600daaa2baefe4a67e94c",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "-gX2BsIPdVI8vGjfsfRZBQ",
+              "k": "FAsiEZvmANqqK67-SmfpTA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a",
+      "title": "5th ODI - 15 Nov 2026 (Hindi)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a",
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "6:29 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:11 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ys1y6xzhhq/out/v1/b90986bc005e4cc0967c34171788dbe4/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "6781d86f22ef0ebc71abd0ee25fc4cc0:813164b7916a8c531c73f01297eabf1e",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Z4HYbyLvDrxxq9DuJfxMwA",
+              "k": "gTFkt5FqjFMcc_ASl-q_Hg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096",
+      "title": "5th ODI - 15 Nov 2026 (Kannada)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096",
+          "originalLanguages": [
+            "Kannada"
+          ],
+          "primarySpokenLanguages": [
+            "Kannada"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "6:30 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:12 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/v1hfzfoiij/out/v1/dfebc3fe859a4999b0c20d123549063a/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "65f117775de48669b381f32bf804cdf1:b3ca5afb11e03a55f158ae277f70cc6b",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "ZfEXd13khmmzgfMr-ATN8Q",
+              "k": "s8pa-xHgOlXxWK4nf3DMaw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.e2e723d4-28cf-4b8a-b82f-ff3b1fa8f9e4",
+      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026 (English)",
+      "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+          "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.e2e723d4-28cf-4b8a-b82f-ff3b1fa8f9e4",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:13 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6nol2apygj/out/v1/9c6dbbf579e34850bf5acd0ea7738807/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "bd8686079bc91e4ae00dfc107d497217:1d0c3ce41e0cfc8df1d3b39b17d16a2b",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "vYaGB5vJHkrgDfwQfUlyFw",
+              "k": "HQw85B4M_I3x07ObF9FqKw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.edce12e5-e30b-4cbd-9573-984eb7c32286",
+      "title": "5th ODI - 15 Nov 2026 (Hindi)",
+      "eventTitle": "5th ODI - 15 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "5th ODI - 15 Nov 2026",
+          "eventTitle": "5th ODI - 15 Nov 2026",
+          "eventId": "amzn1.dv.gti.edce12e5-e30b-4cbd-9573-984eb7c32286",
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:38:15 AM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "vh8QrqymLaEnqVziT5yhyA",
+              "k": "Ga_PuDyfusmztnF3dkdDVg"
             },
             {
               "kty": "oct",
@@ -959,6 +1529,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.09f7c8cd-665c-4d7d-9a40-367576632253/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef",
+      "title": "Greece vs Serbia - 17 Nov 2026",
+      "eventTitle": "Greece vs Serbia - 17 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Greece vs Serbia - 17 Nov 2026",
+          "eventTitle": "Greece vs Serbia - 17 Nov 2026",
+          "eventId": "amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c472a96-6230-4a1e-92d8-9c60cf40e2ef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
