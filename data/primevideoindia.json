@@ -2,15 +2,14 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "16-11-2026 00:33",
-  "total_matches": 20,
-  "live_matches": 0,
-  "upcoming_matches": 20,
-  "live": [],
-  "upcoming": [
+  "last_updated": "01:18:42 AM 16-11-2026",
+  "total_matches": 24,
+  "live_matches": 8,
+  "upcoming_matches": 16,
+  "live": [
     {
       "titleId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
-      "title": "Spain vs England - 16 Nov 2026",
+      "title": "Spain vs England - 16 Nov 2026 (English)",
       "eventTitle": "Spain vs England - 16 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -19,8 +18,12 @@
           "title": "Spain vs England - 16 Nov 2026",
           "eventTitle": "Spain vs England - 16 Nov 2026",
           "eventId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -33,9 +36,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:05 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -50,11 +53,38 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:32 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d568a08ab13f76b669f07683491edd61:2193f3a42079453f341e73cc8f228186",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "1WigirE_drZp8HaDSR7dYQ",
+              "k": "IZPzpCB5RT80HnPMjyKBhg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
     {
       "titleId": "amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2",
-      "title": "France vs Türkiye - 16 Nov 2026",
+      "title": "France vs Türkiye - 16 Nov 2026 (English)",
       "eventTitle": "France vs Türkiye - 16 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -63,8 +93,12 @@
           "title": "France vs Türkiye - 16 Nov 2026",
           "eventTitle": "France vs Türkiye - 16 Nov 2026",
           "eventId": "amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -77,9 +111,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:05 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -94,11 +128,38 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:34 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/i4spoaubjz/out/v1/e375d615f9df4faa9f678038f05c50af/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "44771cb414b1394a0f89a7c951744c8e:91d836ee7fe2650e08cfbb9c72ccccc0",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "RHcctBSxOUoPiafJUXRMjg",
+              "k": "kdg27n_iZQ4Iz7uccszMwA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
     {
       "titleId": "amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30",
-      "title": "Belgium vs Italy - 16 Nov 2026",
+      "title": "Belgium vs Italy - 16 Nov 2026 (English)",
       "eventTitle": "Belgium vs Italy - 16 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -107,8 +168,12 @@
           "title": "Belgium vs Italy - 16 Nov 2026",
           "eventTitle": "Belgium vs Italy - 16 Nov 2026",
           "eventId": "amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -121,9 +186,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:05 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -138,11 +203,38 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:35 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "3600cc1ba4192a18b3f6eeb13219c0fe:dd794a3d9f0a7802edca45b30cd09023",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "NgDMG6QZKhiz9u6xMhnA_g",
+              "k": "3XlKPZ8KeALtykWzDNCQIw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
     {
       "titleId": "amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef",
-      "title": "Croatia vs Czechia - 16 Nov 2026",
+      "title": "Croatia vs Czechia - 16 Nov 2026 (English)",
       "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
       "catalogMetadata": {
         "catalog": {
@@ -151,8 +243,12 @@
           "title": "Croatia vs Czechia - 16 Nov 2026",
           "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
           "eventId": "amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -165,9 +261,9 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 1:05 AM IST",
-        "liveliness": "UPCOMING"
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -182,8 +278,359 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:37 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/gnd9oocy4s/out/v1/a152c6906ca647b4a2e10571a64e3cfe/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "7dg2vAgk7L6UK-STpghDuA",
+              "k": "l4g0DQNRS1mphsrcG2y06Q"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
+    {
+      "titleId": "amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43",
+      "title": "Spain vs England - 16 Nov 2026 (English)",
+      "eventTitle": "Spain vs England - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Spain vs England - 16 Nov 2026",
+          "eventTitle": "Spain vs England - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43/1/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "date": "Nov 16, 2026",
+          "time": "1:05 AM IST",
+          "type": "LOCALIZED_HEADER"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:39 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/frwx8p7c15/out/v1/86a4469ea1224451a69939489f840d7e/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d568a08ab13f76b669f07683491edd61:2193f3a42079453f341e73cc8f228186",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "1WigirE_drZp8HaDSR7dYQ",
+              "k": "IZPzpCB5RT80HnPMjyKBhg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.5c9763f3-86ad-4326-b23a-cd867b256eec",
+      "title": "Croatia vs Czechia - 16 Nov 2026 (English)",
+      "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Croatia vs Czechia - 16 Nov 2026",
+          "eventTitle": "Croatia vs Czechia - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.5c9763f3-86ad-4326-b23a-cd867b256eec",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:40 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "7dg2vAgk7L6UK-STpghDuA",
+              "k": "l4g0DQNRS1mphsrcG2y06Q"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.6089fbc3-7218-4c0c-8f08-ea694477252c",
+      "title": "Belgium vs Italy - 16 Nov 2026 (English)",
+      "eventTitle": "Belgium vs Italy - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Belgium vs Italy - 16 Nov 2026",
+          "eventTitle": "Belgium vs Italy - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.6089fbc3-7218-4c0c-8f08-ea694477252c",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:41 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/svvhlayrha/out/v1/8c9fc12fa210490fae57d906136e8462/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "3600cc1ba4192a18b3f6eeb13219c0fe:dd794a3d9f0a7802edca45b30cd09023",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "NgDMG6QZKhiz9u6xMhnA_g",
+              "k": "3XlKPZ8KeALtykWzDNCQIw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.8978b6c5-dcff-4d2b-81ea-a28832b8362a",
+      "title": "France vs Türkiye - 16 Nov 2026 (English)",
+      "eventTitle": "France vs Türkiye - 16 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "France vs Türkiye - 16 Nov 2026",
+          "eventTitle": "France vs Türkiye - 16 Nov 2026",
+          "eventId": "amzn1.dv.gti.8978b6c5-dcff-4d2b-81ea-a28832b8362a",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-4X3/en-US.jpg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/HERO-16X9/en-US.jpeg"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "1:05 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-4X3/en-US.jpg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/HERO-16X9/en-US.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "01:18:42 AM 16-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "44771cb414b1394a0f89a7c951744c8e:91d836ee7fe2650e08cfbb9c72ccccc0",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "RHcctBSxOUoPiafJUXRMjg",
+              "k": "kdg27n_iZQ4Iz7uccszMwA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.3cce7433-aeeb-4094-b896-5c09e1f7ab43",
       "title": "Kazakhstan vs Slovakia - 16 Nov 2026",
