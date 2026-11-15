@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "02:15:04 PM 15-11-2026",
-  "total_matches": 27,
-  "live_matches": 9,
+  "last_updated": "02:39:57 PM 15-11-2026",
+  "total_matches": 25,
+  "live_matches": 7,
   "upcoming_matches": 18,
   "live": [
     {
@@ -58,7 +58,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "01:00:03 PM 15-11-2026",
+        "keys_extracted_time": "01:52:28 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -136,11 +136,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "01:00:07 PM 15-11-2026",
+        "keys_extracted_time": "01:52:30 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qtnjk570ue/out/v1/edde82c329c5435799ed2bde287862d8/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/skexr97pjv/out/v1/82e75cbd6b504a6588648be6c0a91b10/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -153,88 +153,6 @@
               "kty": "oct",
               "kid": "fNh7wjUFVfZqOQbjBHrO8Q",
               "k": "Ta81B84cBV-DlJybrWhdnQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f",
-      "title": "5th ODI - 15 Nov 2026 (English)",
-      "eventTitle": "5th ODI - 15 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "5th ODI - 15 Nov 2026",
-          "eventTitle": "5th ODI - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-4X3/en-US.jpg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "date": "Nov 15, 2026",
-          "time": "6:30 AM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "6:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "02:00:06 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "0sxXEdNoj6S2Oa-cfQ8R8Q",
-              "k": "39b671SNJcjk6L0MgeEMrg"
             },
             {
               "kty": "oct",
@@ -300,7 +218,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "02:00:07 PM 15-11-2026",
+        "keys_extracted_time": "01:52:33 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -382,11 +300,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "02:00:09 PM 15-11-2026",
+        "keys_extracted_time": "01:52:34 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hzntefvmqf/out/v1/dda005f8228144568e58bbc6afa34e9f/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fbbkbyzbwg/out/v1/87c416bd09bc435bb8ac26ff91346a59/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -464,11 +382,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "02:00:10 PM 15-11-2026",
+        "keys_extracted_time": "01:52:35 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ys1y6xzhhq/out/v1/b90986bc005e4cc0967c34171788dbe4/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/s4bhfageav/out/v1/2dd9be09c5114ae5afe1dfce91e01c23/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -546,7 +464,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "02:00:11 PM 15-11-2026",
+        "keys_extracted_time": "01:52:38 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -626,7 +544,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "02:00:14 PM 15-11-2026",
+        "keys_extracted_time": "01:52:41 PM 15-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -643,86 +561,6 @@
               "kty": "oct",
               "kid": "vh8QrqymLaEnqVziT5yhyA",
               "k": "Ga_PuDyfusmztnF3dkdDVg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.52c62bf6-6bab-4f8e-8e8e-778f3af675c7",
-      "title": "DP World Tour Champinship, Dubai - Day 4 - 15 Nov 2026 (English)",
-      "eventTitle": "DP World Tour Champinship, Dubai - Day 4 - 15 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "DP World Tour Champinship, Dubai - Day 4 - 15 Nov 2026",
-          "eventTitle": "DP World Tour Champinship, Dubai - Day 4 - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.52c62bf6-6bab-4f8e-8e8e-778f3af675c7",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "6:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "02:00:15 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qtnjk570ue/out/v1/edde82c329c5435799ed2bde287862d8/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "7cd87bc2350555f66a3906e3047acef1:4daf3507ce1c055f83949c9bad685d9d",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "fNh7wjUFVfZqOQbjBHrO8Q",
-              "k": "Ta81B84cBV-DlJybrWhdnQ"
             },
             {
               "kty": "oct",
