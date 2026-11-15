@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "06:45:02 PM 15-11-2026",
-  "total_matches": 20,
-  "live_matches": 1,
-  "upcoming_matches": 19,
+  "last_updated": "07:30:10 PM 15-11-2026",
+  "total_matches": 21,
+  "live_matches": 4,
+  "upcoming_matches": 17,
   "live": [
     {
       "titleId": "amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd",
@@ -81,12 +81,10 @@
           ]
         }
       }
-    }
-  ],
-  "upcoming": [
+    },
     {
       "titleId": "amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2",
-      "title": "Latvia vs. Armenia",
+      "title": "Latvia vs. Armenia (English)",
       "eventTitle": "Latvia vs. Armenia",
       "catalogMetadata": {
         "catalog": {
@@ -95,8 +93,12 @@
           "title": "Latvia vs. Armenia",
           "eventTitle": "Latvia vs. Armenia",
           "eventId": "amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
@@ -109,10 +111,10 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 7:20 PM IST",
+        "status": "LIVE",
+        "timeBadge": "7:20 PM IST",
         "venue": "Stadions Skonto",
-        "liveliness": "UPCOMING"
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -127,11 +129,38 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:30:06 PM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/tsxjckrusd/out/v1/348b41a553f2424ab15d9ede15b3b1bb/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "e0c256a38e47c7c19ee0d8503bfdfe17:bed1c37c30e103e66e64e562b9b32833",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "4MJWo45Hx8Ge4NhQO_3-Fw",
+              "k": "vtHDfDDhA-ZuZOViubMoMw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
     {
       "titleId": "amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310",
-      "title": "Cyprus vs. Montenegro",
+      "title": "Cyprus vs. Montenegro (English)",
       "eventTitle": "Cyprus vs. Montenegro",
       "catalogMetadata": {
         "catalog": {
@@ -140,8 +169,12 @@
           "title": "Cyprus vs. Montenegro",
           "eventTitle": "Cyprus vs. Montenegro",
           "eventId": "amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
@@ -154,10 +187,10 @@
         ]
       },
       "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Live at 7:20 PM IST",
+        "status": "LIVE",
+        "timeBadge": "7:20 PM IST",
         "venue": "Alphamega Stadium",
-        "liveliness": "UPCOMING"
+        "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
@@ -172,8 +205,117 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:30:07 PM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "9bf7c61f3ce6a153280dab88b23f3057:5fd57e93bb680d530ac999f7c217a87a",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "m_fGHzzmoVMoDauIsj8wVw",
+              "k": "X9V-k7toDVMKyZn3wheoeg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
       }
     },
+    {
+      "titleId": "amzn1.dv.gti.29c0ba15-411f-4fe0-8c10-655e0282d858",
+      "title": "Latvia vs Armenia - 15 Nov 2026 (English)",
+      "eventTitle": "Latvia vs. Armenia",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Latvia vs Armenia - 15 Nov 2026",
+          "eventTitle": "Latvia vs. Armenia",
+          "eventId": "amzn1.dv.gti.29c0ba15-411f-4fe0-8c10-655e0282d858",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/BOXART-16X9/en-GB/1920x1080.png",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/BOXART-4X3/en-GB/2560x1920.png",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/HERO-16X9/en-GB/3840x2160.png"
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "6:30 AM IST",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/BOXART-4X3/en-GB/2560x1920.png",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/BOXART-16X9/en-GB/1920x1080.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9034cca8-65e6-4817-86dd-154a198220b2/2/HERO-16X9/en-GB/3840x2160.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:30:10 PM 15-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "e0c256a38e47c7c19ee0d8503bfdfe17:bed1c37c30e103e66e64e562b9b32833",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "4MJWo45Hx8Ge4NhQO_3-Fw",
+              "k": "vtHDfDDhA-ZuZOViubMoMw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "upcoming": [
     {
       "titleId": "amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646",
       "title": "Indian Idol - Legends Return",
