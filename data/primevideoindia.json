@@ -2,86 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:03:30 AM 16-11-2026",
+  "last_updated": "12:18:29 AM 16-11-2026",
   "total_matches": 22,
-  "live_matches": 6,
-  "upcoming_matches": 16,
+  "live_matches": 4,
+  "upcoming_matches": 18,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646",
-      "title": "Indian Idol - Legends Return (Hindi)",
-      "eventTitle": "Indian Idol - Legends Return",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Indian Idol - Legends Return",
-          "eventTitle": "Indian Idol - Legends Return",
-          "eventId": "amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "7:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "07:45:06 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ydnixxoceg/out/v1/da9cc0952f80440a9ad51a19c53998e5/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "66aa3a2f8948b9625c3d7b20d54314a8:1cb5683d33a62e94ec1fde80aff15bca",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Zqo6L4lIuWJcPXsg1UMUqA",
-              "k": "HLVoPTOmLpTsH96Ar_Fbyg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
       "title": "Belarus vs. Albania (English)",
@@ -224,88 +149,6 @@
               "kty": "oct",
               "kid": "3_4VeGXIYDHK42ywVKVXyA",
               "k": "c6_jQfAeW-mZMsEkYvL5pg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d",
-      "title": "SonyLIV Live Event (Hindi)",
-      "eventTitle": "SonyLIV Live Event",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "SonyLIV Live Event",
-          "eventTitle": "SonyLIV Live Event",
-          "eventId": "amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "date": "Nov 15, 2026",
-          "time": "7:30 PM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "7:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "07:45:07 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/8cwqoxerbj/out/v1/771669b1f2134421b542a0ea5baa4be2/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "66aa3a2f8948b9625c3d7b20d54314a8:1cb5683d33a62e94ec1fde80aff15bca",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Zqo6L4lIuWJcPXsg1UMUqA",
-              "k": "HLVoPTOmLpTsH96Ar_Fbyg"
             },
             {
               "kty": "oct",
@@ -1175,6 +1018,94 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813",
+      "title": "Israel vs Austria - 18 Nov 2026",
+      "eventTitle": "Israel vs Austria - 18 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Israel vs Austria - 18 Nov 2026",
+          "eventTitle": "Israel vs Austria - 18 Nov 2026",
+          "eventId": "amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b",
+      "title": "Wales vs Portugal - 18 Nov 2026",
+      "eventTitle": "Wales vs Portugal - 18 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Wales vs Portugal - 18 Nov 2026",
+          "eventTitle": "Wales vs Portugal - 18 Nov 2026",
+          "eventId": "amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
