@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "02:00:15 PM 15-11-2026",
-  "total_matches": 28,
-  "live_matches": 11,
-  "upcoming_matches": 17,
+  "last_updated": "02:15:04 PM 15-11-2026",
+  "total_matches": 27,
+  "live_matches": 9,
+  "upcoming_matches": 18,
   "live": [
     {
       "titleId": "amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70",
@@ -75,84 +75,6 @@
               "kty": "oct",
               "kid": "0sxXEdNoj6S2Oa-cfQ8R8Q",
               "k": "39b671SNJcjk6L0MgeEMrg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f",
-      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026 (English)",
-      "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-          "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "5:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:00:04 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lmpujua31w/out/v1/0e5d2db5f88145df974bd8bd406d31a1/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "bd8686079bc91e4ae00dfc107d497217:1d0c3ce41e0cfc8df1d3b39b17d16a2b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "vYaGB5vJHkrgDfwQfUlyFw",
-              "k": "HQw85B4M_I3x07ObF9FqKw"
             },
             {
               "kty": "oct",
@@ -641,86 +563,6 @@
               "kty": "oct",
               "kid": "ZfEXd13khmmzgfMr-ATN8Q",
               "k": "s8pa-xHgOlXxWK4nf3DMaw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e2e723d4-28cf-4b8a-b82f-ff3b1fa8f9e4",
-      "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026 (English)",
-      "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-          "eventTitle": "UFC 334 - Gane vs Hokit - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.e2e723d4-28cf-4b8a-b82f-ff3b1fa8f9e4",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-4X3/en-US.jpg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/HERO-16X9/en-US.jpeg"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "6:30 AM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c626f6-037e-48b7-aa00-2d891b67b49f/2/HERO-16X9/en-US.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "02:00:13 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lmpujua31w/out/v1/0e5d2db5f88145df974bd8bd406d31a1/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "bd8686079bc91e4ae00dfc107d497217:1d0c3ce41e0cfc8df1d3b39b17d16a2b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "vYaGB5vJHkrgDfwQfUlyFw",
-              "k": "HQw85B4M_I3x07ObF9FqKw"
             },
             {
               "kty": "oct",
@@ -1687,6 +1529,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35fa0400-9c1e-4aef-9d50-dc51feaa2ffd/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724",
+      "title": "Germany vs Netherlands - 17 Nov 2026",
+      "eventTitle": "Germany vs Netherlands - 17 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Germany vs Netherlands - 17 Nov 2026",
+          "eventTitle": "Germany vs Netherlands - 17 Nov 2026",
+          "eventId": "amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8dbb9801-bc75-4a9a-b28d-b4b09a516724/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
