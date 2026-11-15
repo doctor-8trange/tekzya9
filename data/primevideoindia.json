@@ -2,326 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:18:29 AM 16-11-2026",
-  "total_matches": 22,
-  "live_matches": 4,
-  "upcoming_matches": 18,
-  "live": [
-    {
-      "titleId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
-      "title": "Belarus vs. Albania (English)",
-      "eventTitle": "Belarus vs. Albania",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Belarus vs. Albania",
-          "eventTitle": "Belarus vs. Albania",
-          "eventId": "amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "venue": "Illovszky Rudolf Stadion",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:30:07 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xvbmu1sghe/out/v1/e0ce7e0171f84bb8b623b22479c44697/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "9ea3cfbcbe792ef4e3c9bab7280f3793:045bafb3b7a7acad6df77dcc04ef8a0b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "nqPPvL55LvTjybq3KA83kw",
-              "k": "BFuvs7enrK1t933MBO-KCw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed",
-      "title": "Finland vs. San Marino (English)",
-      "eventTitle": "Finland vs. San Marino",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Finland vs. San Marino",
-          "eventTitle": "Finland vs. San Marino",
-          "eventId": "amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "venue": "Bolt Arena",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:30:09 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "dffe157865c86031cae36cb054a557c8:73afe341f01e5be99932c12462f2f9a6",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "3_4VeGXIYDHK42ywVKVXyA",
-              "k": "c6_jQfAeW-mZMsEkYvL5pg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3",
-      "title": "Belarus vs Albania - 15 Nov 2026 (English)",
-      "eventTitle": "Belarus vs Albania - 15 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Belarus vs Albania - 15 Nov 2026",
-          "eventTitle": "Belarus vs Albania - 15 Nov 2026",
-          "eventId": "amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-4X3/en-US.jpg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "date": "Nov 15, 2026",
-          "time": "10:19 PM IST",
-          "type": "LOCALIZED_HEADER"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-4X3/en-US.jpg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-16X9/en-US.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:30:10 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "9ea3cfbcbe792ef4e3c9bab7280f3793:045bafb3b7a7acad6df77dcc04ef8a0b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "nqPPvL55LvTjybq3KA83kw",
-              "k": "BFuvs7enrK1t933MBO-KCw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f5fdcd46-f4f0-4425-9be4-d2a33d5524f7",
-      "title": "Finland vs San Marino - 15 Nov 2026 (English)",
-      "eventTitle": "Finland vs. San Marino",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Finland vs San Marino - 15 Nov 2026",
-          "eventTitle": "Finland vs. San Marino",
-          "eventId": "amzn1.dv.gti.f5fdcd46-f4f0-4425-9be4-d2a33d5524f7",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-4X3/en-GB/2560x1920.png",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/HERO-16X9/en-GB/3840x2160.png"
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-4X3/en-GB/2560x1920.png",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080.png"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/HERO-16X9/en-GB/3840x2160.png"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:30:12 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wiewmp0an4/out/v1/df5bc6a21d954b95ad8b9608359d2359/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "dffe157865c86031cae36cb054a557c8:73afe341f01e5be99932c12462f2f9a6",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "3_4VeGXIYDHK42ywVKVXyA",
-              "k": "c6_jQfAeW-mZMsEkYvL5pg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    }
-  ],
+  "last_updated": "16-11-2026 00:33",
+  "total_matches": 20,
+  "live_matches": 0,
+  "upcoming_matches": 20,
+  "live": [],
   "upcoming": [
     {
       "titleId": "amzn1.dv.gti.22fe706f-1dad-4887-8ab2-59d35a04e6b9",
@@ -1106,6 +791,94 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d",
+      "title": "Republic of Ireland vs Kosovo - 18 Nov 2026",
+      "eventTitle": "Republic of Ireland vs Kosovo - 18 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Republic of Ireland vs Kosovo - 18 Nov 2026",
+          "eventTitle": "Republic of Ireland vs Kosovo - 18 Nov 2026",
+          "eventId": "amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f",
+      "title": "Poland vs Sweden - 18 Nov 2026",
+      "eventTitle": "Poland vs Sweden - 18 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Poland vs Sweden - 18 Nov 2026",
+          "eventTitle": "Poland vs Sweden - 18 Nov 2026",
+          "eventId": "amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
