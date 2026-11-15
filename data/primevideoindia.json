@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "10:30:12 PM 15-11-2026",
-  "total_matches": 23,
-  "live_matches": 7,
+  "last_updated": "12:03:30 AM 16-11-2026",
+  "total_matches": 22,
+  "live_matches": 6,
   "upcoming_matches": 16,
   "live": [
     {
@@ -72,81 +72,6 @@
               "kty": "oct",
               "kid": "Zqo6L4lIuWJcPXsg1UMUqA",
               "k": "HLVoPTOmLpTsH96Ar_Fbyg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
-      "title": "Family Full House With Rohit Sharma (Hindi)",
-      "eventTitle": "Family Full House With Rohit Sharma",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Family Full House With Rohit Sharma",
-          "eventTitle": "Family Full House With Rohit Sharma",
-          "eventId": "amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "8:55 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "09:00:08 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/f12yoz3kiv/out/v1/41cbb9e739b444139ec0838f91d0e7c5/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "09bdd376da5e31da20d5a8fc102cb18c:37d7f178cd6a889501e5305df4a71329",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Cb3TdtpeMdog1aj8ECyxjA",
-              "k": "N9fxeM1qiJUB5TBd9KcTKQ"
             },
             {
               "kty": "oct",
@@ -311,14 +236,14 @@
     },
     {
       "titleId": "amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d",
-      "title": "Indian Idol - Legends Return (Hindi)",
-      "eventTitle": "Indian Idol - Legends Return",
+      "title": "SonyLIV Live Event (Hindi)",
+      "eventTitle": "SonyLIV Live Event",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Indian Idol - Legends Return",
-          "eventTitle": "Indian Idol - Legends Return",
+          "title": "SonyLIV Live Event",
+          "eventTitle": "SonyLIV Live Event",
           "eventId": "amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d",
           "originalLanguages": [
             "Hindi"
@@ -329,7 +254,7 @@
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-4X3/en-US.jpg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
           "heroImage": ""
         },
         "liveEventDateTime": {
@@ -349,7 +274,7 @@
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-4X3/en-US.jpg",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
@@ -394,13 +319,13 @@
     {
       "titleId": "amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3",
       "title": "Belarus vs Albania - 15 Nov 2026 (English)",
-      "eventTitle": "Belarus vs. Albania",
+      "eventTitle": "Belarus vs Albania - 15 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
           "title": "Belarus vs Albania - 15 Nov 2026",
-          "eventTitle": "Belarus vs. Albania",
+          "eventTitle": "Belarus vs Albania - 15 Nov 2026",
           "eventId": "amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3",
           "originalLanguages": [
             "English"
@@ -410,33 +335,35 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-4X3/en-GB/2560x1920.png",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/HERO-16X9/en-GB/3840x2160.png"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-16X9/en-US.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-4X3/en-US.jpg",
+          "heroImage": ""
         },
-        "liveEventDateTime": {},
+        "liveEventDateTime": {
+          "date": "Nov 15, 2026",
+          "time": "10:19 PM IST",
+          "type": "LOCALIZED_HEADER"
+        },
         "entityClassifications": [
           "Sports"
         ]
       },
       "liveSchedule": {
         "status": "LIVE",
-        "timeBadge": "7:30 PM IST",
+        "timeBadge": "10:20 PM IST",
         "liveliness": "LIVE"
       },
       "images": {
         "boxArtImageFragments": {
           "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-4X3/en-GB/2560x1920.png",
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-4X3/en-US.jpg",
           "isExplicit": false,
           "doesRepresentTitle": false
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080.png"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-16X9/en-US.jpeg"
         },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/HERO-16X9/en-GB/3840x2160.png"
-        }
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
@@ -501,7 +428,7 @@
       },
       "liveSchedule": {
         "status": "LIVE",
-        "timeBadge": "7:30 PM IST",
+        "timeBadge": "10:20 PM IST",
         "liveliness": "LIVE"
       },
       "images": {
@@ -579,7 +506,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -623,7 +550,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -667,7 +594,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -711,7 +638,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -755,7 +682,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 8:20 PM IST",
+        "timeBadge": "Live at 8:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -799,7 +726,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 8:20 PM IST",
+        "timeBadge": "Live at 8:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -843,7 +770,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10:20 PM IST",
+        "timeBadge": "Live at 10:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -887,7 +814,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10:20 PM IST",
+        "timeBadge": "Live at 10:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -931,7 +858,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 10:20 PM IST",
+        "timeBadge": "Live at 10:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -975,7 +902,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 11:20 PM IST",
+        "timeBadge": "Live at 11:20 PM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1019,7 +946,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1063,7 +990,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1107,7 +1034,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1151,7 +1078,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1195,7 +1122,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tue, Nov 17 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
