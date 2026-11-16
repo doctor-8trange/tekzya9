@@ -2,90 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:47:45 PM 16-11-2026",
-  "total_matches": 20,
-  "live_matches": 4,
-  "upcoming_matches": 16,
+  "last_updated": "12:32:44 AM 17-11-2026",
+  "total_matches": 19,
+  "live_matches": 2,
+  "upcoming_matches": 17,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947",
-      "title": "Iceland vs. Luxembourg (English)",
-      "eventTitle": "Iceland vs. Luxembourg",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Iceland vs. Luxembourg",
-          "eventTitle": "Iceland vs. Luxembourg",
-          "eventId": "amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "venue": "Laugardalsvöllur",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:32:46 PM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qc0ys7u28a/out/v1/f4c0c2e6dd3744d080c82973bea255d8/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "8c678cc8b43972cb601a41d5d6e9b8d6:2e857e9569e9dee6f937e28c44820743",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "jGeMyLQ5cstgGkHV1um41g",
-              "k": "LoV-lWnp3ub5N-KMRIIHQw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c",
       "title": "Lithuania vs. Liechtenstein (English)",
@@ -155,85 +76,6 @@
               "kty": "oct",
               "kid": "hMIJyYyAFq7mwbUsc2yDfA",
               "k": "RZoz-72vxzJeOz2eaCtVqg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140",
-      "title": "Estonia vs. Bulgaria (English)",
-      "eventTitle": "Estonia vs. Bulgaria",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Estonia vs. Bulgaria",
-          "eventTitle": "Estonia vs. Bulgaria",
-          "eventId": "amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "venue": "A. Le Coq Arena",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb5a1e11-72cb-4568-8374-e8efec715140/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:32:49 PM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ijjxmontnt/out/v1/57658f637f50480aaf43a607e1396b21/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "cd20c3ab96fdd32583eb5fd333c49acf:5f7762e851ad5bc05f4eea8aecd20405",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "zSDDq5b90yWD61_TM8Sazw",
-              "k": "X3di6FGtW8BfTuqK7NIEBQ"
             },
             {
               "kty": "oct",
@@ -350,7 +192,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "venue": "Nacionalna Arena Toše Proeski",
         "liveliness": "UPCOMING"
       },
@@ -398,7 +240,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "venue": "Panthessaliko Stadio",
         "liveliness": "UPCOMING"
       },
@@ -446,7 +288,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "venue": "Berit Sitterstadion",
         "liveliness": "UPCOMING"
       },
@@ -494,7 +336,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "venue": "Olympiastadion Berlin",
         "liveliness": "UPCOMING"
       },
@@ -542,7 +384,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Tomorrow 1:05 AM IST",
+        "timeBadge": "Live at 1:05 AM IST",
         "venue": "Europa Point Stadium",
         "liveliness": "UPCOMING"
       },
@@ -590,7 +432,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -637,7 +479,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -684,7 +526,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -731,7 +573,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -778,7 +620,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -825,7 +667,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -872,7 +714,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -919,7 +761,7 @@
       },
       "liveSchedule": {
         "status": "UPCOMING",
-        "timeBadge": "Wed, Nov 18 1:05 AM IST",
+        "timeBadge": "Tomorrow 1:05 AM IST",
         "liveliness": "UPCOMING"
       },
       "images": {
@@ -1072,6 +914,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9",
+      "title": "Day 2 - 1st Test - 20 Nov 2026",
+      "eventTitle": "Day 2 - 1st Test - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Day 2 - 1st Test - 20 Nov 2026",
+          "eventTitle": "Day 2 - 1st Test - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Fri, Nov 20 2:55 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
