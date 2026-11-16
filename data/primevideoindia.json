@@ -2,89 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "11:32:46 PM 16-11-2026",
+  "last_updated": "11:47:45 PM 16-11-2026",
   "total_matches": 20,
-  "live_matches": 5,
-  "upcoming_matches": 15,
+  "live_matches": 4,
+  "upcoming_matches": 16,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0",
-      "title": "Kaun Banega Crorepati (Hindi)",
-      "eventTitle": "Kaun Banega Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kaun Banega Crorepati",
-          "eventTitle": "Kaun Banega Crorepati",
-          "eventId": "amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "8:30 PM IST",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:32:55 PM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/boilpxp5kn/out/v1/2f00331dfeaa4bd2b1211b0589321866/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "98cf5bd6ddab50aa8bde0cf9475d4bc7:91cc851f50bd84ed7eeb3b5dc5f94bb5",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "mM9b1t2rUKqL3gz5R11Lxw",
-              "k": "kcyFH1C9hO1-6ztdxflLtQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.2562860c-6480-46cd-a182-a32bb340f947",
       "title": "Iceland vs. Luxembourg (English)",
@@ -1103,6 +1025,53 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
+      "title": "Sri Lanka vs Afghanistan - 19 Nov 2026",
+      "eventTitle": "Sri Lanka vs Afghanistan - 19 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Sri Lanka vs Afghanistan - 19 Nov 2026",
+          "eventTitle": "Sri Lanka vs Afghanistan - 19 Nov 2026",
+          "eventId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Thu, Nov 19 3:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
