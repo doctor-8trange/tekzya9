@@ -1,5 +1,5 @@
 #EXTM3U
-#DATE:- 16-11-2026 21:07
+#DATE:- 16-11-2026 21:09
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="amzn1.dv.gti.3cce7433-aeeb-4094-b896-5c09e1f7ab43" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cce7433-aeeb-4094-b896-5c09e1f7ab43/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Sports",ENG | Kazakhstan vs. Slovakia
@@ -11,7 +11,7 @@
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/z76po65pdi/out/v1/c42ed08bd3f540ae801ddea80daef5e1/cenc.mpd
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sugtqcy65h/out/v1/1689aef6f0fe4bbf898e29fb2a82fef4/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.671126ba-b1a6-4f31-98ac-8ff9bd8f3394" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.671126ba-b1a6-4f31-98ac-8ff9bd8f3394/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Sports",ENG | Faroe Islands vs. Moldova
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,7 +21,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/z76p
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/odovuuqyfq/out/v1/955789626c5f4f1d9716a7714be6a14e/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/odovuuqyfq/out/v1/955789626c5f4f1d9716a7714be6a14e/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.527a7304-6288-41b2-91aa-142cf4c5e3c7" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a7304-6288-41b2-91aa-142cf4c5e3c7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",MAR | Kon Honaar Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -31,7 +31,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/odov
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qh5sdnuhf1/out/v1/4ec0dfd989544f98ad5a6c7a911cef51/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qh5sdnuhf1/out/v1/4ec0dfd989544f98ad5a6c7a911cef51/cenc.mpd
 #EXTINF:-1 tvg-id="amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Sports",HIN | Kaun Banega Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -41,4 +41,4 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qh5sdnuhf1/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/boilpxp5kn/out/v1/2f00331dfeaa4bd2b1211b0589321866/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/boilpxp5kn/out/v1/2f00331dfeaa4bd2b1211b0589321866/cenc.mpd
