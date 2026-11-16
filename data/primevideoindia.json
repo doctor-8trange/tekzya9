@@ -2,90 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:32:44 AM 17-11-2026",
-  "total_matches": 19,
-  "live_matches": 2,
-  "upcoming_matches": 17,
+  "last_updated": "12:47:44 AM 17-11-2026",
+  "total_matches": 20,
+  "live_matches": 1,
+  "upcoming_matches": 19,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c",
-      "title": "Lithuania vs. Liechtenstein (English)",
-      "eventTitle": "Lithuania vs. Liechtenstein",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Lithuania vs. Liechtenstein",
-          "eventTitle": "Lithuania vs. Liechtenstein",
-          "eventId": "amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {},
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "10:20 PM IST",
-        "venue": "S. Dariaus ir S. Girėno stadionas",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "imageMetadataReferenceId": "REFERENCE_ID",
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "isExplicit": false,
-          "doesRepresentTitle": false
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9078b5c3-71bc-4194-a542-17d7ba98405c/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "10:32:47 PM 16-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qs3t1acqqr/out/v1/0cfe20dae5f844e1bee6e75d4c60ffb2/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "84c209c98c8016aee6c1b52c736c837c:459a33fbbdafc7325e3b3d9e682b55aa",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "hMIJyYyAFq7mwbUsc2yDfA",
-              "k": "RZoz-72vxzJeOz2eaCtVqg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.eeee1eab-1af7-432c-9be6-0b10ada98d53",
       "title": "Andorra vs Azerbaijan - 16 Nov 2026 (English)",
@@ -961,6 +882,100 @@
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+      "title": "Pakistan vs UAE - 20 Nov 2026",
+      "eventTitle": "Pakistan vs UAE - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Pakistan vs UAE - 20 Nov 2026",
+          "eventTitle": "Pakistan vs UAE - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Fri, Nov 20 11:30 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
+      "title": "India vs Nepal - 20 Nov 2026",
+      "eventTitle": "India vs Nepal - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "India vs Nepal - 20 Nov 2026",
+          "eventTitle": "India vs Nepal - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {},
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Fri, Nov 20 3:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "imageMetadataReferenceId": "REFERENCE_ID",
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "isExplicit": false,
+          "doesRepresentTitle": false
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
