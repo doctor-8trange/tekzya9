@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "09:06:58 PM 16-11-2026",
+  "last_updated": "09:09:44 PM 16-11-2026",
   "total_matches": 20,
   "live_matches": 4,
   "upcoming_matches": 16,
@@ -59,11 +59,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:05:43 PM 16-11-2026",
+        "keys_extracted_time": "08:32:51 PM 16-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/z76po65pdi/out/v1/c42ed08bd3f540ae801ddea80daef5e1/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/sugtqcy65h/out/v1/1689aef6f0fe4bbf898e29fb2a82fef4/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -138,7 +138,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:05:45 PM 16-11-2026",
+        "keys_extracted_time": "08:32:52 PM 16-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -216,7 +216,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:05:47 PM 16-11-2026",
+        "keys_extracted_time": "08:32:53 PM 16-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -294,7 +294,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:05:48 PM 16-11-2026",
+        "keys_extracted_time": "08:32:55 PM 16-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
