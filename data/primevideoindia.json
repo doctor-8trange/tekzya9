@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "7:19:33 PM 17-11-2026",
+  "last_updated": "7:32:47 PM 17-11-2026",
   "total_matches": 32,
   "live_matches": 3,
   "upcoming_matches": 29,
@@ -33,8 +33,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794922200000,
-          "startTimeIST": "Today 7:00 PM IST"
+          "startTimeMillis": 1794924000000,
+          "startTimeIST": "Today 7:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -46,10 +46,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 7:30 PM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 8:00 PM IST"
@@ -85,6 +81,10 @@
           {
             "title": "Coaches Corner S2, Eps. 5",
             "startTimeIST": "Tomorrow 3:00 AM IST"
+          },
+          {
+            "title": "NBA Special: The Warmup presented by DraftKings",
+            "startTimeIST": "Tomorrow 3:30 AM IST"
           }
         ]
       },
@@ -143,12 +143,8 @@
           "title": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
           "eventTitle": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
         },
         "images": {
           "coverImage": "https://m.media-amazon.com/images/I/81BB1CyMoYL.jpg",
@@ -201,33 +197,7 @@
         "message": "fancode",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
-      "playback_details": {
-        "keys_extracted_time": "05:15:19 PM 15-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "GZSx3339LoqNe5vz-5AChQ",
-              "k": "IqFESz2hjhORkWZbPWUoNQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
+      "playback_details": {}
     },
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
@@ -246,13 +216,13 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794922200000,
-          "startTimeIST": "Today 7:00 PM IST"
+          "startTimeMillis": 1794924000000,
+          "startTimeIST": "Today 7:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -264,10 +234,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 7:30 PM IST"
-          },
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 8:00 PM IST"
@@ -300,10 +266,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -1419,7 +1385,7 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
           "heroImage": ""
         },
@@ -1441,7 +1407,7 @@
           "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
