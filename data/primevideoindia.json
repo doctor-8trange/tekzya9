@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "8:32:49 PM 17-11-2026",
+  "last_updated": "9:01:19 PM 17-11-2026",
   "total_matches": 32,
   "live_matches": 5,
   "upcoming_matches": 27,
@@ -20,8 +20,12 @@
           "title": "Kon Honaar Crorepati",
           "eventTitle": "Kon Honaar Crorepati",
           "eventId": "amzn1.dv.gti.71abd820-0f36-4df3-871d-0af161e6d981",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Marathi"
+          ],
+          "primarySpokenLanguages": [
+            "Marathi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71abd820-0f36-4df3-871d-0af161e6d981/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -55,8 +59,33 @@
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
-      "playbackEnvelope": "MDJ8CnAKBHBlbnYSJDI0MWY5NWQ4LTA3YzAtNDY5YS05MzY1LWZlZGFhN2RhZjllNRoUYTJ6K3BwX2VuYytzX3BnWDFrUEEgASgBUgwIldnx1wYQgPLfhwNaDAjp1vHXBhDT876HA2IMCJng8dcGENPzvocDWhCHAHO9trhAvYBvbT6jA7nQYkho7rmFg5G5eOewN/kOMRJxGhIkHTlOTWzPPjYdWv3ZdJy/7wvyIw/dOhONpLW2utJHNy29k4/CR6hle4SrwsW4HCF9KGnsF6dq4AiSmbJehlavPJ2KcyEz/KBPFcerI/BYqfyFAJt+WVpk577e5bBK8NhPmqFr0qmYXswNf6q71W0V8/FGN/EjfaJ0oLleMNkdWyr+2X3+6+Nfj++05XsXhDYRpdC8/k5MQ1PFY2I46hZvX4YmB311iFkukfIWUizHxaArKbbAvU1tOfDfAxeJyTfnAAvMs3KLRbhb1c8wPFDC1FQjxqC+r6LlcN7qzfoNWAc+4grokXeHLlHGndSAEpxpd2rpVSoU8uIe/ml7wvhZfYs8URhtr08u41A5VRWOTnulNUtxp1LwhO/i+4x3dbNReyVauCjyDfKEE5pCDLwf5tBo/H7mtwDHe1vqAqWWOsR+QgofV5dqNA2VMvVW7FlQ6fdsdLAjOew8DytxJ+Ed3VZ3hc2K5wHCXssHy71Upn2sktXJBaCoSNlmNKd3f4bhCsd3bwfuRiabzogoX7V8/igBDSesd25ZiTfYGJRqDXQEJe3198j3fvFKSEzkqW+gEWm9zA5doGt0w295wfv8Zof5pLyiKnsbWAEQ5DPn7tnoy04AMJDgSLu7UrWnS/B/ulUNAw6m/gLwuuT1mBUekRn2QHvWFaRvW6AjikbgrGxKGu70fg7eqyErxfiNfpVNj+hRLvKilxaVXIc/wLKWIcoNaVHZFrHSglDVDkgpoMLsYKF0d/r846oOy1SXxetIzEbtAzc+tz3F7bETSNfQIJSE635iIHYKk5+qAvD5yKrIP8i62mwAibhPZ6HIpJi8iDqd8GqRYnTcr3Pja6GwHxnPIn93hA9xa0YueezxxBAlzWkMAXvG0O4e9SLcVegABlCIveDQ7lbRpG8kUlzJB2Sj9Msfs3u25Lx6hwnBY8ZsWwaLdKuhNyIKtF842MKMYYRoEch7pbjBgtYrtf8P1WIkwX+aONjLq4aIXW5lNYpoGs+60Rqu/9cLCJKPVS0q38PRIyzUKFXNeLEtJ1hNPkpIZu4fSHE66mJgXkA5Yjid/RyjDDQNMmpwHGdD9xH0X0xBNZvkLIaoPqY6tsfGQlXYN6L75YaLyQPmfkFVFiiLuYPBGzPAdflk15qtRtkGa0jNf1WEsPp9XF7PG9QgGqKvkm+Fsu8jCFvTS1n7wbf9W5Y/TOgSqUhFwd0tD5ekMbOQTk14AhXdyUpL9C0wPx5qr2jbG9KqqnsjbRfixh5TFuORnAvnIoSAZ0AFR1x47mBSlfUudPG0TMn0BtxWmOUePUU01EezmWVuIQlwvxZCI0G1Fq2GzqoGRv6QspQezgEnh0y1EoIXPUV41ig+OElilBn9co5I9QwOrIDQXObf3RWnj1cki+3bAJqCMzvcphLFPspP68yN3/H0RYUE6MSzbA1E1AW5a9Hv3JHlBJ2OuSLxhEhkwUeM3szTWzXSEckAvPREZwbCoSNqyCKgyr8U/zKLYUCI4HSCePYisfuPjsiZo5NW09tE7sbF8H74h52ipQD05I2/XNPyY8G8xZx7l+VMxfCkciD5dAaPaA2jel2v/D5cPPSCScJ2XQ+IRljLZRZ5xkH86g==",
-      "playback_details": {}
+      "playback_details": {
+        "keys_extracted_time": "09:01:00 PM 17-11-2026",
+        "playback_url": [
+          {
+            "cdn": "ottb",
+            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oce1vgkew8/out/v1/7e2ba2bf224f429fac596cfb767f7ff9/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "6a484733f4181070e10eef40e60f684d:a7b4bfb455426ee84701b069dcd7a4b4",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "akhHM_QYEHDhDu9A5g9oTQ",
+              "k": "p7S_tFVCbuhHAbBp3NektA"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     },
     {
       "titleId": "amzn1.dv.gti.9c12525c-2cbd-4ac3-983e-006c3074d19e",
@@ -71,8 +100,12 @@
           "title": "Kaun Banega Crorepati",
           "eventTitle": "Kaun Banega Crorepati",
           "eventId": "amzn1.dv.gti.9c12525c-2cbd-4ac3-983e-006c3074d19e",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "Hindi"
+          ]
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c12525c-2cbd-4ac3-983e-006c3074d19e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
@@ -106,8 +139,33 @@
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
-      "playbackEnvelope": "MDJ8CnAKBHBlbnYSJDE4MTg0YzIxLWI2OGItNDY1NC1iZDAwLTBkZDk4NzcyNGYzYhoUYTJ6K3BwX2VuYytzX3BnWDFrUEEgASgBUgwIldnx1wYQ177NhwNaDAjp1vHXBhCh6riHA2IMCJng8dcGEKHquIcDWhDxnRkP8zlN8vBqvAUGu7FPYkiLbnHxoKz393LYuK8ewMH10B2J1VeCeI/DaWhsUU4nMLpUazmVOef65NLtQY78mihfMQBYkFE8kPJr/JNjBNzqNU+HrIo1PW5q4Ag5dA5FGiQmCLEaUa6S714a7IhADxf88/bNEtRTG7aaCnDo3RxWKgZ/esg13OILMqzrJbgULU9GpqIStr91Uq5lLDZn3CH+VLMEX+tc89+9Srw60wQEFjrClknNOn4xqbmokQkO0gmOgmkY04kBsQjIHz+Use6xCk4hpWcMijv5iY2CbnTrqoJpVCCnXhQMqgwtdrZck3pWDHcCUgk2mA6jogyvyKTG/qAS91TttC2XOoDTqPkE9dzR/V59nD32Nqe59zdm/Q6FQrFsTmFShDF+pAsrv1vRiPBDP3NAc+whTg4kTYoAeBFLLV0zizBH1UX1ZNJqa2aGqneQlJWUQH8f9JKGmF91PpRHQtAHoZrpnGrf2QOE3u6ha1ERc64sAhNJJBXvt5OtK+JjIw2Bjnbkc/bNVKNN3JX5HnTyQj6knOyMUEzeW6Vu/blN8vhQzJqMQw7/sbFQ2A3DQwMsLDkpdoiq/2SFqz8/0bormuL0WQLt5kW4t1bpJZRf5wdh/DKzRu/LoCM9p961y3E5p/AgeVCzayeXJn6MusZmtdMQiCz15goUWUVsGwtvQb8LHePErcGEFzD14KRHxqXBOOoRrAOIcExCziYr0iDommhzt44t3GlPx2OgcYo8xgCoo9ZUErpA5qRnugvcoRUN6om7aVldeatDRq8R8j75RS+yG0Cr5cg3pH++oQbFIgZAOhZ4/qi4v/gxfetTitFCkiqMg6bN9IBl3d59r1/BDnXpnboKDBE/Hkfvz9lPyBATQemN7Zob2VCyOM3JXsMTi6//ZIsP333VemOmtxUdbWqBpeINBkiREKKhI4DqIiu0oKU4dp2X0H7GPoX773GH2qopOoWYLKqewtpT6jaNtjb/fdvdij8eYHfsD6FT3cuImQz+Y291CM6tATHzQUYqRRBi3y7aNZhDoNpUEGti/uM2s0UGwTpWdBE9ftfj+o865ZrKoEZBLr8Olsqxa2GZiUwQa7Hy4uQl9L7r8ATaPw+M9p/eAqsUcxcMIfc8EfesNlutLV0fj5GeRioA0f3smGFE50F2pkS3wENUMwm/hxzm7aTi63eCuP0OrTZgk1plHcWMS04j0UsprdK1EF77f4koiRRqyYPrdkpiY6wK3k2Rqw/B6YcXkDrSdqb6Rf72lbKeIwqwS5cz/hv3UTC2XYTQP4yn/KoGb2NAVLJUnWJnhbajAMZtjVeC9OoyIDoq+qViF5u3HhgHZNjdMy6QYyCs8rRa/Q8JlfLq5Dgi502bfqreutcMprdi/hhOrIk6mnTgbJKUlFVNVMC8VRpzbuc7ZdePco1uB8FL/zd6zQdbsNPvImRdUyS4BhO04vMwYtXutMKuphvNZKVt7cx1uUlHzEfv83BmYggtAGgAYqCNyv8D58YooJtcSLANc9olONHMxLAWLikM4I2nn0Lrz1F3AjHrpui+mxiXLf9Ky/V7tKzq09JteYWP0EVRtoiWQVjLLwWI5IwCs6GuCAy/zI0OciDrWYzXprgUspW7SBoBdYw42k94/FEagasjj0tdUK0LxQ==",
-      "playback_details": {}
+      "playback_details": {
+        "keys_extracted_time": "09:01:02 PM 17-11-2026",
+        "playback_url": [
+          {
+            "cdn": "ottb",
+            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wf8z0ddfd3/out/v1/eaf71c9f145b41d091a5dac77f0f16cd/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "427baded9b23e23d5ca749ec65c21787:ff43dde845fad9c1dbc97d74ddb3ad82",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Qnut7Zsj4j1cp0nsZcIXhw",
+              "k": "_0Pd6EX62cHbyX103bOtgg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     },
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
@@ -135,8 +193,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794927600000,
-          "startTimeIST": "Today 8:30 PM IST"
+          "startTimeMillis": 1794929400000,
+          "startTimeIST": "Today 9:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -148,10 +206,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 9:00 PM IST"
-          },
           {
             "title": "NBA Playback: NBA Playback",
             "startTimeIST": "Today 9:30 PM IST"
@@ -179,6 +233,10 @@
           {
             "title": "NBA Special: The Warmup presented by DraftKings",
             "startTimeIST": "Tomorrow 3:30 AM IST"
+          },
+          {
+            "title": "Basketcast: Basketcast  S2 Eps. 33",
+            "startTimeIST": "Tomorrow 5:00 AM IST"
           }
         ]
       },
@@ -237,8 +295,12 @@
           "title": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
           "eventTitle": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://m.media-amazon.com/images/I/81BB1CyMoYL.jpg",
@@ -291,7 +353,33 @@
         "message": "fancode",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
-      "playback_details": {}
+      "playback_details": {
+        "keys_extracted_time": "09:01:03 PM 17-11-2026",
+        "playback_url": [
+          {
+            "cdn": "ottb",
+            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "GZSx3339LoqNe5vz-5AChQ",
+              "k": "IqFESz2hjhORkWZbPWUoNQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     },
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
@@ -306,8 +394,12 @@
           "title": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
           "eventTitle": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
         },
         "images": {
           "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
@@ -364,7 +456,33 @@
         "message": "fancode",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
-      "playback_details": {}
+      "playback_details": {
+        "keys_extracted_time": "09:01:04 PM 17-11-2026",
+        "playback_url": [
+          {
+            "cdn": "ottb",
+            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "gt_KI46MS0MKMmnbcZZduQ",
+              "k": "oAsoyvSsYo53pVPUQMDdyg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
     }
   ],
   "upcoming": [
