@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "9:01:19 PM 17-11-2026",
+  "last_updated": "10:00:54 PM 17-11-2026",
   "total_matches": 32,
   "live_matches": 5,
   "upcoming_matches": 27,
@@ -60,11 +60,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:01:00 PM 17-11-2026",
+        "keys_extracted_time": "09:56:14 PM 17-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oce1vgkew8/out/v1/7e2ba2bf224f429fac596cfb767f7ff9/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yrnz8qcrnx/out/v1/a3b7717b71b846ffb748287cecf0a284/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -140,11 +140,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:01:02 PM 17-11-2026",
+        "keys_extracted_time": "10:00:52 PM 17-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wf8z0ddfd3/out/v1/eaf71c9f145b41d091a5dac77f0f16cd/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wf8z0ddfd3/out/v1/eaf71c9f145b41d091a5dac77f0f16cd/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -170,15 +170,15 @@
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: WNBL Full Court",
-      "eventTitle": "NBA TV International: WNBL Full Court",
+      "title": "NBA TV International: NBA Playback: NBA Playback",
+      "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: WNBL Full Court",
-          "eventTitle": "NBA TV International: WNBL Full Court",
+          "title": "NBA TV International: NBA Playback: NBA Playback",
+          "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -188,13 +188,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794929400000,
-          "startTimeIST": "Today 9:00 PM IST"
+          "startTimeMillis": 1794931200000,
+          "startTimeIST": "Today 9:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -206,10 +206,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "NBA Playback: NBA Playback",
-            "startTimeIST": "Today 9:30 PM IST"
-          },
           {
             "title": "Basketcast: Basketcast  S2 Eps. 33",
             "startTimeIST": "Today 11:30 PM IST"
@@ -237,15 +233,19 @@
           {
             "title": "Basketcast: Basketcast  S2 Eps. 33",
             "startTimeIST": "Tomorrow 5:00 AM IST"
+          },
+          {
+            "title": "The Association",
+            "startTimeIST": "Tomorrow 6:00 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg"
         },
         "heroImageFragments": {}
       },
@@ -255,7 +255,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "01:46:38 PM 16-11-2026",
+        "keys_extracted_time": "10:00:52 PM 17-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -285,15 +285,15 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
-      "eventTitle": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
+      "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+      "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
-          "eventTitle": "FanCode 2: 1st Test, Day 3: South Africa vs. Bangladesh",
+          "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+          "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -303,13 +303,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/81BB1CyMoYL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/718FMDVjIWL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794902400000,
-          "startTimeIST": "Today 1:30 PM IST"
+          "startTimeMillis": 1794933000000,
+          "startTimeIST": "Today 10:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -321,10 +321,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 10:00 PM IST"
-          },
           {
             "title": "South Africa tour of West Indies",
             "startTimeIST": "Today 10:30 PM IST"
@@ -341,10 +337,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/718FMDVjIWL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81BB1CyMoYL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -354,11 +350,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:01:03 PM 17-11-2026",
+        "keys_extracted_time": "10:00:53 PM 17-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -407,8 +403,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794927600000,
-          "startTimeIST": "Today 8:30 PM IST"
+          "startTimeMillis": 1794933000000,
+          "startTimeIST": "Today 10:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -420,14 +416,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 9:30 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 10:00 PM IST"
-          },
           {
             "title": "South Africa tour of West Indies",
             "startTimeIST": "Today 10:30 PM IST"
@@ -457,11 +445,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "09:01:04 PM 17-11-2026",
+        "keys_extracted_time": "10:00:54 PM 17-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
