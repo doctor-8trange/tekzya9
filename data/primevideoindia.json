@@ -2,671 +2,23 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "1:18:05 AM 18-11-2026",
-  "total_matches": 30,
-  "live_matches": 11,
+  "last_updated": "3:32:46 AM 18-11-2026",
+  "total_matches": 22,
+  "live_matches": 3,
   "upcoming_matches": 19,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672",
-      "streamId": "amzn1.dv.gti.457d63ec-dac2-41b3-92c2-3505c1a7caf1",
-      "title": "Hungary vs. Northern Ireland",
-      "eventTitle": "Hungary vs. Northern Ireland",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Hungary vs. Northern Ireland",
-          "eventTitle": "Hungary vs. Northern Ireland",
-          "eventId": "amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Puskás Aréna"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ec7788a-4f74-420b-898d-f8d9722a2672/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:17:51 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/s05uor8az9/out/v1/e965693a289846f0a09e4ceec94b344e/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "066f2982a763d13ecb8553aa38c79c56:ec806ea8bfc9cf10176d23f68f417a38",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Bm8pgqdj0T7LhVOqOMecVg",
-              "k": "7IBuqL_JzxAXbSP2j0F6OA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813",
-      "streamId": "amzn1.dv.gti.ba62e84a-854c-4043-9592-aed01488d934",
-      "title": "Israel vs. Austria",
-      "eventTitle": "Israel vs. Austria",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Israel vs. Austria",
-          "eventTitle": "Israel vs. Austria",
-          "eventId": "amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Nagyerdei Stadion"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.340151e8-3f37-4531-a914-41864d5ec813/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:17:53 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/arxzgdycwg/out/v1/f69104cf961b4672b80d9929655859f2/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "0639f8573956b618ced21ee7281e365c:f5ba8ec970af5dd4ff1b147fe5449c49",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "Bjn4VzlWthjO0h7nKB42XA",
-              "k": "9bqOyXCvXdT_GxR_5UScSQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b",
-      "streamId": "amzn1.dv.gti.ed7f4b3f-3489-4691-a950-132edfa0513c",
-      "title": "Wales vs. Portugal",
-      "eventTitle": "Wales vs. Portugal",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Wales vs. Portugal",
-          "eventTitle": "Wales vs. Portugal",
-          "eventId": "amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Cardiff City Stadium"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.421e9d1f-01c1-4d63-b300-7bcd4047760b/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:17:56 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/4bwjiwiing/out/v1/73b0741cb39341a090a8cc060ed5b6e8/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "017c41c0925871543f9595fb68496b5c:0e76c76659700c20917e6d4ca0b9990e",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "AXxBwJJYcVQ_lZX7aElrXA",
-              "k": "DnbHZllwDCCRfm1MoLmZDg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d",
-      "streamId": "amzn1.dv.gti.a354cdef-1396-4b62-bfc7-0507852d923d",
-      "title": "Republic of Ireland vs. Kosovo",
-      "eventTitle": "Republic of Ireland vs. Kosovo",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Republic of Ireland vs. Kosovo",
-          "eventTitle": "Republic of Ireland vs. Kosovo",
-          "eventId": "amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Aviva Stadium"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76a1c717-f64a-4f27-b22f-e73e3ee1552d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:17:57 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/f6dltdegtu/out/v1/ea417e83cdd249559751ec8788109d89/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "eb91d579ff4003a002035a7709a5f2c0:90fcdf465d9502ee21eb2942eb5ddd28",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "65HVef9AA6ACA1p3CaXywA",
-              "k": "kPzfRl2VAu4h6ylC613dKA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f",
-      "streamId": "amzn1.dv.gti.e9b985fe-94e1-45e4-88ce-65d80a966525",
-      "title": "Poland vs. Sweden",
-      "eventTitle": "Poland vs. Sweden",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Poland vs. Sweden",
-          "eventTitle": "Poland vs. Sweden",
-          "eventId": "amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Tarczyński Arena"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a75f3a8-bbef-4d9a-95c5-9cccb598eb0f/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:17:59 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/baj5vc4uaz/out/v1/a981b116febe4a698eca47b858e8ee63/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "aae98bf41c39354e6d247f0d2d28078f:f986be246a4bc6de4fa44f5915e92e11",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "qumL9Bw5NU5tJH8NLSgHjw",
-              "k": "-Ya-JGpLxt5PpE9ZFekuEQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76",
-      "streamId": "amzn1.dv.gti.a4049945-c096-418d-bbc6-1cd224fa7ddb",
-      "title": "Denmark vs. Norway",
-      "eventTitle": "Denmark vs. Norway",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Denmark vs. Norway",
-          "eventTitle": "Denmark vs. Norway",
-          "eventId": "amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Parken"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2276c37-d5f9-4dd2-b105-7d0ec4f1dc76/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:18:01 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ogjuovxoof/out/v1/6b0377ac74db45898cbf19d83f6a931e/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "980250867e7880ad4312239c652eaf6b:e478aeae8c9d6c8622abd6b6f61b6275",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "mAJQhn54gK1DEiOcZS6vaw",
-              "k": "5HiuroydbIYiq9a29htidQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023",
-      "streamId": "amzn1.dv.gti.55b56c0f-b9d9-4d7e-b518-0f204acde6ed",
-      "title": "Bosnia-Herzegovina vs. Romania",
-      "eventTitle": "Bosnia-Herzegovina vs. Romania",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Bosnia-Herzegovina vs. Romania",
-          "eventTitle": "Bosnia-Herzegovina vs. Romania",
-          "eventId": "amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Stadion Bilino Polje"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b56624af-f6dd-456b-9fbe-a81e166e3023/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:18:03 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ea2xs6jaok/out/v1/9c5a6602e767488c8dc1a8dcbe685519/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "0077eb527c1458e0cccf10ea82b08066:7e6ba5efdac251fc060ba00aefb84c2b",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "AHfrUnwUWODMzxDqgrCAZg",
-              "k": "fmul79rCUfwGC6AK77hMKw"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5",
-      "streamId": "amzn1.dv.gti.2a9a0e7c-9f96-49f5-b36b-687071f7da47",
-      "title": "Ukraine vs. Georgia",
-      "eventTitle": "Ukraine vs. Georgia",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Ukraine vs. Georgia",
-          "eventTitle": "Ukraine vs. Georgia",
-          "eventId": "amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
-          "heroImage": ""
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1794944100000,
-          "startTimeIST": "Today 1:05 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE",
-        "venue": "Košická futbalová aréna"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5/2/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f50fa02e-0366-4d8a-ade0-4784ba2519b5/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {}
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "01:18:05 AM 18-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/edtyneksbd/out/v1/fa11462eb36649329521362be98774f8/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "abb786e2b6696bdc0024a5665dbf5a05:4b79c6a71a8306389e816ee96c13dd01",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "q7eG4rZpa9wAJKVmXb9aBQ",
-              "k": "S3nGpxqDBjiegW7pbBPdAQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA Shot Clock: Games of the Night",
-      "eventTitle": "NBA TV International: NBA Shot Clock: Games of the Night",
+      "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+      "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA Shot Clock: Games of the Night",
-          "eventTitle": "NBA TV International: NBA Shot Clock: Games of the Night",
+          "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+          "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -676,13 +28,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/71jiag8fyRL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912aUmEwyjL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794942000000,
-          "startTimeIST": "Today 12:30 AM IST"
+          "startTimeMillis": 1794952800000,
+          "startTimeIST": "Today 3:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -695,37 +47,41 @@
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
           {
-            "title": "36",
-            "startTimeIST": "Today 2:00 AM IST"
-          },
-          {
-            "title": "Inside Practice S2 Eps. 6\nMiami Heat",
-            "startTimeIST": "Today 2:30 AM IST"
-          },
-          {
-            "title": "Coaches Corner S2, Eps. 5",
-            "startTimeIST": "Today 3:00 AM IST"
-          },
-          {
-            "title": "NBA Special: The Warmup presented by DraftKings",
-            "startTimeIST": "Today 3:30 AM IST"
-          },
-          {
             "title": "Basketcast: Basketcast  S2 Eps. 33",
             "startTimeIST": "Today 5:00 AM IST"
           },
           {
             "title": "The Association",
             "startTimeIST": "Today 6:00 AM IST"
+          },
+          {
+            "title": "The Association",
+            "startTimeIST": "Today 9:30 AM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 10:00 AM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 10:30 AM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 11:00 AM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 11:30 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912aUmEwyjL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71jiag8fyRL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -804,6 +160,26 @@
           {
             "title": "Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
             "startTimeIST": "Today 9:00 AM IST"
+          },
+          {
+            "title": "Best of Carabao Cup 2024-25",
+            "startTimeIST": "Today 9:30 AM IST"
+          },
+          {
+            "title": "Best of Carabao Cup 2024-25",
+            "startTimeIST": "Today 10:00 AM IST"
+          },
+          {
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 10:30 AM IST"
+          },
+          {
+            "title": "Afghanistan tour of Zimbabwe 2024-25",
+            "startTimeIST": "Today 11:00 AM IST"
+          },
+          {
+            "title": "Best of Carabao Cup 2024-25",
+            "startTimeIST": "Today 11:30 AM IST"
           }
         ]
       },
@@ -889,7 +265,7 @@
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
           {
-            "title": "3rd ODI: Australia v England",
+            "title": "3rd ODI: Australia vs. England",
             "startTimeIST": "Today 9:00 AM IST"
           }
         ]
