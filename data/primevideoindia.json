@@ -2,7 +2,7 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "7:16:08 PM 17-11-2026",
+  "last_updated": "7:19:33 PM 17-11-2026",
   "total_matches": 32,
   "live_matches": 3,
   "upcoming_matches": 29,
@@ -103,11 +103,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "07:10:51 PM 17-11-2026",
+        "keys_extracted_time": "01:46:38 PM 16-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -202,11 +202,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "07:10:53 PM 17-11-2026",
+        "keys_extracted_time": "05:15:19 PM 15-11-2026",
         "playback_url": [
           {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd"
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -242,12 +242,8 @@
           "title": "FanCode 1: Afghanistan tour of Ireland",
           "eventTitle": "FanCode 1: Afghanistan tour of Ireland",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
         },
         "images": {
           "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
@@ -316,33 +312,7 @@
         "message": "fancode",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
-      "playback_details": {
-        "keys_extracted_time": "07:10:54 PM 17-11-2026",
-        "playback_url": [
-          {
-            "cdn": "ottb",
-            "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "gt_KI46MS0MKMmnbcZZduQ",
-              "k": "oAsoyvSsYo53pVPUQMDdyg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
+      "playback_details": {}
     }
   ],
   "upcoming": [
@@ -1449,7 +1419,7 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
           "heroImage": ""
         },
@@ -1471,7 +1441,7 @@
           "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {}
       },
