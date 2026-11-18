@@ -2,23 +2,23 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "3:32:46 AM 18-11-2026",
-  "total_matches": 22,
+  "last_updated": "9:47:46 AM 18-11-2026",
+  "total_matches": 30,
   "live_matches": 3,
-  "upcoming_matches": 19,
+  "upcoming_matches": 27,
   "live": [
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
-      "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+      "title": "NBA TV International: The Association",
+      "eventTitle": "NBA TV International: The Association",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
-          "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+          "title": "NBA TV International: The Association",
+          "eventTitle": "NBA TV International: The Association",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -28,13 +28,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794952800000,
-          "startTimeIST": "Today 3:30 AM IST"
+          "startTimeMillis": 1794974400000,
+          "startTimeIST": "Today 9:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -46,18 +46,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "Basketcast: Basketcast  S2 Eps. 33",
-            "startTimeIST": "Today 5:00 AM IST"
-          },
-          {
-            "title": "The Association",
-            "startTimeIST": "Today 6:00 AM IST"
-          },
-          {
-            "title": "The Association",
-            "startTimeIST": "Today 9:30 AM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 10:00 AM IST"
@@ -73,15 +61,63 @@
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 11:30 AM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 12:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 12:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 1:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 1:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 2:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up",
+            "startTimeIST": "Today 2:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 5:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 5:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -91,11 +127,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "10:00:52 PM 17-11-2026",
+        "keys_extracted_time": "09:41:31 AM 18-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -121,15 +157,15 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Stay Tuned Slate",
-      "eventTitle": "FanCode 2: Stay Tuned Slate",
+      "title": "FanCode 2: Best of Carabao Cup 2024-25",
+      "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Stay Tuned Slate",
-          "eventTitle": "FanCode 2: Stay Tuned Slate",
+          "title": "FanCode 2: Best of Carabao Cup 2024-25",
+          "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -139,13 +175,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794940200000,
-          "startTimeIST": "Today 12:00 AM IST"
+          "startTimeMillis": 1794974400000,
+          "startTimeIST": "Today 9:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -157,14 +193,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
-            "startTimeIST": "Today 9:00 AM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 9:30 AM IST"
-          },
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 10:00 AM IST"
@@ -180,15 +208,27 @@
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 11:30 AM IST"
+          },
+          {
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 12:00 PM IST"
+          },
+          {
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 12:30 PM IST"
+          },
+          {
+            "title": "South Africa vs. Bangladesh",
+            "startTimeIST": "Today 1:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -198,11 +238,11 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "10:00:53 PM 17-11-2026",
+        "keys_extracted_time": "09:41:32 AM 18-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
@@ -228,15 +268,15 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Stay Tuned Slate",
-      "eventTitle": "FanCode 1: Stay Tuned Slate",
+      "title": "FanCode 1: 3rd ODI: Australia vs. England",
+      "eventTitle": "FanCode 1: 3rd ODI: Australia vs. England",
       "alternateBroadcasts": [],
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Stay Tuned Slate",
-          "eventTitle": "FanCode 1: Stay Tuned Slate",
+          "title": "FanCode 1: 3rd ODI: Australia vs. England",
+          "eventTitle": "FanCode 1: 3rd ODI: Australia vs. England",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -246,13 +286,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/S/combee-overridden-images/e/4/d/e4da9ecb1ace6f20c5026408bcc65b9c.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/71otcCXj6AL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1794940200000,
-          "startTimeIST": "Today 12:00 AM IST"
+          "startTimeMillis": 1794972600000,
+          "startTimeIST": "Today 9:00 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -265,17 +305,17 @@
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
           {
-            "title": "3rd ODI: Australia vs. England",
-            "startTimeIST": "Today 9:00 AM IST"
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 5:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71otcCXj6AL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/combee-overridden-images/e/4/d/e4da9ecb1ace6f20c5026408bcc65b9c.jpg"
         },
         "heroImageFragments": {}
       },
@@ -285,7 +325,7 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "10:00:54 PM 17-11-2026",
+        "keys_extracted_time": "09:41:33 AM 18-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
@@ -314,6 +354,155 @@
     }
   ],
   "upcoming": [
+    {
+      "titleId": "amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0",
+      "streamId": "amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0",
+      "title": "1st Test, Day 4: South Africa vs. Bangladesh",
+      "eventTitle": "1st Test, Day 4: South Africa vs. Bangladesh",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "1st Test, Day 4: South Africa vs. Bangladesh",
+          "eventTitle": "1st Test, Day 4: South Africa vs. Bangladesh",
+          "eventId": "amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0/3/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1794988800000,
+          "startTimeIST": "Today 1:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Today 1:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b77e1c63-a720-419a-8cbf-efa7c09e04f0/3/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085",
+      "streamId": "amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085",
+      "title": "Real Madrid vs. Internazionale",
+      "eventTitle": "Real Madrid vs. Internazionale",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Real Madrid vs. Internazionale",
+          "eventTitle": "Real Madrid vs. Internazionale",
+          "eventId": "amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795023900000,
+          "startTimeIST": "Today 11:15 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Today 11:15 PM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Estadio Alfredo Di Stéfano"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1c8f516-96a4-40a6-ac5a-4731c091a085/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3",
+      "streamId": "amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3",
+      "title": "Chelsea vs. Paris Saint-Germain",
+      "eventTitle": "Chelsea vs. Paris Saint-Germain",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Chelsea vs. Paris Saint-Germain",
+          "eventTitle": "Chelsea vs. Paris Saint-Germain",
+          "eventId": "amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795032000000,
+          "startTimeIST": "Tomorrow 1:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 1:30 AM IST",
+        "liveliness": "UPCOMING",
+        "venue": "The Cherry Red Records Stadium"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8ebd9d-3999-4938-854d-ccdb22b3ccf3/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
     {
       "titleId": "amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9",
       "streamId": "amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9",
@@ -361,6 +550,55 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb",
+      "streamId": "amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb",
+      "title": "Hobart Hurricanes vs. Perth Scorchers",
+      "eventTitle": "Hobart Hurricanes vs. Perth Scorchers",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Hobart Hurricanes vs. Perth Scorchers",
+          "eventTitle": "Hobart Hurricanes vs. Perth Scorchers",
+          "eventId": "amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795063200000,
+          "startTimeIST": "Tomorrow 10:10 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 10:10 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd63618e-714c-4d5e-96c3-8d5d67acaecb/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
@@ -459,6 +697,106 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
+      "streamId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
+      "title": "Paris FC vs. HB Køge",
+      "eventTitle": "Paris FC vs. HB Køge",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Paris FC vs. HB Køge",
+          "eventTitle": "Paris FC vs. HB Køge",
+          "eventId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795110300000,
+          "startTimeIST": "Tomorrow 11:15 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Tomorrow 11:15 PM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Stade Sébastien-Charléty"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018",
+      "streamId": "amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018",
+      "title": "FC Barcelona vs. Servette Chênois",
+      "eventTitle": "FC Barcelona vs. Servette Chênois",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "FC Barcelona vs. Servette Chênois",
+          "eventTitle": "FC Barcelona vs. Servette Chênois",
+          "eventId": "amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018/7/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795118400000,
+          "startTimeIST": "20 Nov 1:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "20 Nov 1:30 AM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Estadi Johan Cruyff"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018/7/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce3ee8cc-fcd7-4cc6-902f-b824ac5b1018/7/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
@@ -753,6 +1091,106 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea",
+      "streamId": "amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea",
+      "title": "Raptors vs. Pistons",
+      "eventTitle": "Raptors vs. Pistons",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Raptors vs. Pistons",
+          "eventTitle": "Raptors vs. Pistons",
+          "eventId": "amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea/10/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea/10/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795221000000,
+          "startTimeIST": "21 Nov 6:00 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "21 Nov 6:00 AM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Little Caesars Arena"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea/10/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137bc6ab-73cd-4606-bf78-147ed06a9aea/10/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "NBA League Pass",
+        "message": "nbaleaguepass",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81",
+      "streamId": "amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81",
+      "title": "Rockets vs. Nuggets",
+      "eventTitle": "Rockets vs. Nuggets",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Rockets vs. Nuggets",
+          "eventTitle": "Rockets vs. Nuggets",
+          "eventId": "amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81/10/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81/10/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795230000000,
+          "startTimeIST": "21 Nov 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "21 Nov 8:30 AM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Ball Arena"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81/10/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48686306-afb7-4d38-8909-63829fc29c81/10/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "NBA League Pass",
+        "message": "nbaleaguepass",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       }
     },
     {
