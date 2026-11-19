@@ -2,13 +2,13 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "2:39:52 PM 19-11-2026",
-  "total_matches": 34,
+  "last_updated": "3:02:47 PM 19-11-2026",
+  "total_matches": 33,
   "live_matches": 4,
   "upcoming_matches": 28,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
+      "titleId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
       "streamId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
       "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
       "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
@@ -16,9 +16,9 @@
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-          "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-          "eventId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
+          "title": "1st Test, Day 5: South Africa vs. Bangladesh",
+          "eventTitle": "1st Test, Day 5: South Africa vs. Bangladesh",
+          "eventId": "amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13",
           "originalLanguages": [
             "English"
           ],
@@ -27,13 +27,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795068000000,
-          "startTimeIST": "Today 11:30 AM IST"
+          "startTimeMillis": 1795075200000,
+          "startTimeIST": "Today 1:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -45,20 +45,20 @@
         "liveliness": "LIVE"
       },
       "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "11:32:48 AM 19-11-2026",
@@ -91,14 +91,14 @@
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: The Association: Post Up",
-      "eventTitle": "NBA TV International: The Association: Post Up",
+      "title": "NBA TV International: WNBL Full Court",
+      "eventTitle": "NBA TV International: WNBL Full Court",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: The Association: Post Up",
-          "eventTitle": "NBA TV International: The Association: Post Up",
+          "title": "NBA TV International: WNBL Full Court",
+          "eventTitle": "NBA TV International: WNBL Full Court",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -108,13 +108,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795078800000,
-          "startTimeIST": "Today 2:30 PM IST"
+          "startTimeMillis": 1795080600000,
+          "startTimeIST": "Today 3:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -126,10 +126,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 3:00 PM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 3:30 PM IST"
@@ -186,10 +182,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -319,14 +315,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Stay Tuned Slate",
-      "eventTitle": "FanCode 1: Stay Tuned Slate",
+      "title": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
+      "eventTitle": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Stay Tuned Slate",
-          "eventTitle": "FanCode 1: Stay Tuned Slate",
+          "title": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
+          "eventTitle": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -336,13 +332,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795078800000,
-          "startTimeIST": "Today 2:30 PM IST"
+          "startTimeMillis": 1795080600000,
+          "startTimeIST": "Today 3:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -354,10 +350,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Zimbabwe's tour of Ireland - One-off",
-            "startTimeIST": "Today 3:00 PM IST"
-          },
           {
             "title": "Afghanistan vs Ireland",
             "startTimeIST": "Today 3:30 PM IST"
@@ -418,10 +410,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg"
         },
         "heroImageFragments": {}
       },
