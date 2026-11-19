@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "3:02:47 PM 19-11-2026",
+  "last_updated": "3:32:49 PM 19-11-2026",
   "total_matches": 33,
-  "live_matches": 4,
-  "upcoming_matches": 28,
+  "live_matches": 5,
+  "upcoming_matches": 27,
   "live": [
     {
       "titleId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
@@ -89,6 +89,87 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
+      "streamId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
+      "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
+      "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
+          "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
+          "eventId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795082400000,
+          "startTimeIST": "Today 3:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "03:32:49 PM 19-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x0igehpu1l/out/v1/a22fcedcc6fd47e19b5ae642a935c1d0/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "a483403980e885c7c448950500139b07:181c08c0de1ef25e8f893a81909304c1",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "pINAOYDohcfESJUFABObBw",
+              "k": "GBwIwN4e8l6PiTqBkJMEwQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "title": "NBA TV International: WNBL Full Court",
@@ -113,8 +194,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795080600000,
-          "startTimeIST": "Today 3:00 PM IST"
+          "startTimeMillis": 1795082400000,
+          "startTimeIST": "Today 3:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -126,10 +207,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 3:30 PM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 4:00 PM IST"
@@ -177,6 +254,10 @@
           {
             "title": "NBA Playback: NBA Playback",
             "startTimeIST": "Today 9:30 PM IST"
+          },
+          {
+            "title": "Basketcast: Basketcast  S2 Eps. 35",
+            "startTimeIST": "Today 11:30 PM IST"
           }
         ]
       },
@@ -267,6 +348,10 @@
           {
             "title": "South Africa tour of West Indies",
             "startTimeIST": "Today 10:30 PM IST"
+          },
+          {
+            "title": "Austria Wien vs. FC Bayern München",
+            "startTimeIST": "Today 11:15 PM IST"
           }
         ]
       },
@@ -315,14 +400,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
-      "eventTitle": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
+      "title": "FanCode 1: Afghanistan vs Ireland",
+      "eventTitle": "FanCode 1: Afghanistan vs Ireland",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
-          "eventTitle": "FanCode 1: Zimbabwe's tour of Ireland - One-off",
+          "title": "FanCode 1: Afghanistan vs Ireland",
+          "eventTitle": "FanCode 1: Afghanistan vs Ireland",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -332,13 +417,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795080600000,
-          "startTimeIST": "Today 3:00 PM IST"
+          "startTimeMillis": 1795082400000,
+          "startTimeIST": "Today 3:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -350,10 +435,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan vs Ireland",
-            "startTimeIST": "Today 3:30 PM IST"
-          },
           {
             "title": "Afghanistan tour of Ireland",
             "startTimeIST": "Today 4:00 PM IST"
@@ -405,15 +486,19 @@
           {
             "title": "South Africa tour of West Indies",
             "startTimeIST": "Today 10:30 PM IST"
+          },
+          {
+            "title": "Paris FC vs. HB Køge",
+            "startTimeIST": "Today 11:15 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -452,57 +537,6 @@
     }
   ],
   "upcoming": [
-    {
-      "titleId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
-      "streamId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
-      "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-      "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-          "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-          "eventId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795082400000,
-          "startTimeIST": "Today 3:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 3:30 PM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
       "streamId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
