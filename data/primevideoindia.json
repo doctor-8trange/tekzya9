@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "4:43:49 AM 19-11-2026",
-  "total_matches": 35,
-  "live_matches": 5,
-  "upcoming_matches": 31,
+  "last_updated": "9:02:51 AM 19-11-2026",
+  "total_matches": 37,
+  "live_matches": 10,
+  "upcoming_matches": 32,
   "live": [
     {
       "titleId": "amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9",
@@ -27,9 +27,9 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795037100000,
@@ -45,20 +45,14 @@
         "liveliness": "LIVE"
       },
       "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
+        "boxArtImageFragments": {},
+        "coverImageFragments": {},
+        "heroImageFragments": {}
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "04:43:04 AM 19-11-2026",
@@ -108,9 +102,9 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795037100000,
@@ -138,8 +132,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "04:43:05 AM 19-11-2026",
@@ -189,9 +183,9 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795037100000,
@@ -219,8 +213,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "04:43:06 AM 19-11-2026",
@@ -270,9 +264,9 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795037100000,
@@ -300,8 +294,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "04:43:07 AM 19-11-2026",
@@ -351,9 +345,9 @@
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795037100000,
@@ -381,8 +375,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+        "message": "sonylivin",
+        "imageUrl": ""
       },
       "playback_details": {
         "keys_extracted_time": "04:43:09 AM 19-11-2026",
@@ -413,16 +407,265 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+      "streamId": "amzn1.dv.gti.245699d3-4947-48a4-93c0-beadafce3769",
+      "title": "Jazz vs. Lakers",
+      "eventTitle": "Jazz vs. Lakers",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Jazz vs. Lakers",
+          "eventTitle": "Jazz vs. Lakers",
+          "eventId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795057200000,
+          "startTimeIST": "Today 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {},
+        "coverImageFragments": {},
+        "heroImageFragments": {}
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonylivin",
+        "imageUrl": ""
+      },
+      "playback_details": {}
+    },
+    {
+      "titleId": "amzn1.dv.gti.a71758c8-6247-486a-a768-9d08e8abf770",
+      "streamId": "amzn1.dv.gti.a71758c8-6247-486a-a768-9d08e8abf770",
+      "title": "U.S. Broadcast",
+      "eventTitle": "U.S. Broadcast",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Jazz vs. Lakers",
+          "eventTitle": "Jazz vs. Lakers",
+          "eventId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795057200000,
+          "startTimeIST": "Today 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5cff3dca-d8c1-4c94-a705-19c81d6b89dc/6/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5cff3dca-d8c1-4c94-a705-19c81d6b89dc/6/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5cff3dca-d8c1-4c94-a705-19c81d6b89dc/6/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonylivin",
+        "imageUrl": ""
+      },
+      "playback_details": {}
+    },
+    {
+      "titleId": "amzn1.dv.gti.7161b5a0-0473-40a9-9eb0-3f4973126cc5",
+      "streamId": "amzn1.dv.gti.7161b5a0-0473-40a9-9eb0-3f4973126cc5",
+      "title": "Kings Broadcast",
+      "eventTitle": "Kings Broadcast",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Jazz vs. Lakers",
+          "eventTitle": "Jazz vs. Lakers",
+          "eventId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795057200000,
+          "startTimeIST": "Today 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bd93f62-bd8d-4402-8307-469a70ba386d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bd93f62-bd8d-4402-8307-469a70ba386d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bd93f62-bd8d-4402-8307-469a70ba386d/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonylivin",
+        "imageUrl": ""
+      },
+      "playback_details": {}
+    },
+    {
+      "titleId": "amzn1.dv.gti.940afa6d-23e8-4dc8-a6f7-31c6a02730d9",
+      "streamId": "amzn1.dv.gti.940afa6d-23e8-4dc8-a6f7-31c6a02730d9",
+      "title": "Jazz Broadcast",
+      "eventTitle": "Jazz Broadcast",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Jazz vs. Lakers",
+          "eventTitle": "Jazz vs. Lakers",
+          "eventId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795057200000,
+          "startTimeIST": "Today 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.940afa6d-23e8-4dc8-a6f7-31c6a02730d9/3/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.940afa6d-23e8-4dc8-a6f7-31c6a02730d9/3/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.940afa6d-23e8-4dc8-a6f7-31c6a02730d9/3/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonylivin",
+        "imageUrl": ""
+      },
+      "playback_details": {}
+    },
+    {
+      "titleId": "amzn1.dv.gti.035720f5-fe82-4703-8490-23a1e457a7c7",
+      "streamId": "amzn1.dv.gti.035720f5-fe82-4703-8490-23a1e457a7c7",
+      "title": "Mobile Broadcast",
+      "eventTitle": "Mobile Broadcast",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Jazz vs. Lakers",
+          "eventTitle": "Jazz vs. Lakers",
+          "eventId": "amzn1.dv.gti.85efe853-c0db-4b89-8a30-812734413592",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "",
+          "boxartImage": "",
+          "heroImage": ""
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795057200000,
+          "startTimeIST": "Today 8:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.035720f5-fe82-4703-8490-23a1e457a7c7/5/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.035720f5-fe82-4703-8490-23a1e457a7c7/5/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.035720f5-fe82-4703-8490-23a1e457a7c7/5/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonylivin",
+        "imageUrl": ""
+      },
+      "playback_details": {}
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
-      "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+      "title": "NBA TV International: The Association",
+      "eventTitle": "NBA TV International: The Association",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
-          "eventTitle": "NBA TV International: NBA Special: The Warmup presented by DraftKings",
+          "title": "NBA TV International: The Association",
+          "eventTitle": "NBA TV International: The Association",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -432,13 +675,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795039200000,
-          "startTimeIST": "Today 3:30 AM IST"
+          "startTimeMillis": 1795048200000,
+          "startTimeIST": "Today 6:00 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -450,14 +693,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "Basketcast: Basketcast  S2 Eps. 34",
-            "startTimeIST": "Today 5:00 AM IST"
-          },
-          {
-            "title": "The Association",
-            "startTimeIST": "Today 6:00 AM IST"
-          },
           {
             "title": "The Association",
             "startTimeIST": "Today 9:30 AM IST"
@@ -485,15 +720,51 @@
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 12:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 1:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 1:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 2:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up",
+            "startTimeIST": "Today 2:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 5:00 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71I6jv-4M2L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -533,14 +804,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Stay Tuned Slate",
-      "eventTitle": "FanCode 2: Stay Tuned Slate",
+      "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
+      "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Stay Tuned Slate",
-          "eventTitle": "FanCode 2: Stay Tuned Slate",
+          "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
+          "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -550,13 +821,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795039200000,
-          "startTimeIST": "Today 3:30 AM IST"
+          "startTimeMillis": 1795059000000,
+          "startTimeIST": "Today 9:00 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -568,10 +839,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
-            "startTimeIST": "Today 9:00 AM IST"
-          },
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 9:30 AM IST"
@@ -599,15 +866,19 @@
           {
             "title": "England Women's tour of Ireland 2024",
             "startTimeIST": "Today 12:30 PM IST"
+          },
+          {
+            "title": "1st Test, Day 5: South Africa vs. Bangladesh",
+            "startTimeIST": "Today 1:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -647,14 +918,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Stay Tuned Slate",
-      "eventTitle": "FanCode 1: Stay Tuned Slate",
+      "title": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
+      "eventTitle": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Stay Tuned Slate",
-          "eventTitle": "FanCode 1: Stay Tuned Slate",
+          "title": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
+          "eventTitle": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -664,13 +935,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795039200000,
-          "startTimeIST": "Today 3:30 AM IST"
+          "startTimeMillis": 1795059000000,
+          "startTimeIST": "Today 9:00 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -683,25 +954,41 @@
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
           {
-            "title": "Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
-            "startTimeIST": "Today 9:00 AM IST"
-          },
-          {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 9:30 AM IST"
           },
           {
             "title": "Hobart Hurricanes vs. Perth Scorchers",
             "startTimeIST": "Today 10:10 AM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "Afghanistan vs Ireland",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 5:00 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -911,9 +1198,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795075200000,
@@ -930,13 +1217,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -1065,9 +1352,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795110300000,
@@ -1085,13 +1372,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
@@ -1117,9 +1404,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795118400000,
@@ -1137,13 +1424,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
         }
       },
       "providerLogoInfo": {
@@ -1610,6 +1897,58 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
+      "streamId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
+      "title": "Raptors vs. Pistons",
+      "eventTitle": "Raptors vs. Pistons",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Raptors vs. Pistons",
+          "eventTitle": "Raptors vs. Pistons",
+          "eventId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/1936x1089._UR1920,1080_.png"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795221000000,
+          "startTimeIST": "21 Nov 6:00 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "21 Nov 6:00 AM IST",
+        "liveliness": "UPCOMING",
+        "venue": "Little Caesars Arena"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/BOXART-4X3/en-GB/2560x1920._UR1920,1080_.png"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/1936x1089._UR1920,1080_.png"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "NBA League Pass",
+        "message": "nbaleaguepass",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       }
     },
     {
