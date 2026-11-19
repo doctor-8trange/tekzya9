@@ -2,13 +2,13 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "3:32:49 PM 19-11-2026",
+  "last_updated": "3:54:39 PM 19-11-2026",
   "total_matches": 33,
   "live_matches": 5,
   "upcoming_matches": 27,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
+      "titleId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
       "streamId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
       "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
       "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
@@ -16,9 +16,9 @@
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "1st Test, Day 5: South Africa vs. Bangladesh",
-          "eventTitle": "1st Test, Day 5: South Africa vs. Bangladesh",
-          "eventId": "amzn1.dv.gti.6787b608-6f75-406a-aebf-1e6f1a5e1e13",
+          "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+          "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+          "eventId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
           "originalLanguages": [
             "English"
           ],
@@ -27,13 +27,13 @@
           ]
         },
         "images": {
-          "coverImage": "",
-          "boxartImage": "",
-          "heroImage": ""
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795075200000,
-          "startTimeIST": "Today 1:30 PM IST"
+          "startTimeMillis": 1795068000000,
+          "startTimeIST": "Today 11:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -45,20 +45,20 @@
         "liveliness": "LIVE"
       },
       "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "11:32:48 AM 19-11-2026",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
+      "titleId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
       "streamId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
       "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
       "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
@@ -109,12 +109,12 @@
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795082400000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795068000000,
+          "startTimeIST": "Today 11:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -126,14 +126,14 @@
         "liveliness": "LIVE"
       },
       "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
