@@ -2,94 +2,13 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "3:54:39 PM 19-11-2026",
-  "total_matches": 33,
+  "last_updated": "7:02:46 PM 19-11-2026",
+  "total_matches": 34,
   "live_matches": 5,
-  "upcoming_matches": 27,
+  "upcoming_matches": 29,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
-      "streamId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
-      "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-      "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-          "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
-          "eventId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795068000000,
-          "startTimeIST": "Today 11:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:32:48 AM 19-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "YwC9YA0MnkWb0aPQI-InDQ",
-              "k": "7fU_rQRMQ_iq6RrSV2zM_Q"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
+      "titleId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
       "streamId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
       "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
       "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
@@ -109,12 +28,12 @@
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795068000000,
-          "startTimeIST": "Today 11:30 AM IST"
+          "startTimeMillis": 1795082400000,
+          "startTimeIST": "Today 3:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -126,14 +45,14 @@
         "liveliness": "LIVE"
       },
       "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -170,6 +89,87 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
+      "streamId": "amzn1.dv.gti.548d27a4-5d4e-488f-953d-08a8d2879782",
+      "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+      "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+          "eventTitle": "Bangladesh A vs Hong Kong, China - 19 Nov 2026",
+          "eventId": "amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795082400000,
+          "startTimeIST": "Today 3:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad4123d-41c5-4d2c-b42b-b13ab209c882/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:32:48 AM 19-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "YwC9YA0MnkWb0aPQI-InDQ",
+              "k": "7fU_rQRMQ_iq6RrSV2zM_Q"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "title": "NBA TV International: WNBL Full Court",
@@ -194,8 +194,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795082400000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795095000000,
+          "startTimeIST": "Today 7:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -207,34 +207,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 4:00 PM IST"
-          },
-          {
-            "title": "The Association: Post Up\n(",
-            "startTimeIST": "Today 4:30 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 5:00 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 5:30 PM IST"
-          },
-          {
-            "title": "The Association: Post Up\n(",
-            "startTimeIST": "Today 6:00 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 6:30 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 7:00 PM IST"
-          },
           {
             "title": "The Association: Post Up\n(",
             "startTimeIST": "Today 7:30 PM IST"
@@ -258,6 +230,14 @@
           {
             "title": "Basketcast: Basketcast  S2 Eps. 35",
             "startTimeIST": "Today 11:30 PM IST"
+          },
+          {
+            "title": "NBA Shot Clock: Games of the Night",
+            "startTimeIST": "Tomorrow 12:30 AM IST"
+          },
+          {
+            "title": "Enjoy the NBA Trivia Show\nS2 Eps. 1",
+            "startTimeIST": "Tomorrow 2:30 AM IST"
           }
         ]
       },
@@ -352,6 +332,10 @@
           {
             "title": "Austria Wien vs. FC Bayern München",
             "startTimeIST": "Today 11:15 PM IST"
+          },
+          {
+            "title": "Arsenal vs. OL Lyonnes",
+            "startTimeIST": "Tomorrow 1:30 AM IST"
           }
         ]
       },
@@ -400,14 +384,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Afghanistan vs Ireland",
-      "eventTitle": "FanCode 1: Afghanistan vs Ireland",
+      "title": "FanCode 1: Afghanistan tour of Ireland",
+      "eventTitle": "FanCode 1: Afghanistan tour of Ireland",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Afghanistan vs Ireland",
-          "eventTitle": "FanCode 1: Afghanistan vs Ireland",
+          "title": "FanCode 1: Afghanistan tour of Ireland",
+          "eventTitle": "FanCode 1: Afghanistan tour of Ireland",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -417,13 +401,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795082400000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795095000000,
+          "startTimeIST": "Today 7:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -435,34 +419,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 4:00 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 4:30 PM IST"
-          },
-          {
-            "title": "Zimbabwe's tour of Ireland - One-off",
-            "startTimeIST": "Today 5:00 PM IST"
-          },
-          {
-            "title": "England Women's tour of Ireland 2024",
-            "startTimeIST": "Today 5:30 PM IST"
-          },
-          {
-            "title": "Sri Lanka Women tour of Ireland - T20 Internationals",
-            "startTimeIST": "Today 6:00 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 6:30 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 7:00 PM IST"
-          },
           {
             "title": "Afghanistan tour of Ireland",
             "startTimeIST": "Today 7:30 PM IST"
@@ -490,15 +446,19 @@
           {
             "title": "Paris FC vs. HB Køge",
             "startTimeIST": "Today 11:15 PM IST"
+          },
+          {
+            "title": "FC Barcelona vs. Servette Chênois",
+            "startTimeIST": "Tomorrow 1:30 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -537,6 +497,108 @@
     }
   ],
   "upcoming": [
+    {
+      "titleId": "amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d",
+      "streamId": "amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d",
+      "title": "Kaun Banega Crorepati",
+      "eventTitle": "Kaun Banega Crorepati",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Kaun Banega Crorepati",
+          "eventTitle": "Kaun Banega Crorepati",
+          "eventId": "amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795100400000,
+          "startTimeIST": "Today 8:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Today 8:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f",
+      "streamId": "amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f",
+      "title": "Kon Honaar Crorepati",
+      "eventTitle": "Kon Honaar Crorepati",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Kon Honaar Crorepati",
+          "eventTitle": "Kon Honaar Crorepati",
+          "eventId": "amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795100400000,
+          "startTimeIST": "Today 8:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "Today 8:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
     {
       "titleId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
       "streamId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
