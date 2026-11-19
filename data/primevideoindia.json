@@ -2,265 +2,22 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "9:32:47 PM 19-11-2026",
-  "total_matches": 32,
-  "live_matches": 6,
-  "upcoming_matches": 27,
+  "last_updated": "11:47:46 PM 19-11-2026",
+  "total_matches": 29,
+  "live_matches": 3,
+  "upcoming_matches": 24,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d",
-      "streamId": "amzn1.dv.gti.19eaa24d-9a80-44f8-915c-6a162bf12adf",
-      "title": "Kaun Banega Crorepati",
-      "eventTitle": "Kaun Banega Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kaun Banega Crorepati",
-          "eventTitle": "Kaun Banega Crorepati",
-          "eventId": "amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d",
-          "originalLanguages": [
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795100400000,
-          "startTimeIST": "Today 8:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1999f97f-0c73-41bf-8f1f-efef6d84ba8d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:32:50 PM 19-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fgnoyqhtcn/out/v1/286b41f08ad847b09692fee5403a958f/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "77c5f9d2b9f87cce9eb574e0bc76d49d:fcf8fcff6aca7233f24da8058e17ac6a",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "d8X50rn4fM6etXTgvHbUnQ",
-              "k": "_Pj8_2rKcjPyTagFjhesag"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
-      "streamId": "amzn1.dv.gti.f2ec9085-fc20-4d04-b3fa-c1ead1322ba9",
-      "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-      "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-          "eventTitle": "Sri Lanka A vs Afghanistan A - 19 Nov 2026",
-          "eventId": "amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795100400000,
-          "startTimeIST": "Today 8:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36c8e9ce-2b74-41cc-84dc-914acf032d27/5/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:32:49 PM 19-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x0igehpu1l/out/v1/a22fcedcc6fd47e19b5ae642a935c1d0/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "a483403980e885c7c448950500139b07:181c08c0de1ef25e8f893a81909304c1",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "pINAOYDohcfESJUFABObBw",
-              "k": "GBwIwN4e8l6PiTqBkJMEwQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.ff8cb980-fc4b-4057-a62d-f8e19bad9adf",
-      "streamId": "amzn1.dv.gti.ff8cb980-fc4b-4057-a62d-f8e19bad9adf",
-      "title": "Kon Honaar Crorepati",
-      "eventTitle": "Kon Honaar Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f",
-          "originalLanguages": [
-            "Marathi"
-          ],
-          "primarySpokenLanguages": [
-            "Marathi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795100400000,
-          "startTimeIST": "Today 8:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8f50f52-9041-4b26-88ea-289d8e39b06f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:32:51 PM 19-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/5axaubjdwy/out/v1/2a68775ab913498092d9142380e04b9b/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "0bbe9a4d5fa94886c21b859c05a36201:e1031ac286ab1671984a2e065457761a",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "C76aTV-pSIbCG4WcBaNiAQ",
-              "k": "4QMawoarFnGYSi4GVFd2Gg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA Playback: NBA Playback",
-      "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
+      "title": "NBA TV International: Basketcast: Basketcast  S2 Eps. 35",
+      "eventTitle": "NBA TV International: Basketcast: Basketcast  S2 Eps. 35",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA Playback: NBA Playback",
-          "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
+          "title": "NBA TV International: Basketcast: Basketcast  S2 Eps. 35",
+          "eventTitle": "NBA TV International: Basketcast: Basketcast  S2 Eps. 35",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -270,13 +27,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/81xn9x3u1yL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795104000000,
-          "startTimeIST": "Today 9:30 PM IST"
+          "startTimeMillis": 1795111200000,
+          "startTimeIST": "Today 11:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -288,10 +45,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "Basketcast: Basketcast  S2 Eps. 35",
-            "startTimeIST": "Today 11:30 PM IST"
-          },
           {
             "title": "NBA Shot Clock: Games of the Night",
             "startTimeIST": "Tomorrow 12:30 AM IST"
@@ -316,10 +69,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81xn9x3u1yL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -359,14 +112,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Stay Tuned Slate",
-      "eventTitle": "FanCode 2: Stay Tuned Slate",
+      "title": "FanCode 2: Austria Wien vs. FC Bayern München",
+      "eventTitle": "FanCode 2: Austria Wien vs. FC Bayern München",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Stay Tuned Slate",
-          "eventTitle": "FanCode 2: Stay Tuned Slate",
+          "title": "FanCode 2: Austria Wien vs. FC Bayern München",
+          "eventTitle": "FanCode 2: Austria Wien vs. FC Bayern München",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -376,13 +129,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/81ibge9BCHL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/71XLWBiULWL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795104000000,
-          "startTimeIST": "Today 9:30 PM IST"
+          "startTimeMillis": 1795110300000,
+          "startTimeIST": "Today 11:15 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -395,29 +148,21 @@
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
           {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 10:00 PM IST"
-          },
-          {
-            "title": "South Africa tour of West Indies",
-            "startTimeIST": "Today 10:30 PM IST"
-          },
-          {
-            "title": "Austria Wien vs. FC Bayern München",
-            "startTimeIST": "Today 11:15 PM IST"
-          },
-          {
             "title": "Arsenal vs. OL Lyonnes",
             "startTimeIST": "Tomorrow 1:30 AM IST"
+          },
+          {
+            "title": "Las Vegas Grand Prix, Practice 1",
+            "startTimeIST": "Tomorrow 6:00 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71XLWBiULWL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81ibge9BCHL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -457,14 +202,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Best of Carabao Cup 2024-25",
-      "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
+      "title": "FanCode 1: Paris FC vs. HB Køge",
+      "eventTitle": "FanCode 1: Paris FC vs. HB Køge",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Best of Carabao Cup 2024-25",
-          "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
+          "title": "FanCode 1: Paris FC vs. HB Køge",
+          "eventTitle": "FanCode 1: Paris FC vs. HB Køge",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -474,13 +219,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/81RKEvRxWsL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/71e4YKAoaUL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795104000000,
-          "startTimeIST": "Today 9:30 PM IST"
+          "startTimeMillis": 1795110300000,
+          "startTimeIST": "Today 11:15 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -493,18 +238,6 @@
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
           {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 10:00 PM IST"
-          },
-          {
-            "title": "South Africa tour of West Indies",
-            "startTimeIST": "Today 10:30 PM IST"
-          },
-          {
-            "title": "Paris FC vs. HB Køge",
-            "startTimeIST": "Today 11:15 PM IST"
-          },
-          {
             "title": "FC Barcelona vs. Servette Chênois",
             "startTimeIST": "Tomorrow 1:30 AM IST"
           }
@@ -512,10 +245,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71e4YKAoaUL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81RKEvRxWsL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -554,110 +287,6 @@
     }
   ],
   "upcoming": [
-    {
-      "titleId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
-      "streamId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
-      "title": "Paris FC vs. HB Køge",
-      "eventTitle": "Paris FC vs. HB Køge",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Paris FC vs. HB Køge",
-          "eventTitle": "Paris FC vs. HB Køge",
-          "eventId": "amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795110300000,
-          "startTimeIST": "Today 11:15 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 11:15 PM IST",
-        "liveliness": "UPCOMING",
-        "venue": "Stade Sébastien-Charléty"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49066ae1-e665-4bab-a4e2-9689f07ca168/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "FanCode",
-        "message": "fancode",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862",
-      "streamId": "amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862",
-      "title": "Austria Wien vs. FC Bayern München",
-      "eventTitle": "Austria Wien vs. FC Bayern München",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Austria Wien vs. FC Bayern München",
-          "eventTitle": "Austria Wien vs. FC Bayern München",
-          "eventId": "amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795110300000,
-          "startTimeIST": "Today 11:15 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 11:15 PM IST",
-        "liveliness": "UPCOMING",
-        "venue": "Generali Arena"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e023c451-6924-4bd9-ac49-8de408e0f862/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "FanCode",
-        "message": "fancode",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93",
       "streamId": "amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93",
@@ -1168,58 +797,6 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
-      "streamId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
-      "title": "Raptors vs. Pistons",
-      "eventTitle": "Raptors vs. Pistons",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Raptors vs. Pistons",
-          "eventTitle": "Raptors vs. Pistons",
-          "eventId": "amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/6/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/8/BOXART-4X3/en-GB/216x121._UR1920,1080_.png",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/8/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795219200000,
-          "startTimeIST": "21 Nov 5:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "21 Nov 5:30 AM IST",
-        "liveliness": "UPCOMING",
-        "venue": "Little Caesars Arena"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/8/BOXART-4X3/en-GB/216x121._UR1920,1080_.png"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/6/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a269b933-def8-4caf-8bec-621235c33343/8/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "NBA League Pass",
-        "message": "nbaleaguepass",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-c3f71d56-d025-6e1f-7239-fb8b5641636a/logos/channels-main-nav-logo-white._CB792553673_.png"
       }
     },
     {
