@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "4:17:46 PM 20-11-2026",
+  "last_updated": "5:02:48 PM 20-11-2026",
   "total_matches": 28,
-  "live_matches": 4,
-  "upcoming_matches": 23,
+  "live_matches": 5,
+  "upcoming_matches": 22,
   "live": [
     {
       "titleId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
@@ -89,6 +89,91 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7",
+      "streamId": "amzn1.dv.gti.97d0d538-1705-4d3b-9414-6cf89fc8cff3",
+      "title": "EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN",
+      "eventTitle": "EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN",
+          "eventTitle": "EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN",
+          "eventId": "amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7",
+          "originalLanguages": [
+            "English",
+            "Hindi",
+            "Bengali"
+          ],
+          "primarySpokenLanguages": [
+            "English",
+            "Hindi",
+            "Bengali"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795174200000,
+          "startTimeIST": "Today 5:00 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "05:02:48 PM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/36ylt0qqh1/out/v1/730927e7d8c54776b7c5f3ffc8d39fea/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "fd18ac27bd1644224397a9ce95cb2b9e:01399d3b7f0bf632199e019cc8e8d427",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "_RisJ70WRCJDl6nOlcsrng",
+              "k": "ATmdO38L9jIZngGcyOjUJw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "title": "NBA TV International: WNBL Full Court",
@@ -113,8 +198,8 @@
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795170600000,
-          "startTimeIST": "Today 4:00 PM IST"
+          "startTimeMillis": 1795174200000,
+          "startTimeIST": "Today 5:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -126,14 +211,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "The Association: Post Up\n(",
-            "startTimeIST": "Today 4:30 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 5:00 PM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 5:30 PM IST"
@@ -173,6 +250,10 @@
           {
             "title": "Basketcast: Basketcast  S2 Eps. 36",
             "startTimeIST": "Today 11:30 PM IST"
+          },
+          {
+            "title": "NBA Shot Clock: Games of the Night",
+            "startTimeIST": "Tomorrow 12:30 AM IST"
           }
         ]
       },
@@ -221,14 +302,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Afghanistan tour of Ireland",
-      "eventTitle": "FanCode 2: Afghanistan tour of Ireland",
+      "title": "FanCode 2: Zimbabwe's tour of Ireland - One-off",
+      "eventTitle": "FanCode 2: Zimbabwe's tour of Ireland - One-off",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Afghanistan tour of Ireland",
-          "eventTitle": "FanCode 2: Afghanistan tour of Ireland",
+          "title": "FanCode 2: Zimbabwe's tour of Ireland - One-off",
+          "eventTitle": "FanCode 2: Zimbabwe's tour of Ireland - One-off",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -238,13 +319,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795170600000,
-          "startTimeIST": "Today 4:00 PM IST"
+          "startTimeMillis": 1795174200000,
+          "startTimeIST": "Today 5:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -256,14 +337,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 4:30 PM IST"
-          },
-          {
-            "title": "Zimbabwe's tour of Ireland - One-off",
-            "startTimeIST": "Today 5:00 PM IST"
-          },
           {
             "title": "England Women's tour of Ireland 2024",
             "startTimeIST": "Today 5:30 PM IST"
@@ -316,10 +389,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1faZ-y6DlL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -452,57 +525,6 @@
     }
   ],
   "upcoming": [
-    {
-      "titleId": "amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7",
-      "streamId": "amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7",
-      "title": "EBFC vs Sporting Club Delhi - 20 Nov 2026",
-      "eventTitle": "EBFC vs Sporting Club Delhi - 20 Nov 2026",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "EBFC vs Sporting Club Delhi - 20 Nov 2026",
-          "eventTitle": "EBFC vs Sporting Club Delhi - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795174200000,
-          "startTimeIST": "Today 5:00 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 5:00 PM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
       "streamId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
