@@ -2,10 +2,10 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "6:47:46 AM 20-11-2026",
+  "last_updated": "11:32:51 AM 20-11-2026",
   "total_matches": 28,
-  "live_matches": 8,
-  "upcoming_matches": 23,
+  "live_matches": 9,
+  "upcoming_matches": 22,
   "live": [
     {
       "titleId": "amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9",
@@ -27,9 +27,9 @@
           ]
         },
         "images": {
-          "coverImage": "",
-          "boxartImage": "",
-          "heroImage": ""
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795123500000,
@@ -45,14 +45,20 @@
         "liveliness": "LIVE"
       },
       "images": {
-        "boxArtImageFragments": {},
-        "coverImageFragments": {},
-        "heroImageFragments": {}
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:02:48 AM 20-11-2026",
@@ -132,8 +138,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:02:50 AM 20-11-2026",
@@ -213,8 +219,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:02:52 AM 20-11-2026",
@@ -294,8 +300,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:02:53 AM 20-11-2026",
@@ -375,8 +381,8 @@
       },
       "providerLogoInfo": {
         "name": "SonyLIV",
-        "message": "sonylivin",
-        "imageUrl": ""
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
         "keys_extracted_time": "03:02:55 AM 20-11-2026",
@@ -407,16 +413,97 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+      "streamId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
+      "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+      "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+          "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795154400000,
+          "startTimeIST": "Today 11:30 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:32:50 AM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "LKUiTPO1YEwhZnATP0ezTA",
+              "k": "nAz2wcM-28tjUIxLI3t-eQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA: New York Knicks at Minnesota Timberwolves",
-      "eventTitle": "NBA TV International: NBA: New York Knicks at Minnesota Timberwolves",
+      "title": "NBA TV International: WNBL Full Court",
+      "eventTitle": "NBA TV International: WNBL Full Court",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA: New York Knicks at Minnesota Timberwolves",
-          "eventTitle": "NBA TV International: NBA: New York Knicks at Minnesota Timberwolves",
+          "title": "NBA TV International: WNBL Full Court",
+          "eventTitle": "NBA TV International: WNBL Full Court",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -426,13 +513,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/81iNhONcgHL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/81IRfWA5I8L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795132800000,
-          "startTimeIST": "Today 5:30 AM IST"
+          "startTimeMillis": 1795154400000,
+          "startTimeIST": "Today 11:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -445,34 +532,6 @@
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
           {
-            "title": "The Association: Postgame(",
-            "startTimeIST": "Today 8:00 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 9:00 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 9:30 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 10:00 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 10:30 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 11:00 AM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 11:30 AM IST"
-          },
-          {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 12:00 PM IST"
           },
@@ -483,15 +542,55 @@
           {
             "title": "NBL Game: Perth Wildcats vs. Cairns Taipans",
             "startTimeIST": "Today 1:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 5:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 5:30 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 6:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 6:30 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 7:00 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 7:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81IRfWA5I8L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81iNhONcgHL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -531,14 +630,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Las Vegas Grand Prix, Practice 1",
-      "eventTitle": "FanCode 2: Las Vegas Grand Prix, Practice 1",
+      "title": "FanCode 2: Stay Tuned Slate",
+      "eventTitle": "FanCode 2: Stay Tuned Slate",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Las Vegas Grand Prix, Practice 1",
-          "eventTitle": "FanCode 2: Las Vegas Grand Prix, Practice 1",
+          "title": "FanCode 2: Stay Tuned Slate",
+          "eventTitle": "FanCode 2: Stay Tuned Slate",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -548,13 +647,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/71DkpjtJqAL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/71sv8oibPYL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795134600000,
-          "startTimeIST": "Today 6:00 AM IST"
+          "startTimeMillis": 1795154400000,
+          "startTimeIST": "Today 11:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -566,10 +665,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Las Vegas Grand Prix, Practice 2",
-            "startTimeIST": "Today 9:30 AM IST"
-          },
           {
             "title": "England Women's tour of Ireland 2024",
             "startTimeIST": "Today 12:00 PM IST"
@@ -593,15 +688,55 @@
           {
             "title": "Sri Lanka Women tour of Ireland - T20 Internationals",
             "startTimeIST": "Today 2:30 PM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 5:00 PM IST"
+          },
+          {
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 5:30 PM IST"
+          },
+          {
+            "title": "Sri Lanka Women tour of Ireland - T20 Internationals",
+            "startTimeIST": "Today 6:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 6:30 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 7:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 7:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71sv8oibPYL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71DkpjtJqAL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -641,14 +776,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: Stay Tuned Slate",
-      "eventTitle": "FanCode 1: Stay Tuned Slate",
+      "title": "FanCode 1: Best of Carabao Cup 2024-25",
+      "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: Stay Tuned Slate",
-          "eventTitle": "FanCode 1: Stay Tuned Slate",
+          "title": "FanCode 1: Best of Carabao Cup 2024-25",
+          "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -658,13 +793,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795125600000,
-          "startTimeIST": "Today 3:30 AM IST"
+          "startTimeMillis": 1795154400000,
+          "startTimeIST": "Today 11:30 AM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -676,30 +811,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25 - 2nd Test",
-            "startTimeIST": "Today 9:00 AM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 9:30 AM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 10:00 AM IST"
-          },
-          {
-            "title": "England Women's tour of Ireland 2024",
-            "startTimeIST": "Today 10:30 AM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 11:00 AM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 11:30 AM IST"
-          },
           {
             "title": "England Women's tour of Ireland 2024",
             "startTimeIST": "Today 12:00 PM IST"
@@ -723,15 +834,55 @@
           {
             "title": "Sri Lanka Women tour of Ireland - T20 Internationals",
             "startTimeIST": "Today 2:30 PM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 3:00 PM IST"
+          },
+          {
+            "title": "Afghanistan vs Ireland",
+            "startTimeIST": "Today 3:30 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 4:30 PM IST"
+          },
+          {
+            "title": "Zimbabwe's tour of Ireland - One-off",
+            "startTimeIST": "Today 5:00 PM IST"
+          },
+          {
+            "title": "England Women's tour of Ireland 2024",
+            "startTimeIST": "Today 5:30 PM IST"
+          },
+          {
+            "title": "Sri Lanka Women tour of Ireland - T20 Internationals",
+            "startTimeIST": "Today 6:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 6:30 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 7:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Ireland",
+            "startTimeIST": "Today 7:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/912pqaRDzrL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -770,160 +921,6 @@
     }
   ],
   "upcoming": [
-    {
-      "titleId": "amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93",
-      "streamId": "amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93",
-      "title": "Arsenal vs. OL Lyonnes",
-      "eventTitle": "Arsenal vs. OL Lyonnes",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Arsenal vs. OL Lyonnes",
-          "eventTitle": "Arsenal vs. OL Lyonnes",
-          "eventId": "amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795118400000,
-          "startTimeIST": "Today 1:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 1:30 AM IST",
-        "liveliness": "UPCOMING",
-        "venue": "Mangata Developments Stadium Meadow Park"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b13d65a4-67ca-4c40-bd3f-380d3117bc93/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "FanCode",
-        "message": "fancode",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6",
-      "streamId": "amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6",
-      "title": "Las Vegas Grand Prix, Practice 2",
-      "eventTitle": "Las Vegas Grand Prix, Practice 2",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Las Vegas Grand Prix, Practice 2",
-          "eventTitle": "Las Vegas Grand Prix, Practice 2",
-          "eventId": "amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795147200000,
-          "startTimeIST": "Today 9:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 9:30 AM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.128707ec-7d40-4fc3-a696-3418892bead6/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "FanCode",
-        "message": "fancode",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
-      "streamId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
-      "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-      "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-      "alternateBroadcasts": [],
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
-          "originalLanguages": [],
-          "primarySpokenLanguages": []
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795154400000,
-          "startTimeIST": "Today 11:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "UPCOMING",
-        "timeBadge": "Today 11:30 AM IST",
-        "liveliness": "UPCOMING"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
       "streamId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
@@ -1641,6 +1638,57 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d",
+      "streamId": "amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d",
+      "title": "Brisbane Heat vs. Adelaide Strikers",
+      "eventTitle": "Brisbane Heat vs. Adelaide Strikers",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Brisbane Heat vs. Adelaide Strikers",
+          "eventTitle": "Brisbane Heat vs. Adelaide Strikers",
+          "eventId": "amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795322400000,
+          "startTimeIST": "22 Nov 10:10 AM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "22 Nov 10:10 AM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc8c84ae-f88a-4640-aedd-fc62f2315c7d/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.cdc80875-b0df-4532-81c2-d5e9519440b1",
       "streamId": "amzn1.dv.gti.cdc80875-b0df-4532-81c2-d5e9519440b1",
       "title": "UAE vs Nepal - 22 Nov 2026",
@@ -1689,6 +1737,57 @@
         "name": "SonyLIV",
         "message": "sonyliv",
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      }
+    },
+    {
+      "titleId": "amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5",
+      "streamId": "amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5",
+      "title": "Repsol Grand Prix of Portugal",
+      "eventTitle": "Repsol Grand Prix of Portugal",
+      "alternateBroadcasts": [],
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Repsol Grand Prix of Portugal",
+          "eventTitle": "Repsol Grand Prix of Portugal",
+          "eventId": "amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5",
+          "originalLanguages": [],
+          "primarySpokenLanguages": []
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795338000000,
+          "startTimeIST": "22 Nov 2:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "UPCOMING",
+        "timeBadge": "22 Nov 2:30 PM IST",
+        "liveliness": "UPCOMING"
+      },
+      "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+        },
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "FanCode",
+        "message": "fancode",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/fancodein/logos/channels-logo-white._CB779066699_.png"
       }
     },
     {
