@@ -2,92 +2,11 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "6:17:46 PM 20-11-2026",
-  "total_matches": 30,
+  "last_updated": "7:02:47 PM 20-11-2026",
+  "total_matches": 29,
   "live_matches": 5,
   "upcoming_matches": 24,
   "live": [
-    {
-      "titleId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
-      "streamId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
-      "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-      "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795154400000,
-          "startTimeIST": "Today 11:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:32:50 AM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "LKUiTPO1YEwhZnATP0ezTA",
-              "k": "nAz2wcM-28tjUIxLI3t-eQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
     {
       "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
       "streamId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
@@ -178,16 +97,97 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
+      "streamId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
+      "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+      "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+          "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+          "originalLanguages": [
+            "English"
+          ],
+          "primarySpokenLanguages": [
+            "English"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795168800000,
+          "startTimeIST": "Today 3:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "11:32:50 AM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "LKUiTPO1YEwhZnATP0ezTA",
+              "k": "nAz2wcM-28tjUIxLI3t-eQ"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: The Association: Post Up\n(",
-      "eventTitle": "NBA TV International: The Association: Post Up\n(",
+      "title": "NBA TV International: WNBL Full Court",
+      "eventTitle": "NBA TV International: WNBL Full Court",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: The Association: Post Up\n(",
-          "eventTitle": "NBA TV International: The Association: Post Up\n(",
+          "title": "NBA TV International: WNBL Full Court",
+          "eventTitle": "NBA TV International: WNBL Full Court",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -197,13 +197,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795177800000,
-          "startTimeIST": "Today 6:00 PM IST"
+          "startTimeMillis": 1795181400000,
+          "startTimeIST": "Today 7:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -215,14 +215,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 6:30 PM IST"
-          },
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 7:00 PM IST"
-          },
           {
             "title": "The Association: Post Up\n(",
             "startTimeIST": "Today 7:30 PM IST"
@@ -254,15 +246,23 @@
           {
             "title": "The Steam Room Eps. 5 & 6",
             "startTimeIST": "Tomorrow 1:30 AM IST"
+          },
+          {
+            "title": "36",
+            "startTimeIST": "Tomorrow 2:30 AM IST"
+          },
+          {
+            "title": "Coaches corner: Coaches Corner",
+            "startTimeIST": "Tomorrow 3:00 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -302,14 +302,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Sri Lanka Women tour of Ireland - T20 Internationals",
-      "eventTitle": "FanCode 2: Sri Lanka Women tour of Ireland - T20 Internationals",
+      "title": "FanCode 2: Afghanistan tour of Ireland",
+      "eventTitle": "FanCode 2: Afghanistan tour of Ireland",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Sri Lanka Women tour of Ireland - T20 Internationals",
-          "eventTitle": "FanCode 2: Sri Lanka Women tour of Ireland - T20 Internationals",
+          "title": "FanCode 2: Afghanistan tour of Ireland",
+          "eventTitle": "FanCode 2: Afghanistan tour of Ireland",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -319,13 +319,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/910ZyHIFJcL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/91lUMTV17rL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795177800000,
-          "startTimeIST": "Today 6:00 PM IST"
+          "startTimeMillis": 1795181400000,
+          "startTimeIST": "Today 7:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -337,14 +337,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 6:30 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 7:00 PM IST"
-          },
           {
             "title": "Afghanistan tour of Ireland",
             "startTimeIST": "Today 7:30 PM IST"
@@ -381,10 +373,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/91lUMTV17rL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/910ZyHIFJcL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -743,9 +735,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795209900000,
@@ -762,13 +754,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/BOXART-4X3/en-US._UR1920,1080_.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/7/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9/9/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -795,8 +787,8 @@
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/BOXART-16X9/en-GB/288x91._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/BOXART-4X3/en-GB/216x121._UR1920,1080_.png",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/6/BOXART-4X3/en-GB/216x121._UR1920,1080_.png",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795221000000,
@@ -814,13 +806,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/BOXART-4X3/en-GB/216x121._UR1920,1080_.png"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/6/BOXART-4X3/en-GB/216x121._UR1920,1080_.png"
         },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/BOXART-16X9/en-GB/288x91._UR1920,1080_.png"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/5/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/6/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
         }
       },
       "providerLogoInfo": {
@@ -1000,7 +992,7 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
           "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
           "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
@@ -1022,7 +1014,7 @@
           "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
           "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b34ec9c1-af76-4267-b34c-acb76f880aaa/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
@@ -1255,9 +1247,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795296300000,
@@ -1274,13 +1266,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/BOXART-4X3/en-US._UR1920,1080_.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e2aa402-f5e5-4756-9598-6b83503a5c89/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
