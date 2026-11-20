@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "12:17:47 PM 20-11-2026",
+  "last_updated": "1:32:47 PM 20-11-2026",
   "total_matches": 26,
-  "live_matches": 5,
+  "live_matches": 4,
   "upcoming_matches": 22,
   "live": [
     {
@@ -89,97 +89,16 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.07bf59b8-d032-4dee-8f29-38b154a85e68",
-      "streamId": "amzn1.dv.gti.07bf59b8-d032-4dee-8f29-38b154a85e68",
-      "title": "1st Test - Day 2 - 20 Nov 2026",
-      "eventTitle": "1st Test - Day 2 - 20 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "1st Test - Day 2 - 20 Nov 2026",
-          "eventTitle": "1st Test - Day 2 - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9",
-          "originalLanguages": [
-            "English"
-          ],
-          "primarySpokenLanguages": [
-            "English"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795154400000,
-          "startTimeIST": "Today 11:30 AM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97e986b8-71dd-46ed-97c4-1a99a71d32c9/6/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:02:48 AM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "68ZAywPb34Z3GQ9-Sy6WsA",
-              "k": "erLAIE1B0e7-ygzARiLEzA"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: WNBL Full Court",
-      "eventTitle": "NBA TV International: WNBL Full Court",
+      "title": "NBA TV International: NBL Game: Perth Wildcats vs. Cairns Taipans",
+      "eventTitle": "NBA TV International: NBL Game: Perth Wildcats vs. Cairns Taipans",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: WNBL Full Court",
-          "eventTitle": "NBA TV International: WNBL Full Court",
+          "title": "NBA TV International: NBL Game: Perth Wildcats vs. Cairns Taipans",
+          "eventTitle": "NBA TV International: NBL Game: Perth Wildcats vs. Cairns Taipans",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -189,13 +108,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71pji0Pi2uL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/81CmTfX85yL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795156200000,
-          "startTimeIST": "Today 12:00 PM IST"
+          "startTimeMillis": 1795159800000,
+          "startTimeIST": "Today 1:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -207,14 +126,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 12:30 PM IST"
-          },
-          {
-            "title": "NBL Game: Perth Wildcats vs. Cairns Taipans",
-            "startTimeIST": "Today 1:00 PM IST"
-          },
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 3:00 PM IST"
@@ -258,15 +169,27 @@
           {
             "title": "WNBL Full Court",
             "startTimeIST": "Today 8:00 PM IST"
+          },
+          {
+            "title": "WNBL Full Court",
+            "startTimeIST": "Today 8:30 PM IST"
+          },
+          {
+            "title": "The Association: Post Up\n(",
+            "startTimeIST": "Today 9:00 PM IST"
+          },
+          {
+            "title": "NBA Playback: NBA Playback",
+            "startTimeIST": "Today 9:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81CmTfX85yL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71pji0Pi2uL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -306,14 +229,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: England Women's tour of Ireland 2024",
-      "eventTitle": "FanCode 2: England Women's tour of Ireland 2024",
+      "title": "FanCode 2: Best of Carabao Cup 2024-25",
+      "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: England Women's tour of Ireland 2024",
-          "eventTitle": "FanCode 2: England Women's tour of Ireland 2024",
+          "title": "FanCode 2: Best of Carabao Cup 2024-25",
+          "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -323,13 +246,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795156200000,
-          "startTimeIST": "Today 12:00 PM IST"
+          "startTimeMillis": 1795161600000,
+          "startTimeIST": "Today 1:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -341,18 +264,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "England Women's tour of Ireland 2024",
-            "startTimeIST": "Today 12:30 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 1:00 PM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 1:30 PM IST"
-          },
           {
             "title": "Afghanistan tour of Zimbabwe 2024-25",
             "startTimeIST": "Today 2:00 PM IST"
@@ -404,15 +315,23 @@
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 8:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Zimbabwe 2024-25",
+            "startTimeIST": "Today 8:30 PM IST"
+          },
+          {
+            "title": "Best of Carabao Cup 2024-25",
+            "startTimeIST": "Today 9:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -452,14 +371,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: England Women's tour of Ireland 2024",
-      "eventTitle": "FanCode 1: England Women's tour of Ireland 2024",
+      "title": "FanCode 1: Best of Carabao Cup 2024-25",
+      "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: England Women's tour of Ireland 2024",
-          "eventTitle": "FanCode 1: England Women's tour of Ireland 2024",
+          "title": "FanCode 1: Best of Carabao Cup 2024-25",
+          "eventTitle": "FanCode 1: Best of Carabao Cup 2024-25",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -469,13 +388,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795156200000,
-          "startTimeIST": "Today 12:00 PM IST"
+          "startTimeMillis": 1795161600000,
+          "startTimeIST": "Today 1:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -487,18 +406,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
-          {
-            "title": "England Women's tour of Ireland 2024",
-            "startTimeIST": "Today 12:30 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 1:00 PM IST"
-          },
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 1:30 PM IST"
-          },
           {
             "title": "Afghanistan tour of Zimbabwe 2024-25",
             "startTimeIST": "Today 2:00 PM IST"
@@ -550,15 +457,23 @@
           {
             "title": "Best of Carabao Cup 2024-25",
             "startTimeIST": "Today 8:00 PM IST"
+          },
+          {
+            "title": "Afghanistan tour of Zimbabwe 2024-25",
+            "startTimeIST": "Today 8:30 PM IST"
+          },
+          {
+            "title": "Best of Carabao Cup 2024-25",
+            "startTimeIST": "Today 9:30 PM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
         },
         "heroImageFragments": {}
       },
