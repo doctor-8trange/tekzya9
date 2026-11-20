@@ -2,40 +2,38 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "9:32:49 PM 20-11-2026",
-  "total_matches": 28,
+  "last_updated": "10:02:47 PM 20-11-2026",
+  "total_matches": 27,
   "live_matches": 7,
   "upcoming_matches": 21,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
-      "streamId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
-      "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-      "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
+      "titleId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
+      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
+      "title": "Kon Honaar Crorepati MAR",
+      "eventTitle": "Kon Honaar Crorepati",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-          "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
+          "title": "Kon Honaar Crorepati MAR",
+          "eventTitle": "Kon Honaar Crorepati",
+          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
           "originalLanguages": [
-            "English",
-            "Hindi"
+            "Marathi"
           ],
           "primarySpokenLanguages": [
-            "English",
-            "Hindi"
+            "Marathi"
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795183200000,
-          "startTimeIST": "Today 7:30 PM IST"
+          "startTimeMillis": 1795186800000,
+          "startTimeIST": "Today 8:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -48,13 +46,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -63,23 +61,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "07:32:50 PM 20-11-2026",
+        "keys_extracted_time": "08:32:50 PM 20-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kmwcvkcflz/out/v1/0884f153f8cc4e9bbc07b40ee2f3a120/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "1dddd8bf547d89608b92340a8d567a35:06dcb1f72640a4de1f3b63f750977247",
+          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "Hd3Yv1R9iWCLkjQKjVZ6NQ",
-              "k": "Btyx9yZApN4fO2P3UJdyRw"
+              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
+              "k": "KtezuJuEkSeQ07R9zQUiUg"
             },
             {
               "kty": "oct",
@@ -123,8 +121,8 @@
           "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795183200000,
-          "startTimeIST": "Today 7:30 PM IST"
+          "startTimeMillis": 1795186800000,
+          "startTimeIST": "Today 8:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -180,6 +178,89 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
+      "streamId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
+      "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
+      "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
+          "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
+          "originalLanguages": [
+            "English",
+            "Hindi"
+          ],
+          "primarySpokenLanguages": [
+            "English",
+            "Hindi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795186800000,
+          "startTimeIST": "Today 8:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "07:32:50 PM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kmwcvkcflz/out/v1/0884f153f8cc4e9bbc07b40ee2f3a120/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "1dddd8bf547d89608b92340a8d567a35:06dcb1f72640a4de1f3b63f750977247",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "Hd3Yv1R9iWCLkjQKjVZ6NQ",
+              "k": "Btyx9yZApN4fO2P3UJdyRw"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "streamId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "title": "Kaun Banega Crorepati HIN",
@@ -204,8 +285,8 @@
           "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795183200000,
-          "startTimeIST": "Today 7:30 PM IST"
+          "startTimeMillis": 1795186800000,
+          "startTimeIST": "Today 8:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -250,87 +331,6 @@
               "kty": "oct",
               "kid": "up-fzPuvQNamKIWuagDi5g",
               "k": "8x42sOTRAu8uQTn4NloXLg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
-      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
-      "title": "Kon Honaar Crorepati MAR",
-      "eventTitle": "Kon Honaar Crorepati",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati MAR",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
-          "originalLanguages": [
-            "Marathi"
-          ],
-          "primarySpokenLanguages": [
-            "Marathi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795183200000,
-          "startTimeIST": "Today 7:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:32:50 PM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
-              "k": "KtezuJuEkSeQ07R9zQUiUg"
             },
             {
               "kty": "oct",
@@ -410,6 +410,10 @@
           {
             "title": "36",
             "startTimeIST": "Tomorrow 5:30 AM IST"
+          },
+          {
+            "title": "The Association",
+            "startTimeIST": "Tomorrow 6:00 AM IST"
           }
         ]
       },
@@ -458,14 +462,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Best of Carabao Cup 2024-25",
-      "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
+      "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+      "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Best of Carabao Cup 2024-25",
-          "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
+          "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+          "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -475,13 +479,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795190400000,
-          "startTimeIST": "Today 9:30 PM IST"
+          "startTimeMillis": 1795192200000,
+          "startTimeIST": "Today 10:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -494,10 +498,6 @@
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
           {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 10:00 PM IST"
-          },
-          {
             "title": "South Africa tour of West Indies",
             "startTimeIST": "Today 10:30 PM IST"
           },
@@ -508,15 +508,19 @@
           {
             "title": "Afghanistan tour of Zimbabwe 2024-25",
             "startTimeIST": "Today 11:30 PM IST"
+          },
+          {
+            "title": "Las Vegas Grand Prix, Practice 3",
+            "startTimeIST": "Tomorrow 6:00 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
         },
         "heroImageFragments": {}
       },
