@@ -2,102 +2,13 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "9:17:47 PM 20-11-2026",
-  "total_matches": 29,
+  "last_updated": "9:32:49 PM 20-11-2026",
+  "total_matches": 28,
   "live_matches": 7,
   "upcoming_matches": 21,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
-      "streamId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
-      "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-      "eventTitle": "India A vs Nepal - 20 Nov 2026",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-          "eventTitle": "India A vs Nepal - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
-          "originalLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:32:56 PM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "W3j2OfG9F_6YWb-Sreip0A",
-              "k": "AGlMcg8q_bAWAwK9sf8gng"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
+      "titleId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
       "streamId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
       "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
       "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
@@ -119,12 +30,12 @@
         },
         "images": {
           "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795183200000,
+          "startTimeIST": "Today 7:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -136,14 +47,14 @@
         "liveliness": "LIVE"
       },
       "images": {
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg"
+        },
         "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -180,6 +91,95 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
+      "streamId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
+      "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
+      "eventTitle": "India A vs Nepal - 20 Nov 2026",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
+          "eventTitle": "India A vs Nepal - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
+          "originalLanguages": [
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
+          ],
+          "primarySpokenLanguages": [
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Kannada"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795183200000,
+          "startTimeIST": "Today 7:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "03:32:56 PM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "W3j2OfG9F_6YWb-Sreip0A",
+              "k": "AGlMcg8q_bAWAwK9sf8gng"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "streamId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "title": "Kaun Banega Crorepati HIN",
@@ -204,8 +204,8 @@
           "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795183200000,
+          "startTimeIST": "Today 7:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -285,8 +285,8 @@
           "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795183200000,
+          "startTimeIST": "Today 7:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -344,14 +344,14 @@
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: The Association: Post Up\n(",
-      "eventTitle": "NBA TV International: The Association: Post Up\n(",
+      "title": "NBA TV International: NBA Playback: NBA Playback",
+      "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: The Association: Post Up\n(",
-          "eventTitle": "NBA TV International: The Association: Post Up\n(",
+          "title": "NBA TV International: NBA Playback: NBA Playback",
+          "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -361,13 +361,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795188600000,
-          "startTimeIST": "Today 9:00 PM IST"
+          "startTimeMillis": 1795190400000,
+          "startTimeIST": "Today 9:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -379,10 +379,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "NBA Playback: NBA Playback",
-            "startTimeIST": "Today 9:30 PM IST"
-          },
           {
             "title": "Basketcast: Basketcast  S2 Eps. 36",
             "startTimeIST": "Today 11:30 PM IST"
@@ -410,15 +406,19 @@
           {
             "title": "Basketcast: Basketcast  S2 Eps. 36",
             "startTimeIST": "Tomorrow 4:30 AM IST"
+          },
+          {
+            "title": "36",
+            "startTimeIST": "Tomorrow 5:30 AM IST"
           }
         ]
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg"
         },
         "heroImageFragments": {}
       },
@@ -458,14 +458,14 @@
     {
       "titleId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
       "streamId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
-      "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+      "title": "FanCode 2: Best of Carabao Cup 2024-25",
+      "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
-          "eventTitle": "FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+          "title": "FanCode 2: Best of Carabao Cup 2024-25",
+          "eventTitle": "FanCode 2: Best of Carabao Cup 2024-25",
           "eventId": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
           "originalLanguages": [
             "English"
@@ -475,13 +475,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795186800000,
-          "startTimeIST": "Today 8:30 PM IST"
+          "startTimeMillis": 1795190400000,
+          "startTimeIST": "Today 9:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -493,10 +493,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Best of Carabao Cup 2024-25",
-            "startTimeIST": "Today 9:30 PM IST"
-          },
           {
             "title": "Afghanistan tour of Zimbabwe 2024-25",
             "startTimeIST": "Today 10:00 PM IST"
@@ -517,10 +513,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1j-AL2lC4L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg"
         },
         "heroImageFragments": {}
       },
