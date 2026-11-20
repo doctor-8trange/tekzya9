@@ -2,34 +2,34 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "10:02:47 PM 20-11-2026",
-  "total_matches": 27,
+  "last_updated": "11:32:47 PM 20-11-2026",
+  "total_matches": 25,
   "live_matches": 7,
   "upcoming_matches": 21,
   "live": [
     {
-      "titleId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
-      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
-      "title": "Kon Honaar Crorepati MAR",
-      "eventTitle": "Kon Honaar Crorepati",
+      "titleId": "amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d",
+      "streamId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
+      "title": "Kaun Banega Crorepati HIN",
+      "eventTitle": "Kaun Banega Crorepati",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati MAR",
-          "eventTitle": "Kon Honaar Crorepati",
-          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
+          "title": "Kaun Banega Crorepati HIN",
+          "eventTitle": "Kaun Banega Crorepati",
+          "eventId": "amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d",
           "originalLanguages": [
-            "Marathi"
+            "Hindi"
           ],
           "primarySpokenLanguages": [
-            "Marathi"
+            "Hindi"
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795186800000,
@@ -46,13 +46,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -61,23 +61,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "08:32:50 PM 20-11-2026",
+        "keys_extracted_time": "08:32:52 PM 20-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rd0pbpeax1/out/v1/31715ad8283a4a24baccac1c32606a94/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
+          "ba9f9fccfbaf40d6a62885ae6a00e2e6:f31e36b0e4d102ef2e4139f8365a172e",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
-              "k": "KtezuJuEkSeQ07R9zQUiUg"
+              "kid": "up-fzPuvQNamKIWuagDi5g",
+              "k": "8x42sOTRAu8uQTn4NloXLg"
             },
             {
               "kty": "oct",
@@ -261,28 +261,28 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
-      "streamId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
-      "title": "Kaun Banega Crorepati HIN",
-      "eventTitle": "Kaun Banega Crorepati",
+      "titleId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
+      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
+      "title": "Kon Honaar Crorepati MAR",
+      "eventTitle": "Kon Honaar Crorepati",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kaun Banega Crorepati HIN",
-          "eventTitle": "Kaun Banega Crorepati",
-          "eventId": "amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d",
+          "title": "Kon Honaar Crorepati MAR",
+          "eventTitle": "Kon Honaar Crorepati",
+          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
           "originalLanguages": [
-            "Hindi"
+            "Marathi"
           ],
           "primarySpokenLanguages": [
-            "Hindi"
+            "Marathi"
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795186800000,
@@ -299,13 +299,13 @@
       },
       "images": {
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -314,23 +314,23 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
       },
       "playback_details": {
-        "keys_extracted_time": "08:32:52 PM 20-11-2026",
+        "keys_extracted_time": "08:32:50 PM 20-11-2026",
         "playback_url": [
           {
             "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rd0pbpeax1/out/v1/31715ad8283a4a24baccac1c32606a94/cenc.mpd"
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
           }
         ],
         "clearkey_pairs": [
-          "ba9f9fccfbaf40d6a62885ae6a00e2e6:f31e36b0e4d102ef2e4139f8365a172e",
+          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
           "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
         ],
         "jwk_keys": {
           "keys": [
             {
               "kty": "oct",
-              "kid": "up-fzPuvQNamKIWuagDi5g",
-              "k": "8x42sOTRAu8uQTn4NloXLg"
+              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
+              "k": "KtezuJuEkSeQ07R9zQUiUg"
             },
             {
               "kty": "oct",
@@ -344,14 +344,14 @@
     {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: NBA Playback: NBA Playback",
-      "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
+      "title": "NBA TV International: Basketcast: Basketcast  S2 Eps. 36",
+      "eventTitle": "NBA TV International: Basketcast: Basketcast  S2 Eps. 36",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: NBA Playback: NBA Playback",
-          "eventTitle": "NBA TV International: NBA Playback: NBA Playback",
+          "title": "NBA TV International: Basketcast: Basketcast  S2 Eps. 36",
+          "eventTitle": "NBA TV International: Basketcast: Basketcast  S2 Eps. 36",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -361,13 +361,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/81xn9x3u1yL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795190400000,
-          "startTimeIST": "Today 9:30 PM IST"
+          "startTimeMillis": 1795197600000,
+          "startTimeIST": "Today 11:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -379,10 +379,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "Basketcast: Basketcast  S2 Eps. 36",
-            "startTimeIST": "Today 11:30 PM IST"
-          },
           {
             "title": "NBA Shot Clock: Games of the Night",
             "startTimeIST": "Tomorrow 12:30 AM IST"
@@ -419,10 +415,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51mzXUggBVL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/81xn9x3u1yL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51DEnyvwT6L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -479,13 +475,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795192200000,
-          "startTimeIST": "Today 10:00 PM IST"
+          "startTimeMillis": 1795197600000,
+          "startTimeIST": "Today 11:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -498,18 +494,6 @@
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
           {
-            "title": "South Africa tour of West Indies",
-            "startTimeIST": "Today 10:30 PM IST"
-          },
-          {
-            "title": "South Africa tour of West Indies - 1st Test",
-            "startTimeIST": "Today 11:00 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 11:30 PM IST"
-          },
-          {
             "title": "Las Vegas Grand Prix, Practice 3",
             "startTimeIST": "Tomorrow 6:00 AM IST"
           }
@@ -517,10 +501,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -560,14 +544,14 @@
     {
       "titleId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "streamId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "title": "FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1",
-      "eventTitle": "FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1",
+      "title": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
+      "eventTitle": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1",
-          "eventTitle": "FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1",
+          "title": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
+          "eventTitle": "FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
           "eventId": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
           "originalLanguages": [
             "English"
@@ -577,13 +561,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/S/combee-overridden-images/5/2/2/522ec5b84a3b603d58f719782fb934d0.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/2x3Rover/fancode1p.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795165200000,
-          "startTimeIST": "Today 2:30 PM IST"
+          "startTimeMillis": 1795197600000,
+          "startTimeIST": "Today 11:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -596,18 +580,6 @@
         "venue": "24/7 Linear Channel (FanCode 1)",
         "upcomingSchedule": [
           {
-            "title": "South Africa tour of West Indies",
-            "startTimeIST": "Today 10:30 PM IST"
-          },
-          {
-            "title": "South Africa tour of West Indies - 1st Test",
-            "startTimeIST": "Today 11:00 PM IST"
-          },
-          {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "startTimeIST": "Today 11:30 PM IST"
-          },
-          {
             "title": "Athletic Club vs. RCD Espanyol",
             "startTimeIST": "Tomorrow 1:30 AM IST"
           }
@@ -615,10 +587,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/2x3Rover/fancode1p.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/combee-overridden-images/5/2/2/522ec5b84a3b603d58f719782fb934d0.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -777,9 +749,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/BOXART-16X9/en-GB/288x91._UR1920,1080_.png",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/BOXART-4X3/en-GB/216x121._UR1920,1080_.png",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/BOXART-16X9/en-GB/288x91._UR1920,1080_.png",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/BOXART-4X3/en-GB/216x121._UR1920,1080_.png",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795221000000,
@@ -797,13 +769,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/BOXART-4X3/en-GB/216x121._UR1920,1080_.png"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/BOXART-4X3/en-GB/216x121._UR1920,1080_.png"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/BOXART-16X9/en-GB/288x91._UR1920,1080_.png"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/BOXART-16X9/en-GB/288x91._UR1920,1080_.png"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/8/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f97d7d29-4732-43e4-9656-a01dfd040e80/9/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-GB/288x91._UR1920,1080_.png"
         }
       },
       "providerLogoInfo": {
@@ -1442,9 +1414,9 @@
           "primarySpokenLanguages": []
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-16X9/en-IN._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg",
+          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795338000000,
@@ -1461,13 +1433,13 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/BOXART-4X3/en-IN._UR1920,1080_.jpeg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/BOXART-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/BOXART-16X9/en-IN/288x91._UR1920,1080_.jpg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f85199d9-0f43-4523-b20d-5755d012caf5/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-IN._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
