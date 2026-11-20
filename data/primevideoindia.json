@@ -2,9 +2,9 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "3:32:56 PM 20-11-2026",
-  "total_matches": 29,
-  "live_matches": 5,
+  "last_updated": "4:17:46 PM 20-11-2026",
+  "total_matches": 28,
+  "live_matches": 4,
   "upcoming_matches": 23,
   "live": [
     {
@@ -89,105 +89,16 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
-      "streamId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
-      "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-      "eventTitle": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-          "eventTitle": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-          "eventId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
-          "originalLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi",
-            "Tamil",
-            "Telugu",
-            "Kannada"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7/3/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "03:32:56 PM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "5b78f639f1bd17fe9859bf92ade8a9d0:00694c720f2afdb0160302bdb1ff209e",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "W3j2OfG9F_6YWb-Sreip0A",
-              "k": "AGlMcg8q_bAWAwK9sf8gng"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: The Association: Post Up",
-      "eventTitle": "NBA TV International: The Association: Post Up",
+      "title": "NBA TV International: WNBL Full Court",
+      "eventTitle": "NBA TV International: WNBL Full Court",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: The Association: Post Up",
-          "eventTitle": "NBA TV International: The Association: Post Up",
+          "title": "NBA TV International: WNBL Full Court",
+          "eventTitle": "NBA TV International: WNBL Full Court",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -197,13 +108,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795170600000,
+          "startTimeIST": "Today 4:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -215,10 +126,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "WNBL Full Court",
-            "startTimeIST": "Today 4:00 PM IST"
-          },
           {
             "title": "The Association: Post Up\n(",
             "startTimeIST": "Today 4:30 PM IST"
@@ -271,10 +178,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
         },
         "heroImageFragments": {}
       },
@@ -331,13 +238,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795168800000,
-          "startTimeIST": "Today 3:30 PM IST"
+          "startTimeMillis": 1795170600000,
+          "startTimeIST": "Today 4:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -349,10 +256,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (FanCode 2)",
         "upcomingSchedule": [
-          {
-            "title": "Afghanistan tour of Ireland",
-            "startTimeIST": "Today 4:00 PM IST"
-          },
           {
             "title": "Afghanistan tour of Ireland",
             "startTimeIST": "Today 4:30 PM IST"
@@ -413,10 +316,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/A1z8BpG5lCL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1RBfdhewfL.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg"
         },
         "heroImageFragments": {}
       },
