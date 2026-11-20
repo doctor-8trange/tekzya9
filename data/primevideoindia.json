@@ -2,22 +2,22 @@
   "Author": "Doctor Strange",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Prime Video Live Matches API",
-  "last_updated": "8:32:52 PM 20-11-2026",
+  "last_updated": "9:17:47 PM 20-11-2026",
   "total_matches": 29,
-  "live_matches": 8,
+  "live_matches": 7,
   "upcoming_matches": 21,
   "live": [
     {
       "titleId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
       "streamId": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
       "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-      "eventTitle": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
+      "eventTitle": "India A vs Nepal - 20 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
           "title": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
-          "eventTitle": "India A vs Nepal - 20 Nov 2026 ENG HIN TAM TEL KAN",
+          "eventTitle": "India A vs Nepal - 20 Nov 2026",
           "eventId": "amzn1.dv.gti.42dd008a-e139-4279-a97b-1cd960940da7",
           "originalLanguages": [
             "English",
@@ -97,28 +97,30 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
-      "streamId": "amzn1.dv.gti.566567e4-7f18-4957-938c-f6be419d2f48",
-      "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-      "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
+      "titleId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
+      "streamId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
+      "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
+      "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
-          "title": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventTitle": "Pakistan Shaheens vs UAE - 20 Nov 2026",
-          "eventId": "amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477",
+          "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
+          "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
+          "eventId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
           "originalLanguages": [
-            "English"
+            "English",
+            "Hindi"
           ],
           "primarySpokenLanguages": [
-            "English"
+            "English",
+            "Hindi"
           ]
         },
         "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
           "startTimeMillis": 1795168800000,
@@ -135,96 +137,13 @@
       },
       "images": {
         "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26c08b6f-5d32-434d-9445-c3736c014477/4/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "11:32:50 AM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "LKUiTPO1YEwhZnATP0ezTA",
-              "k": "nAz2wcM-28tjUIxLI3t-eQ"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "titleId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
-      "streamId": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
-      "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-      "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-          "eventTitle": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 ENG HIN",
-          "eventId": "amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb",
-          "originalLanguages": [
-            "English",
-            "Hindi"
-          ],
-          "primarySpokenLanguages": [
-            "English",
-            "Hindi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795183200000,
-          "startTimeIST": "Today 7:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
           "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6852a3d-3595-4ae1-897e-2386e34012bb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         }
       },
       "providerLogoInfo": {
@@ -261,98 +180,17 @@
       }
     },
     {
-      "titleId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
-      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
-      "title": "Kon Honaar Crorepati MAR",
-      "eventTitle": "Kon Honaar Crorepati MAR",
-      "catalogMetadata": {
-        "catalog": {
-          "type": "LIVE_EVENT_ITEM",
-          "entityType": "LIVE_EVENT_ITEM",
-          "title": "Kon Honaar Crorepati MAR",
-          "eventTitle": "Kon Honaar Crorepati MAR",
-          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
-          "originalLanguages": [
-            "Marathi"
-          ],
-          "primarySpokenLanguages": [
-            "Marathi"
-          ]
-        },
-        "images": {
-          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-          "boxartImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg",
-          "heroImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "liveEventDateTime": {
-          "startTimeMillis": 1795186800000,
-          "startTimeIST": "Today 8:30 PM IST"
-        },
-        "entityClassifications": [
-          "Sports"
-        ]
-      },
-      "liveSchedule": {
-        "status": "LIVE",
-        "timeBadge": "LIVE",
-        "liveliness": "LIVE"
-      },
-      "images": {
-        "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-4X3/en-US._UR1920,1080_.jpg"
-        },
-        "coverImageFragments": {
-          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
-        },
-        "heroImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/CAROUSEL-BACKGROUND-COMPACT-FORM-16X9/en-US._UR1920,1080_.jpeg"
-        }
-      },
-      "providerLogoInfo": {
-        "name": "SonyLIV",
-        "message": "sonyliv",
-        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
-      },
-      "playback_details": {
-        "keys_extracted_time": "08:32:50 PM 20-11-2026",
-        "playback_url": [
-          {
-            "cdn": "Cloudfront_bom",
-            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
-          }
-        ],
-        "clearkey_pairs": [
-          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
-          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
-        ],
-        "jwk_keys": {
-          "keys": [
-            {
-              "kty": "oct",
-              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
-              "k": "KtezuJuEkSeQ07R9zQUiUg"
-            },
-            {
-              "kty": "oct",
-              "kid": "t3DVtLtrWU2vmFhFqumqXw",
-              "k": "sMtG0tMc8ES8c9tx6YZfbw"
-            }
-          ]
-        }
-      }
-    },
-    {
       "titleId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "streamId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
       "title": "Kaun Banega Crorepati HIN",
-      "eventTitle": "Kaun Banega Crorepati HIN",
+      "eventTitle": "Kaun Banega Crorepati",
       "catalogMetadata": {
         "catalog": {
           "type": "LIVE_EVENT_ITEM",
           "entityType": "LIVE_EVENT_ITEM",
           "title": "Kaun Banega Crorepati HIN",
-          "eventTitle": "Kaun Banega Crorepati HIN",
-          "eventId": "amzn1.dv.gti.5e7bfbf8-7200-4deb-b5d1-ef40eb14df22",
+          "eventTitle": "Kaun Banega Crorepati",
+          "eventId": "amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d",
           "originalLanguages": [
             "Hindi"
           ],
@@ -366,8 +204,8 @@
           "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795186800000,
-          "startTimeIST": "Today 8:30 PM IST"
+          "startTimeMillis": 1795168800000,
+          "startTimeIST": "Today 3:30 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -423,16 +261,97 @@
       }
     },
     {
+      "titleId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
+      "streamId": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
+      "title": "Kon Honaar Crorepati MAR",
+      "eventTitle": "Kon Honaar Crorepati",
+      "catalogMetadata": {
+        "catalog": {
+          "type": "LIVE_EVENT_ITEM",
+          "entityType": "LIVE_EVENT_ITEM",
+          "title": "Kon Honaar Crorepati MAR",
+          "eventTitle": "Kon Honaar Crorepati",
+          "eventId": "amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25",
+          "originalLanguages": [
+            "Marathi"
+          ],
+          "primarySpokenLanguages": [
+            "Marathi"
+          ]
+        },
+        "images": {
+          "coverImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "boxartImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+          "heroImage": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "liveEventDateTime": {
+          "startTimeMillis": 1795168800000,
+          "startTimeIST": "Today 3:30 PM IST"
+        },
+        "entityClassifications": [
+          "Sports"
+        ]
+      },
+      "liveSchedule": {
+        "status": "LIVE",
+        "timeBadge": "LIVE",
+        "liveliness": "LIVE"
+      },
+      "images": {
+        "coverImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "boxArtImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        },
+        "heroImageFragments": {
+          "mediaCentralUrl": "https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69cd7e43-1456-4bce-a639-bcd15b772b25/1/BOXART-16X9/en-US._UR1920,1080_.jpeg"
+        }
+      },
+      "providerLogoInfo": {
+        "name": "SonyLIV",
+        "message": "sonyliv",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/sonylivin/logos/channels-logo-white._CB765696056_.png"
+      },
+      "playback_details": {
+        "keys_extracted_time": "08:32:50 PM 20-11-2026",
+        "playback_url": [
+          {
+            "cdn": "Cloudfront_bom",
+            "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd"
+          }
+        ],
+        "clearkey_pairs": [
+          "d6064892df45760a59b8c4f8fb041550:2ad7b3b89b84912790d3b47dcd052252",
+          "b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f"
+        ],
+        "jwk_keys": {
+          "keys": [
+            {
+              "kty": "oct",
+              "kid": "1gZIkt9FdgpZuMT4-wQVUA",
+              "k": "KtezuJuEkSeQ07R9zQUiUg"
+            },
+            {
+              "kty": "oct",
+              "kid": "t3DVtLtrWU2vmFhFqumqXw",
+              "k": "sMtG0tMc8ES8c9tx6YZfbw"
+            }
+          ]
+        }
+      }
+    },
+    {
       "titleId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
       "streamId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "title": "NBA TV International: WNBL Full Court",
-      "eventTitle": "NBA TV International: WNBL Full Court",
+      "title": "NBA TV International: The Association: Post Up\n(",
+      "eventTitle": "NBA TV International: The Association: Post Up\n(",
       "catalogMetadata": {
         "catalog": {
           "type": "LINEAR_STATION_ITEM",
           "entityType": "LINEAR_STATION_ITEM",
-          "title": "NBA TV International: WNBL Full Court",
-          "eventTitle": "NBA TV International: WNBL Full Court",
+          "title": "NBA TV International: The Association: Post Up\n(",
+          "eventTitle": "NBA TV International: The Association: Post Up\n(",
           "eventId": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
           "originalLanguages": [
             "English"
@@ -442,13 +361,13 @@
           ]
         },
         "images": {
-          "coverImage": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg",
-          "boxartImage": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg",
+          "coverImage": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
+          "boxartImage": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg",
           "heroImage": ""
         },
         "liveEventDateTime": {
-          "startTimeMillis": 1795186800000,
-          "startTimeIST": "Today 8:30 PM IST"
+          "startTimeMillis": 1795188600000,
+          "startTimeIST": "Today 9:00 PM IST"
         },
         "entityClassifications": [
           "Sports"
@@ -460,10 +379,6 @@
         "liveliness": "LIVE",
         "venue": "24/7 Linear Channel (NBA TV International)",
         "upcomingSchedule": [
-          {
-            "title": "The Association: Post Up\n(",
-            "startTimeIST": "Today 9:00 PM IST"
-          },
           {
             "title": "NBA Playback: NBA Playback",
             "startTimeIST": "Today 9:30 PM IST"
@@ -500,10 +415,10 @@
       },
       "images": {
         "boxArtImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/818IXmG3ETL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/511H2Jn5x1L.jpg"
         },
         "coverImageFragments": {
-          "mediaCentralUrl": "https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg"
+          "mediaCentralUrl": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg"
         },
         "heroImageFragments": {}
       },
